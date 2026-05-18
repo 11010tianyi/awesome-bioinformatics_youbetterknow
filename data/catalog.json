@@ -1,19 +1,27 @@
 [
   {
-    "name": "Awesome-Bioinformatics",
-    "type": "awesome-list",
-    "url": "https://github.com/danielecook/Awesome-Bioinformatics",
-    "github": "danielecook/Awesome-Bioinformatics",
-    "stars_snapshot_2026_05_17": 4033,
-    "tags": ["index", "bioinformatics", "awesome"]
-  },
-  {
     "name": "awesome-ai-bioinformatics",
     "type": "awesome-list",
     "url": "https://github.com/HongxinXiang/awesome-ai-bioinformatics",
     "github": "HongxinXiang/awesome-ai-bioinformatics",
     "stars_snapshot_2026_05_17": 54,
-    "tags": ["ai", "bioinformatics", "awesome"]
+    "tags": [
+      "ai",
+      "bioinformatics",
+      "awesome"
+    ]
+  },
+  {
+    "name": "Awesome-Bioinformatics",
+    "type": "awesome-list",
+    "url": "https://github.com/danielecook/Awesome-Bioinformatics",
+    "github": "danielecook/Awesome-Bioinformatics",
+    "stars_snapshot_2026_05_17": 4033,
+    "tags": [
+      "index",
+      "bioinformatics",
+      "awesome"
+    ]
   },
   {
     "name": "nf-core",
@@ -21,7 +29,61 @@
     "url": "https://nf-co.re/",
     "github": "nf-core/tools",
     "stars_snapshot_2026_05_17": 307,
-    "tags": ["nextflow", "pipelines", "reproducibility"]
+    "tags": [
+      "nextflow",
+      "pipelines",
+      "reproducibility"
+    ]
+  },
+  {
+    "name": "boltz",
+    "type": "workflow-engine",
+    "url": "https://github.com/jwohlwend/boltz",
+    "github": "jwohlwend/boltz",
+    "tags": [
+      "auto-discovered",
+      "binding-prediction",
+      "drug-discovery",
+      "protein-structure"
+    ],
+    "description": "Official repository for the Boltz biomolecular interaction models",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:3972; text:protein+pipeline",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-17T04:53:49Z",
+    "pushed_at": "2026-03-29T06:39:25Z",
+    "forks_snapshot": 824,
+    "stars_snapshot_2026_05_18": 3972
+  },
+  {
+    "name": "deepchem",
+    "type": "workflow-engine",
+    "url": "https://github.com/deepchem/deepchem",
+    "github": "deepchem/deepchem",
+    "tags": [
+      "auto-discovered",
+      "biology",
+      "deep-learning",
+      "drug-discovery",
+      "hacktoberfest",
+      "materials-science",
+      "quantum-chemistry"
+    ],
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+    "homepage": "https://deepchem.io/",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:6746; text:biology+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-17T21:26:07Z",
+    "pushed_at": "2026-03-02T19:45:13Z",
+    "forks_snapshot": 2237,
+    "stars_snapshot_2026_05_18": 6746
   },
   {
     "name": "Nextflow",
@@ -29,7 +91,12 @@
     "url": "https://www.nextflow.io/",
     "github": "nextflow-io/nextflow",
     "stars_snapshot_2026_05_17": 3385,
-    "tags": ["workflow", "dsl", "hpc", "cloud"]
+    "tags": [
+      "workflow",
+      "dsl",
+      "hpc",
+      "cloud"
+    ]
   },
   {
     "name": "Snakemake",
@@ -37,7 +104,11 @@
     "url": "https://snakemake.github.io/",
     "github": "snakemake/snakemake",
     "stars_snapshot_2026_05_17": 2778,
-    "tags": ["workflow", "python", "reproducibility"]
+    "tags": [
+      "workflow",
+      "python",
+      "reproducibility"
+    ]
   },
   {
     "name": "Galaxy",
@@ -45,7 +116,12 @@
     "url": "https://galaxyproject.org/",
     "github": "galaxyproject/galaxy",
     "stars_snapshot_2026_05_17": 1773,
-    "tags": ["web", "workflow", "training", "toolshed"]
+    "tags": [
+      "web",
+      "workflow",
+      "training",
+      "toolshed"
+    ]
   },
   {
     "name": "Bioconductor",
@@ -53,7 +129,11 @@
     "url": "https://www.bioconductor.org/",
     "github": "Bioconductor/BiocManager",
     "stars_snapshot_2026_05_17": 76,
-    "tags": ["r", "omics", "statistics"]
+    "tags": [
+      "r",
+      "omics",
+      "statistics"
+    ]
   },
   {
     "name": "Bioconda",
@@ -61,7 +141,11 @@
     "url": "https://bioconda.github.io/",
     "github": "bioconda/bioconda-recipes",
     "stars_snapshot_2026_05_17": 1819,
-    "tags": ["conda", "packages", "reproducibility"]
+    "tags": [
+      "conda",
+      "packages",
+      "reproducibility"
+    ]
   },
   {
     "name": "BioContainers",
@@ -69,7 +153,11 @@
     "url": "https://biocontainers.pro/",
     "github": "BioContainers/containers",
     "stars_snapshot_2026_05_17": 787,
-    "tags": ["containers", "docker", "singularity"]
+    "tags": [
+      "containers",
+      "docker",
+      "singularity"
+    ]
   },
   {
     "name": "MultiQC",
@@ -77,7 +165,11 @@
     "url": "https://multiqc.info/",
     "github": "MultiQC/MultiQC",
     "stars_snapshot_2026_05_17": 1450,
-    "tags": ["qc", "reports", "multi-sample"]
+    "tags": [
+      "qc",
+      "reports",
+      "multi-sample"
+    ]
   },
   {
     "name": "Biopython",
@@ -85,7 +177,11 @@
     "url": "https://biopython.org/",
     "github": "biopython/biopython",
     "stars_snapshot_2026_05_17": 5024,
-    "tags": ["python", "sequence", "parsing"]
+    "tags": [
+      "python",
+      "sequence",
+      "parsing"
+    ]
   },
   {
     "name": "SAMtools",
@@ -93,15 +189,11 @@
     "url": "https://www.htslib.org/",
     "github": "samtools/samtools",
     "stars_snapshot_2026_05_17": 1897,
-    "tags": ["bam", "cram", "hts"]
-  },
-  {
-    "name": "GATK",
-    "type": "variant-toolkit",
-    "url": "https://gatk.broadinstitute.org/",
-    "github": "broadinstitute/gatk",
-    "stars_snapshot_2026_05_17": 1946,
-    "tags": ["variants", "germline", "somatic"]
+    "tags": [
+      "bam",
+      "cram",
+      "hts"
+    ]
   },
   {
     "name": "DeepVariant",
@@ -109,7 +201,23 @@
     "url": "https://github.com/google/deepvariant",
     "github": "google/deepvariant",
     "stars_snapshot_2026_05_17": 3703,
-    "tags": ["variants", "deep-learning", "ngs"]
+    "tags": [
+      "variants",
+      "deep-learning",
+      "ngs"
+    ]
+  },
+  {
+    "name": "GATK",
+    "type": "variant-toolkit",
+    "url": "https://gatk.broadinstitute.org/",
+    "github": "broadinstitute/gatk",
+    "stars_snapshot_2026_05_17": 1946,
+    "tags": [
+      "variants",
+      "germline",
+      "somatic"
+    ]
   },
   {
     "name": "Scanpy",
@@ -117,7 +225,40 @@
     "url": "https://scanpy.readthedocs.io/",
     "github": "scverse/scanpy",
     "stars_snapshot_2026_05_17": 2457,
-    "tags": ["single-cell", "python", "anndata"]
+    "tags": [
+      "single-cell",
+      "python",
+      "anndata"
+    ]
+  },
+  {
+    "name": "scientific-agent-skills",
+    "type": "single-cell-library",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "github": "K-Dense-AI/scientific-agent-skills",
+    "tags": [
+      "auto-discovered",
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research"
+    ],
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "homepage": "https://k-dense.ai",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:24061; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-18T08:53:49Z",
+    "pushed_at": "2026-05-18T03:47:43Z",
+    "forks_snapshot": 2553,
+    "stars_snapshot_2026_05_18": 24061
   },
   {
     "name": "Seurat",
@@ -125,7 +266,11 @@
     "url": "https://satijalab.org/seurat/",
     "github": "satijalab/seurat",
     "stars_snapshot_2026_05_17": 2727,
-    "tags": ["single-cell", "r", "integration"]
+    "tags": [
+      "single-cell",
+      "r",
+      "integration"
+    ]
   },
   {
     "name": "CELLxGENE",
@@ -133,23 +278,11 @@
     "url": "https://cellxgene.cziscience.com/",
     "github": "chanzuckerberg/cellxgene",
     "stars_snapshot_2026_05_17": 767,
-    "tags": ["single-cell", "browser", "atlas"]
-  },
-  {
-    "name": "cBioPortal",
-    "type": "cancer-genomics-platform",
-    "url": "https://www.cbioportal.org/",
-    "github": "cBioPortal/cbioportal",
-    "stars_snapshot_2026_05_17": 1006,
-    "tags": ["cancer", "genomics", "web"]
-  },
-  {
-    "name": "Ensembl VEP",
-    "type": "variant-annotation",
-    "url": "https://www.ensembl.org/info/docs/tools/vep/index.html",
-    "github": "Ensembl/ensembl-vep",
-    "stars_snapshot_2026_05_17": 549,
-    "tags": ["variants", "annotation", "ensembl"]
+    "tags": [
+      "single-cell",
+      "browser",
+      "atlas"
+    ]
   },
   {
     "name": "AlphaFold",
@@ -157,7 +290,35 @@
     "url": "https://github.com/google-deepmind/alphafold",
     "github": "google-deepmind/alphafold",
     "stars_snapshot_2026_05_17": 14592,
-    "tags": ["protein", "structure", "ai"]
+    "tags": [
+      "protein",
+      "structure",
+      "ai"
+    ]
+  },
+  {
+    "name": "cBioPortal",
+    "type": "cancer-genomics-platform",
+    "url": "https://www.cbioportal.org/",
+    "github": "cBioPortal/cbioportal",
+    "stars_snapshot_2026_05_17": 1006,
+    "tags": [
+      "cancer",
+      "genomics",
+      "web"
+    ]
+  },
+  {
+    "name": "Ensembl VEP",
+    "type": "variant-annotation",
+    "url": "https://www.ensembl.org/info/docs/tools/vep/index.html",
+    "github": "Ensembl/ensembl-vep",
+    "stars_snapshot_2026_05_17": 549,
+    "tags": [
+      "variants",
+      "annotation",
+      "ensembl"
+    ]
   },
   {
     "name": "OpenFold",
@@ -165,7 +326,11 @@
     "url": "https://github.com/aqlaboratory/openfold",
     "github": "aqlaboratory/openfold",
     "stars_snapshot_2026_05_17": 3356,
-    "tags": ["protein", "structure", "pytorch"]
+    "tags": [
+      "protein",
+      "structure",
+      "pytorch"
+    ]
   },
   {
     "name": "ESM",
@@ -173,7 +338,11 @@
     "url": "https://github.com/facebookresearch/esm",
     "github": "facebookresearch/esm",
     "stars_snapshot_2026_05_17": 4078,
-    "tags": ["protein", "language-model", "embedding"]
+    "tags": [
+      "protein",
+      "language-model",
+      "embedding"
+    ]
   },
   {
     "name": "MMseqs2",
@@ -181,15 +350,11 @@
     "url": "https://github.com/soedinglab/MMseqs2",
     "github": "soedinglab/MMseqs2",
     "stars_snapshot_2026_05_17": 2059,
-    "tags": ["sequence-search", "clustering", "protein"]
-  },
-  {
-    "name": "RFdiffusion",
-    "type": "protein-design-ai",
-    "url": "https://github.com/RosettaCommons/RFdiffusion",
-    "github": "RosettaCommons/RFdiffusion",
-    "stars_snapshot_2026_05_17": 2866,
-    "tags": ["protein-design", "diffusion", "ai"]
+    "tags": [
+      "sequence-search",
+      "clustering",
+      "protein"
+    ]
   },
   {
     "name": "ProteinMPNN",
@@ -197,6 +362,75 @@
     "url": "https://github.com/dauparas/ProteinMPNN",
     "github": "dauparas/ProteinMPNN",
     "stars_snapshot_2026_05_17": 1726,
-    "tags": ["protein-design", "sequence-design", "ai"]
+    "tags": [
+      "protein-design",
+      "sequence-design",
+      "ai"
+    ]
+  },
+  {
+    "name": "RFdiffusion",
+    "type": "protein-design-ai",
+    "url": "https://github.com/RosettaCommons/RFdiffusion",
+    "github": "RosettaCommons/RFdiffusion",
+    "stars_snapshot_2026_05_17": 2866,
+    "tags": [
+      "protein-design",
+      "diffusion",
+      "ai"
+    ]
+  },
+  {
+    "name": "cs-video-courses",
+    "type": "discovered-github-repo",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "github": "Developer-Y/cs-video-courses",
+    "tags": [
+      "auto-discovered",
+      "algorithms",
+      "bioinformatics",
+      "computational-biology",
+      "computational-physics",
+      "computer-architecture",
+      "computer-science",
+      "computer-vision",
+      "database-systems"
+    ],
+    "description": "List of Computer Science courses with video lectures.",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:81396; text:biology+analysis",
+    "updated_at": "2026-05-18T08:46:43Z",
+    "pushed_at": "2026-05-10T19:22:40Z",
+    "forks_snapshot": 11244,
+    "stars_snapshot_2026_05_18": 81396
+  },
+  {
+    "name": "DeepLearningExamples",
+    "type": "discovered-github-repo",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "github": "NVIDIA/DeepLearningExamples",
+    "tags": [
+      "auto-discovered",
+      "computer-vision",
+      "deep-learning",
+      "drug-discovery",
+      "forecasting",
+      "large-language-models",
+      "mxnet",
+      "nlp",
+      "paddlepaddle"
+    ],
+    "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:14805; text:medical+deep learning",
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-05-16T02:37:16Z",
+    "pushed_at": "2024-08-12T14:01:29Z",
+    "forks_snapshot": 3410,
+    "stars_snapshot_2026_05_18": 14805
   }
 ]
