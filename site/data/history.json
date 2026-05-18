@@ -1,7 +1,7 @@
 {
   "snapshots": [
     {
-      "generatedAt": "2026-05-18T08:59:22.264Z",
+      "generatedAt": "2026-05-18T09:02:16.166Z",
       "date": "2026-05-18",
       "projects": [
         {
@@ -85,14 +85,6 @@
           "score": 122.6
         },
         {
-          "id": "k-dense-ai-scientific-agent-skills",
-          "name": "scientific-agent-skills",
-          "repo": "K-Dense-AI/scientific-agent-skills",
-          "stars": 24065,
-          "forks": 2553,
-          "score": 122.3
-        },
-        {
           "id": "biocontainers-containers",
           "name": "BioContainers",
           "repo": "BioContainers/containers",
@@ -128,7 +120,7 @@
           "id": "google-deepmind-alphafold",
           "name": "AlphaFold",
           "repo": "google-deepmind/alphafold",
-          "stars": 14596,
+          "stars": 14595,
           "forks": 2621,
           "score": 119
         },
@@ -187,14 +179,6 @@
           "stars": 2762,
           "forks": 720,
           "score": 114.6
-        },
-        {
-          "id": "developer-y-cs-video-courses",
-          "name": "cs-video-courses",
-          "repo": "Developer-Y/cs-video-courses",
-          "stars": 81396,
-          "forks": 11244,
-          "score": 114.5
         },
         {
           "id": "bioconductor-biocmanager",
@@ -275,14 +259,6 @@
           "stars": 1727,
           "forks": 464,
           "score": 106.4
-        },
-        {
-          "id": "nvidia-deeplearningexamples",
-          "name": "DeepLearningExamples",
-          "repo": "NVIDIA/DeepLearningExamples",
-          "stars": 14805,
-          "forks": 3410,
-          "score": 105
         }
       ]
     }

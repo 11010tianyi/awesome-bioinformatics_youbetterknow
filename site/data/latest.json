@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-05-18T08:59:22.264Z",
+  "generatedAt": "2026-05-18T09:02:16.166Z",
   "generatedDate": "2026-05-18",
-  "generatedDateTime": "2026/05/18 16:59:22",
+  "generatedDateTime": "2026/05/18 17:02:16",
   "timezone": "Asia/Shanghai",
   "totals": {
-    "projects": 35,
-    "repos": 35,
-    "stars": 210880,
-    "forks": 44901,
-    "discovered": 10,
-    "categories": 21
+    "projects": 32,
+    "repos": 32,
+    "stars": 90613,
+    "forks": 27694,
+    "discovered": 7,
+    "categories": 20
   },
   "projects": [
     {
@@ -349,48 +349,6 @@
     },
     {
       "rank": 11,
-      "id": "k-dense-ai-scientific-agent-skills",
-      "name": "scientific-agent-skills",
-      "type": "single-cell-library",
-      "typeLabel": "单细胞库",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "homepage": "https://k-dense.ai",
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "stars": 24065,
-      "forks": 2553,
-      "openIssues": 32,
-      "pushedAt": "2026-05-18T03:47:43Z",
-      "updatedAt": "2026-05-18T08:58:23Z",
-      "language": "Python",
-      "license": "MIT",
-      "score": 122.3,
-      "tags": [
-        "auto-discovered",
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-      "discovered": true,
-      "discoveredAt": "2026-05-18",
-      "discoveryReason": "topic:bioinformatics; stars:24061; text:bioinformatics+workflow"
-    },
-    {
-      "rank": 12,
       "id": "biocontainers-containers",
       "name": "BioContainers",
       "type": "container-registry",
@@ -424,7 +382,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "biopython-biopython",
       "name": "Biopython",
       "type": "library",
@@ -459,7 +417,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "multiqc-multiqc",
       "name": "MultiQC",
       "type": "reporting-tool",
@@ -497,7 +455,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "rdkit-rdkit",
       "name": "rdkit",
       "type": "library",
@@ -526,7 +484,7 @@
       "discoveryReason": "topic:cheminformatics; stars:3431; text:cheminformatics+database"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "google-deepmind-alphafold",
       "name": "AlphaFold",
       "type": "protein-structure-ai",
@@ -534,11 +492,11 @@
       "url": "https://github.com/google-deepmind/alphafold",
       "homepage": null,
       "repo": "google-deepmind/alphafold",
-      "stars": 14596,
+      "stars": 14595,
       "forks": 2621,
       "openIssues": 304,
       "pushedAt": "2026-04-22T17:58:21Z",
-      "updatedAt": "2026-05-18T07:54:47Z",
+      "updatedAt": "2026-05-18T09:01:08Z",
       "language": "Python",
       "license": "Apache-2.0",
       "score": 119,
@@ -553,7 +511,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": "google-deepvariant",
       "name": "DeepVariant",
       "type": "ai-variant-caller",
@@ -590,7 +548,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "samtools-samtools",
       "name": "SAMtools",
       "type": "cli-toolkit",
@@ -617,7 +575,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "seandavi-awesome-single-cell",
       "name": "awesome-single-cell",
       "type": "single-cell-library",
@@ -661,7 +619,7 @@
       "discoveryReason": "topic:bioinformatics; stars:3735; text:bioinformatics+workflow"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": "broadinstitute-gatk",
       "name": "GATK",
       "type": "variant-toolkit",
@@ -697,7 +655,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "satijalab-seurat",
       "name": "Seurat",
       "type": "single-cell-library",
@@ -728,7 +686,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "scverse-scanpy",
       "name": "Scanpy",
       "type": "single-cell-library",
@@ -762,7 +720,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": "sokrypton-colabfold",
       "name": "ColabFold",
       "type": "protein-structure-ai",
@@ -791,50 +749,7 @@
       "discoveryReason": "topic:bioinformatics; stars:2762; text:biological+database"
     },
     {
-      "rank": 24,
-      "id": "developer-y-cs-video-courses",
-      "name": "cs-video-courses",
-      "type": "discovered-github-repo",
-      "typeLabel": "自动发现",
-      "url": "https://github.com/Developer-Y/cs-video-courses",
-      "homepage": null,
-      "repo": "Developer-Y/cs-video-courses",
-      "stars": 81396,
-      "forks": 11244,
-      "openIssues": 4,
-      "pushedAt": "2026-05-10T19:22:40Z",
-      "updatedAt": "2026-05-18T08:46:43Z",
-      "language": null,
-      "license": null,
-      "score": 114.5,
-      "tags": [
-        "auto-discovered",
-        "algorithms",
-        "bioinformatics",
-        "computational-biology",
-        "computational-physics",
-        "computer-architecture",
-        "computer-science",
-        "computer-vision",
-        "database-systems",
-        "databases",
-        "deep-learning",
-        "embedded-systems",
-        "machine-learning",
-        "quantum-computing",
-        "reinforcement-learning",
-        "robotics",
-        "security",
-        "systems",
-        "web-development"
-      ],
-      "description": "List of Computer Science courses with video lectures.",
-      "discovered": true,
-      "discoveredAt": "2026-05-18",
-      "discoveryReason": "topic:bioinformatics; stars:81396; text:biology+analysis"
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "id": "bioconductor-biocmanager",
       "name": "Bioconductor",
       "type": "package-ecosystem",
@@ -864,7 +779,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 26,
+      "rank": 24,
       "id": "aqlaboratory-openfold",
       "name": "OpenFold",
       "type": "protein-structure-ai",
@@ -893,7 +808,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 27,
+      "rank": 25,
       "id": "soedinglab-mmseqs2",
       "name": "MMseqs2",
       "type": "sequence-search",
@@ -929,7 +844,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 28,
+      "rank": 26,
       "id": "rosettacommons-rfdiffusion",
       "name": "RFdiffusion",
       "type": "protein-design-ai",
@@ -956,7 +871,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 29,
+      "rank": 27,
       "id": "chanzuckerberg-cellxgene",
       "name": "CELLxGENE",
       "type": "single-cell-browser",
@@ -988,7 +903,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 30,
+      "rank": 28,
       "id": "cbioportal-cbioportal",
       "name": "cBioPortal",
       "type": "cancer-genomics-platform",
@@ -1019,7 +934,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 31,
+      "rank": 29,
       "id": "hongxinxiang-awesome-ai-bioinformatics",
       "name": "awesome-ai-bioinformatics",
       "type": "awesome-list",
@@ -1051,7 +966,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 32,
+      "rank": 30,
       "id": "ensembl-ensembl-vep",
       "name": "Ensembl VEP",
       "type": "variant-annotation",
@@ -1078,7 +993,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 33,
+      "rank": 31,
       "id": "facebookresearch-esm",
       "name": "ESM",
       "type": "protein-language-model",
@@ -1105,7 +1020,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 34,
+      "rank": 32,
       "id": "dauparas-proteinmpnn",
       "name": "ProteinMPNN",
       "type": "protein-design-ai",
@@ -1130,46 +1045,6 @@
       "discovered": false,
       "discoveredAt": null,
       "discoveryReason": null
-    },
-    {
-      "rank": 35,
-      "id": "nvidia-deeplearningexamples",
-      "name": "DeepLearningExamples",
-      "type": "discovered-github-repo",
-      "typeLabel": "自动发现",
-      "url": "https://github.com/NVIDIA/DeepLearningExamples",
-      "homepage": null,
-      "repo": "NVIDIA/DeepLearningExamples",
-      "stars": 14805,
-      "forks": 3410,
-      "openIssues": 323,
-      "pushedAt": "2024-08-12T14:01:29Z",
-      "updatedAt": "2026-05-16T02:37:16Z",
-      "language": "Jupyter Notebook",
-      "license": null,
-      "score": 105,
-      "tags": [
-        "auto-discovered",
-        "computer-vision",
-        "deep-learning",
-        "drug-discovery",
-        "forecasting",
-        "large-language-models",
-        "mxnet",
-        "nlp",
-        "paddlepaddle",
-        "pytorch",
-        "recommender-systems",
-        "speech-recognition",
-        "speech-synthesis",
-        "tensorflow",
-        "tensorflow2",
-        "translation"
-      ],
-      "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
-      "discovered": true,
-      "discoveredAt": "2026-05-18",
-      "discoveryReason": "topic:drug-discovery; stars:14805; text:medical+deep learning"
     }
   ]
 }

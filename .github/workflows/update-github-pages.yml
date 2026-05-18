@@ -37,6 +37,7 @@ jobs:
           enablement: true
 
       - name: Discover new seed projects
+        if: github.event_name != 'push'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DISCOVERY_MIN_STARS: "10"

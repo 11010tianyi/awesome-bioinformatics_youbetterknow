@@ -336,35 +336,6 @@
     ]
   },
   {
-    "name": "scientific-agent-skills",
-    "type": "single-cell-library",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "github": "K-Dense-AI/scientific-agent-skills",
-    "tags": [
-      "auto-discovered",
-      "agent-skills",
-      "ai-scientist",
-      "bioinformatics",
-      "chemoinformatics",
-      "claude",
-      "claude-skills",
-      "claudecode",
-      "clinical-research"
-    ],
-    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-    "homepage": "https://k-dense.ai",
-    "discovered": true,
-    "discovered_at": "2026-05-18",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:24061; text:bioinformatics+workflow",
-    "language": "Python",
-    "license": "MIT",
-    "updated_at": "2026-05-18T08:53:49Z",
-    "pushed_at": "2026-05-18T03:47:43Z",
-    "forks_snapshot": 2553,
-    "stars_snapshot_2026_05_18": 24061
-  },
-  {
     "name": "Seurat",
     "type": "single-cell-library",
     "url": "https://satijalab.org/seurat/",
@@ -507,58 +478,5 @@
       "diffusion",
       "ai"
     ]
-  },
-  {
-    "name": "cs-video-courses",
-    "type": "discovered-github-repo",
-    "url": "https://github.com/Developer-Y/cs-video-courses",
-    "github": "Developer-Y/cs-video-courses",
-    "tags": [
-      "auto-discovered",
-      "algorithms",
-      "bioinformatics",
-      "computational-biology",
-      "computational-physics",
-      "computer-architecture",
-      "computer-science",
-      "computer-vision",
-      "database-systems"
-    ],
-    "description": "List of Computer Science courses with video lectures.",
-    "discovered": true,
-    "discovered_at": "2026-05-18",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:81396; text:biology+analysis",
-    "updated_at": "2026-05-18T08:46:43Z",
-    "pushed_at": "2026-05-10T19:22:40Z",
-    "forks_snapshot": 11244,
-    "stars_snapshot_2026_05_18": 81396
-  },
-  {
-    "name": "DeepLearningExamples",
-    "type": "discovered-github-repo",
-    "url": "https://github.com/NVIDIA/DeepLearningExamples",
-    "github": "NVIDIA/DeepLearningExamples",
-    "tags": [
-      "auto-discovered",
-      "computer-vision",
-      "deep-learning",
-      "drug-discovery",
-      "forecasting",
-      "large-language-models",
-      "mxnet",
-      "nlp",
-      "paddlepaddle"
-    ],
-    "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
-    "discovered": true,
-    "discovered_at": "2026-05-18",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:drug-discovery; stars:14805; text:medical+deep learning",
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-05-16T02:37:16Z",
-    "pushed_at": "2024-08-12T14:01:29Z",
-    "forks_snapshot": 3410,
-    "stars_snapshot_2026_05_18": 14805
   }
 ]

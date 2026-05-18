@@ -97,10 +97,17 @@ const BIO_TERMS = [
   "metabolomics",
   "metagenomics",
   "single-cell",
+  "fastq",
+  "fasta",
   "sequencing",
+  "molecular",
+  "molecule",
+  "biomolecular",
   "variant",
   "microbiome",
   "protein",
+  "protein folding",
+  "drug",
   "drug discovery",
   "cheminformatics",
   "clinical",
@@ -127,6 +134,21 @@ const RELATED_TERMS = [
   "package",
   "library",
   "framework",
+];
+
+const DISCOVERY_NEGATIVE_TERMS = [
+  "course",
+  "courses",
+  "homework",
+  "assignment",
+  "leetcode",
+  "interview",
+  "curriculum",
+  "lecture",
+  "video courses",
+  "deep learning examples",
+  "example models",
+  "sample code",
 ];
 
 const TYPE_LABELS: Record<string, string> = {
@@ -335,9 +357,12 @@ async function fetchReadmeText(repo: string, token?: string): Promise<string> {
 function passesDiscoveryFilters(repo: RepoStats, readme: string, existingRepos: Set<string>, minStars: number) {
   const normalized = repo.fullName.toLowerCase();
   const text = `${repo.description ?? ""}\n${readme}`;
+  const summaryText = `${repo.fullName}\n${repo.description ?? ""}`;
   const hasAllowedTopic = repo.topics.some((topic) => DISCOVERY_TOPICS.includes(topic.toLowerCase()));
+  const hasBioTermInSummary = includesAny(summaryText, BIO_TERMS);
   const hasBioTerm = includesAny(text, BIO_TERMS);
   const hasRelatedTerm = includesAny(text, RELATED_TERMS);
+  const hasNegativeSignal = includesAny(summaryText, DISCOVERY_NEGATIVE_TERMS);
   return (
     !existingRepos.has(normalized) &&
     !repo.archived &&
@@ -345,8 +370,10 @@ function passesDiscoveryFilters(repo: RepoStats, readme: string, existingRepos: 
     typeof repo.stars === "number" &&
     repo.stars >= minStars &&
     hasAllowedTopic &&
+    hasBioTermInSummary &&
     hasBioTerm &&
-    hasRelatedTerm
+    hasRelatedTerm &&
+    !hasNegativeSignal
   );
 }
 
