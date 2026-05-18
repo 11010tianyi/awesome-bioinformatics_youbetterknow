@@ -124,6 +124,30 @@ select:focus-visible {
   background: rgba(255, 255, 255, 0.1);
 }
 
+.visitor-meter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-height: 42px;
+  padding: 10px 12px;
+  border: 1px solid rgba(245, 248, 243, 0.14);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.visitor-meter span {
+  color: rgba(245, 248, 243, 0.72);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.visitor-meter img {
+  display: block;
+  max-width: 112px;
+  height: 20px;
+}
+
 .guardrail-box {
   padding: 14px;
   border: 1px solid rgba(245, 248, 243, 0.14);
