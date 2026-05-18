@@ -1,10 +1,10 @@
 # Awesome Bioinformatics YouBetterKnow - Daily GitHub Snapshot
 
-> Generated at 2026/05/18 17:03:53 Asia/Shanghai. GitHub stars/forks are live API snapshots; scientific usefulness still requires version, license, and data-contract checks.
+> Generated at 2026/05/18 17:33:14 Asia/Shanghai. GitHub stars/forks are live API snapshots; scientific usefulness still requires version, license, and data-contract checks.
 
 - Projects: **32**
 - GitHub repos: **32**
-- Total stars: **90,613**
+- Total stars: **90,614**
 - Auto-discovered entries: **7**
 
 | Rank | Score | Project | Type | Stars | Forks | Updated | Tags | Description |
@@ -12,7 +12,7 @@
 | 1 | 131.6 | [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) | Awesome 清单 | 4036 | 707 | 2026-04-07 | index, bioinformatics, awesome, awesome-list | A curated list of awesome Bioinformatics libraries and software. |
 | 2 | 129 | [deepchem](https://github.com/deepchem/deepchem) | 工作流引擎 | 6746 | 2237 | 2026-03-02 | auto-discovered, biology, deep-learning, drug-discovery | Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology |
 | 3 | 127.6 | [boltz](https://github.com/jwohlwend/boltz) | 工作流引擎 | 3972 | 824 | 2026-03-29 | auto-discovered, binding-prediction, drug-discovery, protein-structure | Official repository for the Boltz biomolecular interaction models |
-| 4 | 127.2 | [Nextflow](https://github.com/nextflow-io/nextflow) | 工作流引擎 | 3386 | 784 | 2026-05-18 | workflow, dsl, hpc, cloud | A DSL for data-driven computational pipelines |
+| 4 | 127.2 | [Nextflow](https://github.com/nextflow-io/nextflow) | 工作流引擎 | 3387 | 784 | 2026-05-18 | workflow, dsl, hpc, cloud | A DSL for data-driven computational pipelines |
 | 5 | 126.7 | [Snakemake](https://github.com/snakemake/snakemake) | 工作流引擎 | 2779 | 645 | 2026-05-14 | workflow, python, reproducibility, snakemake | This is the development home of the workflow management system Snakemake. For general information, see |
 | 6 | 126.2 | [chemprop](https://github.com/chemprop/chemprop) | 工作流引擎 | 2365 | 744 | 2026-04-24 | auto-discovered, chemistry, drug-discovery, machine-learning | Message Passing Neural Networks for Molecule Property Prediction |
 | 7 | 125.2 | [fastp](https://github.com/OpenGene/fastp) | Web 平台 | 2361 | 375 | 2026-04-24 | auto-discovered, adapter, bioinformatics, duplication | An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...) |
@@ -30,7 +30,7 @@
 | 19 | 116.7 | [GATK](https://github.com/broadinstitute/gatk) | 变异分析 | 1946 | 625 | 2026-05-17 | variants, germline, somatic, bioinformatics | Official code repository for GATK versions 4 and up |
 | 20 | 116.6 | [Seurat](https://github.com/satijalab/seurat) | 单细胞库 | 2729 | 986 | 2026-05-14 | single-cell, r, integration, cran | R toolkit for single cell genomics |
 | 21 | 116.3 | [Scanpy](https://github.com/scverse/scanpy) | 单细胞库 | 2459 | 742 | 2026-05-16 | single-cell, python, anndata, bioinformatics | Single-cell analysis in Python. Scales to >100M cells. |
-| 22 | 114.6 | [ColabFold](https://github.com/sokrypton/ColabFold) | 蛋白结构 AI | 2762 | 720 | 2026-04-29 | auto-discovered, bioinformatics, multiple-sequence-alignment, protein-structure | Making Protein folding accessible to all! |
+| 22 | 114.6 | [ColabFold](https://github.com/sokrypton/ColabFold) | 蛋白结构 AI | 2762 | 721 | 2026-04-29 | auto-discovered, bioinformatics, multiple-sequence-alignment, protein-structure | Making Protein folding accessible to all! |
 | 23 | 114.3 | [Bioconductor](https://github.com/Bioconductor/BiocManager) | 包生态 | 76 | 29 | 2025-11-13 | r, omics, statistics, core-services | CRAN Package For Managing Bioconductor Packages |
 | 24 | 114.2 | [OpenFold](https://github.com/aqlaboratory/openfold) | 蛋白结构 AI | 3356 | 673 | 2025-12-16 | protein, structure, pytorch, alphafold2 | Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2 |
 | 25 | 112.9 | [MMseqs2](https://github.com/soedinglab/MMseqs2) | 序列检索 | 2060 | 286 | 2026-05-12 | sequence-search, clustering, protein, alignment | MMseqs2: ultra fast and sensitive search and clustering suite |
