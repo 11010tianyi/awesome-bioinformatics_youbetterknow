@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-18T08:56:02.261Z",
+  "generatedAt": "2026-05-18T08:59:22.264Z",
   "generatedDate": "2026-05-18",
-  "generatedDateTime": "2026/05/18 16:56:02",
+  "generatedDateTime": "2026/05/18 16:59:22",
   "timezone": "Asia/Shanghai",
   "totals": {
-    "projects": 30,
-    "repos": 30,
-    "stars": 196223,
-    "forks": 40974,
-    "discovered": 5,
+    "projects": 35,
+    "repos": 35,
+    "stars": 210880,
+    "forks": 44901,
+    "discovered": 10,
     "categories": 21
   },
   "projects": [
@@ -174,6 +174,79 @@
     },
     {
       "rank": 6,
+      "id": "chemprop-chemprop",
+      "name": "chemprop",
+      "type": "workflow-engine",
+      "typeLabel": "工作流引擎",
+      "url": "https://github.com/chemprop/chemprop",
+      "homepage": "https://chemprop.csail.mit.edu",
+      "repo": "chemprop/chemprop",
+      "stars": 2365,
+      "forks": 744,
+      "openIssues": 13,
+      "pushedAt": "2026-04-24T19:14:22Z",
+      "updatedAt": "2026-05-17T13:29:03Z",
+      "language": "Python",
+      "license": "NOASSERTION",
+      "score": 126.2,
+      "tags": [
+        "auto-discovered",
+        "chemistry",
+        "drug-discovery",
+        "machine-learning",
+        "neural-networks"
+      ],
+      "description": "Message Passing Neural Networks for Molecule Property Prediction",
+      "discovered": true,
+      "discoveredAt": "2026-05-18",
+      "discoveryReason": "topic:drug-discovery; stars:2365; text:bioinformatics+workflow"
+    },
+    {
+      "rank": 7,
+      "id": "opengene-fastp",
+      "name": "fastp",
+      "type": "web-platform",
+      "typeLabel": "Web 平台",
+      "url": "https://github.com/OpenGene/fastp",
+      "homepage": null,
+      "repo": "OpenGene/fastp",
+      "stars": 2361,
+      "forks": 375,
+      "openIssues": 401,
+      "pushedAt": "2026-04-24T13:35:51Z",
+      "updatedAt": "2026-05-17T21:03:45Z",
+      "language": "C++",
+      "license": "MIT",
+      "score": 125.2,
+      "tags": [
+        "auto-discovered",
+        "adapter",
+        "bioinformatics",
+        "duplication",
+        "fastq",
+        "filter",
+        "filtering",
+        "illumina",
+        "merging",
+        "ngs",
+        "overlap",
+        "polyg",
+        "preprocessing",
+        "qc",
+        "quality",
+        "quality-control",
+        "sequencing",
+        "splitting",
+        "trimming",
+        "umi"
+      ],
+      "description": "An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)",
+      "discovered": true,
+      "discoveredAt": "2026-05-18",
+      "discoveryReason": "topic:bioinformatics; stars:2361; text:sequencing+analysis"
+    },
+    {
+      "rank": 8,
       "id": "galaxyproject-galaxy",
       "name": "Galaxy",
       "type": "web-platform",
@@ -211,7 +284,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 7,
+      "rank": 9,
       "id": "nf-core-tools",
       "name": "nf-core",
       "type": "workflow-community",
@@ -245,7 +318,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 8,
+      "rank": 10,
       "id": "bioconda-bioconda-recipes",
       "name": "Bioconda",
       "type": "package-channel",
@@ -275,7 +348,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 9,
+      "rank": 11,
       "id": "k-dense-ai-scientific-agent-skills",
       "name": "scientific-agent-skills",
       "type": "single-cell-library",
@@ -283,11 +356,11 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "homepage": "https://k-dense.ai",
       "repo": "K-Dense-AI/scientific-agent-skills",
-      "stars": 24062,
+      "stars": 24065,
       "forks": 2553,
       "openIssues": 32,
       "pushedAt": "2026-05-18T03:47:43Z",
-      "updatedAt": "2026-05-18T08:55:44Z",
+      "updatedAt": "2026-05-18T08:58:23Z",
       "language": "Python",
       "license": "MIT",
       "score": 122.3,
@@ -317,7 +390,7 @@
       "discoveryReason": "topic:bioinformatics; stars:24061; text:bioinformatics+workflow"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "id": "biocontainers-containers",
       "name": "BioContainers",
       "type": "container-registry",
@@ -351,7 +424,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 11,
+      "rank": 13,
       "id": "biopython-biopython",
       "name": "Biopython",
       "type": "library",
@@ -386,7 +459,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 12,
+      "rank": 14,
       "id": "multiqc-multiqc",
       "name": "MultiQC",
       "type": "reporting-tool",
@@ -424,7 +497,36 @@
       "discoveryReason": null
     },
     {
-      "rank": 13,
+      "rank": 15,
+      "id": "rdkit-rdkit",
+      "name": "rdkit",
+      "type": "library",
+      "typeLabel": "程序库",
+      "url": "https://github.com/rdkit/rdkit",
+      "homepage": null,
+      "repo": "rdkit/rdkit",
+      "stars": 3431,
+      "forks": 1013,
+      "openIssues": 76,
+      "pushedAt": "2026-05-17T15:51:14Z",
+      "updatedAt": "2026-05-17T15:51:23Z",
+      "language": "HTML",
+      "license": "BSD-3-Clause",
+      "score": 119.2,
+      "tags": [
+        "auto-discovered",
+        "c-plus-plus",
+        "cheminformatics",
+        "python",
+        "rdkit"
+      ],
+      "description": "The official sources for the RDKit library",
+      "discovered": true,
+      "discoveredAt": "2026-05-18",
+      "discoveryReason": "topic:cheminformatics; stars:3431; text:cheminformatics+database"
+    },
+    {
+      "rank": 16,
       "id": "google-deepmind-alphafold",
       "name": "AlphaFold",
       "type": "protein-structure-ai",
@@ -451,7 +553,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 14,
+      "rank": 17,
       "id": "google-deepvariant",
       "name": "DeepVariant",
       "type": "ai-variant-caller",
@@ -488,7 +590,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 15,
+      "rank": 18,
       "id": "samtools-samtools",
       "name": "SAMtools",
       "type": "cli-toolkit",
@@ -515,7 +617,51 @@
       "discoveryReason": null
     },
     {
-      "rank": 16,
+      "rank": 19,
+      "id": "seandavi-awesome-single-cell",
+      "name": "awesome-single-cell",
+      "type": "single-cell-library",
+      "typeLabel": "单细胞库",
+      "url": "https://github.com/seandavi/awesome-single-cell",
+      "homepage": null,
+      "repo": "seandavi/awesome-single-cell",
+      "stars": 3735,
+      "forks": 1075,
+      "openIssues": 12,
+      "pushedAt": "2026-05-02T21:21:04Z",
+      "updatedAt": "2026-05-15T07:54:47Z",
+      "language": null,
+      "license": "MIT",
+      "score": 117.4,
+      "tags": [
+        "auto-discovered",
+        "analysis-pipeline",
+        "atac-seq",
+        "awesome-list",
+        "bioinformatics",
+        "cell-clusters",
+        "cell-differentiation",
+        "cell-populations",
+        "clustering",
+        "data-integration",
+        "data-visualization",
+        "dimensionality-reduction",
+        "gene-expression",
+        "gene-expression-profiles",
+        "python",
+        "rna-seq-data",
+        "rna-seq-experiments",
+        "scrna-seq-data",
+        "single-cell",
+        "spatial-transcriptomics"
+      ],
+      "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
+      "discovered": true,
+      "discoveredAt": "2026-05-18",
+      "discoveryReason": "topic:bioinformatics; stars:3735; text:bioinformatics+workflow"
+    },
+    {
+      "rank": 20,
       "id": "broadinstitute-gatk",
       "name": "GATK",
       "type": "variant-toolkit",
@@ -551,7 +697,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 17,
+      "rank": 21,
       "id": "satijalab-seurat",
       "name": "Seurat",
       "type": "single-cell-library",
@@ -582,7 +728,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 18,
+      "rank": 22,
       "id": "scverse-scanpy",
       "name": "Scanpy",
       "type": "single-cell-library",
@@ -616,7 +762,36 @@
       "discoveryReason": null
     },
     {
-      "rank": 19,
+      "rank": 23,
+      "id": "sokrypton-colabfold",
+      "name": "ColabFold",
+      "type": "protein-structure-ai",
+      "typeLabel": "蛋白结构 AI",
+      "url": "https://github.com/sokrypton/ColabFold",
+      "homepage": null,
+      "repo": "sokrypton/ColabFold",
+      "stars": 2762,
+      "forks": 720,
+      "openIssues": 397,
+      "pushedAt": "2026-04-29T11:56:38Z",
+      "updatedAt": "2026-05-16T18:42:09Z",
+      "language": "Jupyter Notebook",
+      "license": "MIT",
+      "score": 114.6,
+      "tags": [
+        "auto-discovered",
+        "bioinformatics",
+        "multiple-sequence-alignment",
+        "protein-structure",
+        "structure-prediction"
+      ],
+      "description": "Making Protein folding accessible to all!",
+      "discovered": true,
+      "discoveredAt": "2026-05-18",
+      "discoveryReason": "topic:bioinformatics; stars:2762; text:biological+database"
+    },
+    {
+      "rank": 24,
       "id": "developer-y-cs-video-courses",
       "name": "cs-video-courses",
       "type": "discovered-github-repo",
@@ -659,7 +834,7 @@
       "discoveryReason": "topic:bioinformatics; stars:81396; text:biology+analysis"
     },
     {
-      "rank": 20,
+      "rank": 25,
       "id": "bioconductor-biocmanager",
       "name": "Bioconductor",
       "type": "package-ecosystem",
@@ -689,7 +864,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 21,
+      "rank": 26,
       "id": "aqlaboratory-openfold",
       "name": "OpenFold",
       "type": "protein-structure-ai",
@@ -718,7 +893,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 22,
+      "rank": 27,
       "id": "soedinglab-mmseqs2",
       "name": "MMseqs2",
       "type": "sequence-search",
@@ -754,7 +929,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 23,
+      "rank": 28,
       "id": "rosettacommons-rfdiffusion",
       "name": "RFdiffusion",
       "type": "protein-design-ai",
@@ -781,7 +956,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 24,
+      "rank": 29,
       "id": "chanzuckerberg-cellxgene",
       "name": "CELLxGENE",
       "type": "single-cell-browser",
@@ -813,7 +988,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 25,
+      "rank": 30,
       "id": "cbioportal-cbioportal",
       "name": "cBioPortal",
       "type": "cancer-genomics-platform",
@@ -844,7 +1019,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 26,
+      "rank": 31,
       "id": "hongxinxiang-awesome-ai-bioinformatics",
       "name": "awesome-ai-bioinformatics",
       "type": "awesome-list",
@@ -876,7 +1051,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 27,
+      "rank": 32,
       "id": "ensembl-ensembl-vep",
       "name": "Ensembl VEP",
       "type": "variant-annotation",
@@ -903,7 +1078,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 28,
+      "rank": 33,
       "id": "facebookresearch-esm",
       "name": "ESM",
       "type": "protein-language-model",
@@ -930,7 +1105,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 29,
+      "rank": 34,
       "id": "dauparas-proteinmpnn",
       "name": "ProteinMPNN",
       "type": "protein-design-ai",
@@ -957,7 +1132,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 30,
+      "rank": 35,
       "id": "nvidia-deeplearningexamples",
       "name": "DeepLearningExamples",
       "type": "discovered-github-repo",

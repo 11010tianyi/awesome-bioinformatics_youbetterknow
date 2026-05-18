@@ -59,6 +59,31 @@
     "stars_snapshot_2026_05_18": 3972
   },
   {
+    "name": "chemprop",
+    "type": "workflow-engine",
+    "url": "https://github.com/chemprop/chemprop",
+    "github": "chemprop/chemprop",
+    "tags": [
+      "auto-discovered",
+      "chemistry",
+      "drug-discovery",
+      "machine-learning",
+      "neural-networks"
+    ],
+    "description": "Message Passing Neural Networks for Molecule Property Prediction",
+    "homepage": "https://chemprop.csail.mit.edu",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:2365; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-17T13:29:03Z",
+    "pushed_at": "2026-04-24T19:14:22Z",
+    "forks_snapshot": 744,
+    "stars_snapshot_2026_05_18": 2365
+  },
+  {
     "name": "deepchem",
     "type": "workflow-engine",
     "url": "https://github.com/deepchem/deepchem",
@@ -109,6 +134,34 @@
       "python",
       "reproducibility"
     ]
+  },
+  {
+    "name": "fastp",
+    "type": "web-platform",
+    "url": "https://github.com/OpenGene/fastp",
+    "github": "OpenGene/fastp",
+    "tags": [
+      "auto-discovered",
+      "adapter",
+      "bioinformatics",
+      "duplication",
+      "fastq",
+      "filter",
+      "filtering",
+      "illumina",
+      "merging"
+    ],
+    "description": "An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:2361; text:sequencing+analysis",
+    "language": "C++",
+    "license": "MIT",
+    "updated_at": "2026-05-17T21:03:45Z",
+    "pushed_at": "2026-04-24T13:35:51Z",
+    "forks_snapshot": 375,
+    "stars_snapshot_2026_05_18": 2361
   },
   {
     "name": "Galaxy",
@@ -184,6 +237,30 @@
     ]
   },
   {
+    "name": "rdkit",
+    "type": "library",
+    "url": "https://github.com/rdkit/rdkit",
+    "github": "rdkit/rdkit",
+    "tags": [
+      "auto-discovered",
+      "c-plus-plus",
+      "cheminformatics",
+      "python",
+      "rdkit"
+    ],
+    "description": "The official sources for the RDKit library",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:cheminformatics; stars:3431; text:cheminformatics+database",
+    "language": "HTML",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-05-17T15:51:23Z",
+    "pushed_at": "2026-05-17T15:51:14Z",
+    "forks_snapshot": 1013,
+    "stars_snapshot_2026_05_18": 3431
+  },
+  {
     "name": "SAMtools",
     "type": "cli-toolkit",
     "url": "https://www.htslib.org/",
@@ -218,6 +295,33 @@
       "germline",
       "somatic"
     ]
+  },
+  {
+    "name": "awesome-single-cell",
+    "type": "single-cell-library",
+    "url": "https://github.com/seandavi/awesome-single-cell",
+    "github": "seandavi/awesome-single-cell",
+    "tags": [
+      "auto-discovered",
+      "analysis-pipeline",
+      "atac-seq",
+      "awesome-list",
+      "bioinformatics",
+      "cell-clusters",
+      "cell-differentiation",
+      "cell-populations",
+      "clustering"
+    ],
+    "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:3735; text:bioinformatics+workflow",
+    "license": "MIT",
+    "updated_at": "2026-05-15T07:54:47Z",
+    "pushed_at": "2026-05-02T21:21:04Z",
+    "forks_snapshot": 1075,
+    "stars_snapshot_2026_05_18": 3735
   },
   {
     "name": "Scanpy",
@@ -307,6 +411,30 @@
       "genomics",
       "web"
     ]
+  },
+  {
+    "name": "ColabFold",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/sokrypton/ColabFold",
+    "github": "sokrypton/ColabFold",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "multiple-sequence-alignment",
+      "protein-structure",
+      "structure-prediction"
+    ],
+    "description": "Making Protein folding accessible to all!",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:2762; text:biological+database",
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "updated_at": "2026-05-16T18:42:09Z",
+    "pushed_at": "2026-04-29T11:56:38Z",
+    "forks_snapshot": 720,
+    "stars_snapshot_2026_05_18": 2762
   },
   {
     "name": "Ensembl VEP",
