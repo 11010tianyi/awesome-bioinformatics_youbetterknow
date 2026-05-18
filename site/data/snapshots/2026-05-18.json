@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-18T08:44:58.968Z",
+  "date": "2026-05-18",
+  "projects": [
+    {
+      "id": "danielecook-awesome-bioinformatics",
+      "name": "Awesome-Bioinformatics",
+      "repo": "danielecook/Awesome-Bioinformatics",
+      "stars": 4036,
+      "forks": 707,
+      "score": 131.6
+    },
+    {
+      "id": "nextflow-io-nextflow",
+      "name": "Nextflow",
+      "repo": "nextflow-io/nextflow",
+      "stars": 3386,
+      "forks": 784,
+      "score": 127.2
+    },
+    {
+      "id": "snakemake-snakemake",
+      "name": "Snakemake",
+      "repo": "snakemake/snakemake",
+      "stars": 2779,
+      "forks": 645,
+      "score": 126.7
+    },
+    {
+      "id": "galaxyproject-galaxy",
+      "name": "Galaxy",
+      "repo": "galaxyproject/galaxy",
+      "stars": 1773,
+      "forks": 1153,
+      "score": 124.5
+    },
+    {
+      "id": "nf-core-tools",
+      "name": "nf-core",
+      "repo": "nf-core/tools",
+      "stars": 308,
+      "forks": 242,
+      "score": 122.9
+    },
+    {
+      "id": "bioconda-bioconda-recipes",
+      "name": "Bioconda",
+      "repo": "bioconda/bioconda-recipes",
+      "stars": 1819,
+      "forks": 3921,
+      "score": 122.6
+    },
+    {
+      "id": "biocontainers-containers",
+      "name": "BioContainers",
+      "repo": "BioContainers/containers",
+      "stars": 787,
+      "forks": 266,
+      "score": 120.4
+    },
+    {
+      "id": "biopython-biopython",
+      "name": "Biopython",
+      "repo": "biopython/biopython",
+      "stars": 5027,
+      "forks": 1897,
+      "score": 120.2
+    },
+    {
+      "id": "multiqc-multiqc",
+      "name": "MultiQC",
+      "repo": "MultiQC/MultiQC",
+      "stars": 1451,
+      "forks": 665,
+      "score": 120
+    },
+    {
+      "id": "google-deepmind-alphafold",
+      "name": "AlphaFold",
+      "repo": "google-deepmind/alphafold",
+      "stars": 14596,
+      "forks": 2621,
+      "score": 119
+    },
+    {
+      "id": "google-deepvariant",
+      "name": "DeepVariant",
+      "repo": "google/deepvariant",
+      "stars": 3703,
+      "forks": 787,
+      "score": 118.4
+    },
+    {
+      "id": "samtools-samtools",
+      "name": "SAMtools",
+      "repo": "samtools/samtools",
+      "stars": 1898,
+      "forks": 613,
+      "score": 117.7
+    },
+    {
+      "id": "broadinstitute-gatk",
+      "name": "GATK",
+      "repo": "broadinstitute/gatk",
+      "stars": 1946,
+      "forks": 625,
+      "score": 116.7
+    },
+    {
+      "id": "satijalab-seurat",
+      "name": "Seurat",
+      "repo": "satijalab/seurat",
+      "stars": 2729,
+      "forks": 986,
+      "score": 116.6
+    },
+    {
+      "id": "scverse-scanpy",
+      "name": "Scanpy",
+      "repo": "scverse/scanpy",
+      "stars": 2459,
+      "forks": 742,
+      "score": 116.3
+    },
+    {
+      "id": "bioconductor-biocmanager",
+      "name": "Bioconductor",
+      "repo": "Bioconductor/BiocManager",
+      "stars": 76,
+      "forks": 29,
+      "score": 114.3
+    },
+    {
+      "id": "aqlaboratory-openfold",
+      "name": "OpenFold",
+      "repo": "aqlaboratory/openfold",
+      "stars": 3356,
+      "forks": 673,
+      "score": 114.2
+    },
+    {
+      "id": "soedinglab-mmseqs2",
+      "name": "MMseqs2",
+      "repo": "soedinglab/MMseqs2",
+      "stars": 2060,
+      "forks": 286,
+      "score": 112.9
+    },
+    {
+      "id": "rosettacommons-rfdiffusion",
+      "name": "RFdiffusion",
+      "repo": "RosettaCommons/RFdiffusion",
+      "stars": 2869,
+      "forks": 614,
+      "score": 112.7
+    },
+    {
+      "id": "chanzuckerberg-cellxgene",
+      "name": "CELLxGENE",
+      "repo": "chanzuckerberg/cellxgene",
+      "stars": 767,
+      "forks": 149,
+      "score": 112.3
+    },
+    {
+      "id": "cbioportal-cbioportal",
+      "name": "cBioPortal",
+      "repo": "cBioPortal/cbioportal",
+      "stars": 1007,
+      "forks": 854,
+      "score": 112
+    },
+    {
+      "id": "hongxinxiang-awesome-ai-bioinformatics",
+      "name": "awesome-ai-bioinformatics",
+      "repo": "HongxinXiang/awesome-ai-bioinformatics",
+      "stars": 54,
+      "forks": 15,
+      "score": 111.4
+    },
+    {
+      "id": "ensembl-ensembl-vep",
+      "name": "Ensembl VEP",
+      "repo": "Ensembl/ensembl-vep",
+      "stars": 549,
+      "forks": 177,
+      "score": 110.4
+    },
+    {
+      "id": "facebookresearch-esm",
+      "name": "ESM",
+      "repo": "facebookresearch/esm",
+      "stars": 4080,
+      "forks": 791,
+      "score": 108.7
+    },
+    {
+      "id": "dauparas-proteinmpnn",
+      "name": "ProteinMPNN",
+      "repo": "dauparas/ProteinMPNN",
+      "stars": 1727,
+      "forks": 464,
+      "score": 106.4
+    }
+  ]
+}

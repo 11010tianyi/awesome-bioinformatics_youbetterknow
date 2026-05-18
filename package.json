@@ -1,0 +1,10 @@
+{
+  "name": "awesome-bioinformatics-youbetterknow",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "discover": "bun ./bioinformatics-youbetterknow.ts --discover-only --catalog data/catalog.json",
+    "generate": "bun ./bioinformatics-youbetterknow.ts --catalog data/catalog.json --output site/awesome-bioinformatics.md --json-output site/data/latest.json --history-output site/data/history.json --snapshot-dir site/data/snapshots",
+    "update": "bun ./bioinformatics-youbetterknow.ts --discover --catalog data/catalog.json --output site/awesome-bioinformatics.md --json-output site/data/latest.json --history-output site/data/history.json --snapshot-dir site/data/snapshots"
+  }
+}

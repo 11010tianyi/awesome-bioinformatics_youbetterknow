@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Awesome-Bioinformatics",
+    "type": "awesome-list",
+    "url": "https://github.com/danielecook/Awesome-Bioinformatics",
+    "github": "danielecook/Awesome-Bioinformatics",
+    "stars_snapshot_2026_05_17": 4033,
+    "tags": ["index", "bioinformatics", "awesome"]
+  },
+  {
+    "name": "awesome-ai-bioinformatics",
+    "type": "awesome-list",
+    "url": "https://github.com/HongxinXiang/awesome-ai-bioinformatics",
+    "github": "HongxinXiang/awesome-ai-bioinformatics",
+    "stars_snapshot_2026_05_17": 54,
+    "tags": ["ai", "bioinformatics", "awesome"]
+  },
+  {
+    "name": "nf-core",
+    "type": "workflow-community",
+    "url": "https://nf-co.re/",
+    "github": "nf-core/tools",
+    "stars_snapshot_2026_05_17": 307,
+    "tags": ["nextflow", "pipelines", "reproducibility"]
+  },
+  {
+    "name": "Nextflow",
+    "type": "workflow-engine",
+    "url": "https://www.nextflow.io/",
+    "github": "nextflow-io/nextflow",
+    "stars_snapshot_2026_05_17": 3385,
+    "tags": ["workflow", "dsl", "hpc", "cloud"]
+  },
+  {
+    "name": "Snakemake",
+    "type": "workflow-engine",
+    "url": "https://snakemake.github.io/",
+    "github": "snakemake/snakemake",
+    "stars_snapshot_2026_05_17": 2778,
+    "tags": ["workflow", "python", "reproducibility"]
+  },
+  {
+    "name": "Galaxy",
+    "type": "web-platform",
+    "url": "https://galaxyproject.org/",
+    "github": "galaxyproject/galaxy",
+    "stars_snapshot_2026_05_17": 1773,
+    "tags": ["web", "workflow", "training", "toolshed"]
+  },
+  {
+    "name": "Bioconductor",
+    "type": "package-ecosystem",
+    "url": "https://www.bioconductor.org/",
+    "github": "Bioconductor/BiocManager",
+    "stars_snapshot_2026_05_17": 76,
+    "tags": ["r", "omics", "statistics"]
+  },
+  {
+    "name": "Bioconda",
+    "type": "package-channel",
+    "url": "https://bioconda.github.io/",
+    "github": "bioconda/bioconda-recipes",
+    "stars_snapshot_2026_05_17": 1819,
+    "tags": ["conda", "packages", "reproducibility"]
+  },
+  {
+    "name": "BioContainers",
+    "type": "container-registry",
+    "url": "https://biocontainers.pro/",
+    "github": "BioContainers/containers",
+    "stars_snapshot_2026_05_17": 787,
+    "tags": ["containers", "docker", "singularity"]
+  },
+  {
+    "name": "MultiQC",
+    "type": "reporting-tool",
+    "url": "https://multiqc.info/",
+    "github": "MultiQC/MultiQC",
+    "stars_snapshot_2026_05_17": 1450,
+    "tags": ["qc", "reports", "multi-sample"]
+  },
+  {
+    "name": "Biopython",
+    "type": "library",
+    "url": "https://biopython.org/",
+    "github": "biopython/biopython",
+    "stars_snapshot_2026_05_17": 5024,
+    "tags": ["python", "sequence", "parsing"]
+  },
+  {
+    "name": "SAMtools",
+    "type": "cli-toolkit",
+    "url": "https://www.htslib.org/",
+    "github": "samtools/samtools",
+    "stars_snapshot_2026_05_17": 1897,
+    "tags": ["bam", "cram", "hts"]
+  },
+  {
+    "name": "GATK",
+    "type": "variant-toolkit",
+    "url": "https://gatk.broadinstitute.org/",
+    "github": "broadinstitute/gatk",
+    "stars_snapshot_2026_05_17": 1946,
+    "tags": ["variants", "germline", "somatic"]
+  },
+  {
+    "name": "DeepVariant",
+    "type": "ai-variant-caller",
+    "url": "https://github.com/google/deepvariant",
+    "github": "google/deepvariant",
+    "stars_snapshot_2026_05_17": 3703,
+    "tags": ["variants", "deep-learning", "ngs"]
+  },
+  {
+    "name": "Scanpy",
+    "type": "single-cell-library",
+    "url": "https://scanpy.readthedocs.io/",
+    "github": "scverse/scanpy",
+    "stars_snapshot_2026_05_17": 2457,
+    "tags": ["single-cell", "python", "anndata"]
+  },
+  {
+    "name": "Seurat",
+    "type": "single-cell-library",
+    "url": "https://satijalab.org/seurat/",
+    "github": "satijalab/seurat",
+    "stars_snapshot_2026_05_17": 2727,
+    "tags": ["single-cell", "r", "integration"]
+  },
+  {
+    "name": "CELLxGENE",
+    "type": "single-cell-browser",
+    "url": "https://cellxgene.cziscience.com/",
+    "github": "chanzuckerberg/cellxgene",
+    "stars_snapshot_2026_05_17": 767,
+    "tags": ["single-cell", "browser", "atlas"]
+  },
+  {
+    "name": "cBioPortal",
+    "type": "cancer-genomics-platform",
+    "url": "https://www.cbioportal.org/",
+    "github": "cBioPortal/cbioportal",
+    "stars_snapshot_2026_05_17": 1006,
+    "tags": ["cancer", "genomics", "web"]
+  },
+  {
+    "name": "Ensembl VEP",
+    "type": "variant-annotation",
+    "url": "https://www.ensembl.org/info/docs/tools/vep/index.html",
+    "github": "Ensembl/ensembl-vep",
+    "stars_snapshot_2026_05_17": 549,
+    "tags": ["variants", "annotation", "ensembl"]
+  },
+  {
+    "name": "AlphaFold",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/google-deepmind/alphafold",
+    "github": "google-deepmind/alphafold",
+    "stars_snapshot_2026_05_17": 14592,
+    "tags": ["protein", "structure", "ai"]
+  },
+  {
+    "name": "OpenFold",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/aqlaboratory/openfold",
+    "github": "aqlaboratory/openfold",
+    "stars_snapshot_2026_05_17": 3356,
+    "tags": ["protein", "structure", "pytorch"]
+  },
+  {
+    "name": "ESM",
+    "type": "protein-language-model",
+    "url": "https://github.com/facebookresearch/esm",
+    "github": "facebookresearch/esm",
+    "stars_snapshot_2026_05_17": 4078,
+    "tags": ["protein", "language-model", "embedding"]
+  },
+  {
+    "name": "MMseqs2",
+    "type": "sequence-search",
+    "url": "https://github.com/soedinglab/MMseqs2",
+    "github": "soedinglab/MMseqs2",
+    "stars_snapshot_2026_05_17": 2059,
+    "tags": ["sequence-search", "clustering", "protein"]
+  },
+  {
+    "name": "RFdiffusion",
+    "type": "protein-design-ai",
+    "url": "https://github.com/RosettaCommons/RFdiffusion",
+    "github": "RosettaCommons/RFdiffusion",
+    "stars_snapshot_2026_05_17": 2866,
+    "tags": ["protein-design", "diffusion", "ai"]
+  },
+  {
+    "name": "ProteinMPNN",
+    "type": "protein-design-ai",
+    "url": "https://github.com/dauparas/ProteinMPNN",
+    "github": "dauparas/ProteinMPNN",
+    "stars_snapshot_2026_05_17": 1726,
+    "tags": ["protein-design", "sequence-design", "ai"]
+  }
+]

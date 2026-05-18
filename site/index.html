@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bioinformatics YouBetterKnow</title>
+    <meta name="description" content="自动日更的生物信息学高相关项目 GitHub Pages 仪表盘" />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Project navigation">
+        <a class="brand" href="./" aria-label="Bioinformatics YouBetterKnow home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>
+            <strong>YouBetterKnow</strong>
+            <small>Bioinformatics Atlas</small>
+          </span>
+        </a>
+
+        <nav class="side-links" aria-label="Data links">
+          <a href="awesome-bioinformatics.md">Markdown snapshot</a>
+          <a href="data/latest.json">latest.json</a>
+          <a href="data/history.json">history.json</a>
+          <a href="https://github.com/11010tianyi/awesome-bioinformatics_youbetterknow">GitHub repo</a>
+        </nav>
+
+        <section class="guardrail-box" aria-labelledby="guardrail-title">
+          <p class="eyebrow" id="guardrail-title">Discovery Guardrails</p>
+          <ul>
+            <li>Topic 白名单</li>
+            <li>Stars 阈值</li>
+            <li>README + 描述双词命中</li>
+            <li>排除 fork / archived</li>
+          </ul>
+        </section>
+
+        <p class="sidebar-foot" id="updated-at">更新中</p>
+      </aside>
+
+      <main class="workspace">
+        <section class="hero-band" aria-labelledby="page-title">
+          <div>
+            <p class="eyebrow">Daily GitHub Intelligence</p>
+            <h1 id="page-title">Bioinformatics Atlas Console</h1>
+            <p class="hero-copy">自动追踪生物信息学高相关项目、工作流生态、AI+Bio 工具和新发现种子，形成可日更的工程资源雷达。</p>
+          </div>
+          <div class="hero-actions" aria-label="Primary links">
+            <a class="button primary" href="awesome-bioinformatics.md">查看 Markdown</a>
+            <a class="button" href="data/latest.json">打开 JSON</a>
+          </div>
+        </section>
+
+        <section class="control-strip" aria-label="Catalog controls">
+          <label>
+            <span>类型</span>
+            <select id="type-filter" aria-label="type filter">
+              <option value="all">全部类型</option>
+            </select>
+          </label>
+          <label class="search-field">
+            <span>检索</span>
+            <input id="search" type="search" placeholder="项目、repo、标签、描述" />
+          </label>
+          <div class="range-control">
+            <span>趋势窗口</span>
+            <div class="segmented" id="trend-range" aria-label="trend range">
+              <button class="active" data-days="30">30D</button>
+              <button data-days="90">90D</button>
+              <button data-days="365">1Y</button>
+            </div>
+          </div>
+        </section>
+
+        <section class="stats-grid" id="stats" aria-label="Summary statistics"></section>
+
+        <section class="atlas-grid">
+          <article class="panel trend-panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Momentum</p>
+                <h2>Stars 趋势</h2>
+              </div>
+              <span class="panel-note">Top 6 repos</span>
+            </div>
+            <div id="trend-chart" class="trend-chart" aria-label="stars trend chart"></div>
+          </article>
+
+          <article class="panel taxonomy-panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Taxonomy</p>
+                <h2>类型能量分布</h2>
+              </div>
+            </div>
+            <div id="category-share" class="category-share"></div>
+          </article>
+
+          <article class="panel discovery-panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Autodiscovery</p>
+                <h2>新增候选雷达</h2>
+              </div>
+            </div>
+            <div id="discovery-list" class="growth-list"></div>
+          </article>
+        </section>
+
+        <section class="panel matrix-panel">
+          <div class="panel-head matrix-head">
+            <div>
+              <p class="eyebrow">Resource Matrix</p>
+              <h2>高相关项目主排行</h2>
+            </div>
+            <p class="panel-note">分数综合类型权重、GitHub 热度与近期活跃度</p>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>项目</th>
+                  <th>类型</th>
+                  <th>Stars</th>
+                  <th>30D</th>
+                  <th>Forks</th>
+                  <th>语言</th>
+                  <th>最后推送</th>
+                  <th>定位</th>
+                </tr>
+              </thead>
+              <tbody id="leaderboard"></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>
