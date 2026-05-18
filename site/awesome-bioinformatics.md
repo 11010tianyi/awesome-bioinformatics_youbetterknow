@@ -1,6 +1,6 @@
 # Awesome Bioinformatics YouBetterKnow - Daily GitHub Snapshot
 
-> Generated at 2026/05/18 17:02:16 Asia/Shanghai. GitHub stars/forks are live API snapshots; scientific usefulness still requires version, license, and data-contract checks.
+> Generated at 2026/05/18 17:03:53 Asia/Shanghai. GitHub stars/forks are live API snapshots; scientific usefulness still requires version, license, and data-contract checks.
 
 - Projects: **32**
 - GitHub repos: **32**
