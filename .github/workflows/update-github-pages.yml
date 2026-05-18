@@ -30,6 +30,8 @@ jobs:
       - uses: oven-sh/setup-bun@v2
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: Discover new seed projects
         env:
