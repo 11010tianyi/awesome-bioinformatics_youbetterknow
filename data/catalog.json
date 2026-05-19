@@ -111,6 +111,31 @@
     "stars_snapshot_2026_05_18": 6746
   },
   {
+    "name": "minimap2",
+    "type": "workflow-engine",
+    "url": "https://github.com/lh3/minimap2",
+    "github": "lh3/minimap2",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "genomics",
+      "sequence-alignment",
+      "spliced-alignment"
+    ],
+    "description": "A versatile pairwise aligner for genomic and spliced nucleotide sequences",
+    "homepage": "https://lh3.github.io/minimap2",
+    "discovered": true,
+    "discovered_at": "2026-05-19",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:2184; text:bioinformatics+workflow",
+    "language": "C",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-18T11:40:46Z",
+    "pushed_at": "2026-04-25T04:22:33Z",
+    "forks_snapshot": 461,
+    "stars_snapshot_2026_05_19": 2184
+  },
+  {
     "name": "Nextflow",
     "type": "workflow-engine",
     "url": "https://www.nextflow.io/",
@@ -122,6 +147,56 @@
       "hpc",
       "cloud"
     ]
+  },
+  {
+    "name": "scikit-bio",
+    "type": "workflow-engine",
+    "url": "https://github.com/scikit-bio/scikit-bio",
+    "github": "scikit-bio/scikit-bio",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "computational-biology"
+    ],
+    "description": "scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.",
+    "homepage": "https://scikit.bio",
+    "discovered": true,
+    "discovered_at": "2026-05-19",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:1205; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-05-18T05:10:59Z",
+    "pushed_at": "2026-05-18T23:06:16Z",
+    "forks_snapshot": 331,
+    "stars_snapshot_2026_05_19": 1205
+  },
+  {
+    "name": "scispacy",
+    "type": "workflow-engine",
+    "url": "https://github.com/allenai/scispacy",
+    "github": "allenai/scispacy",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "biomedical",
+      "custom-pipes",
+      "nlp",
+      "scientific-documents",
+      "spacy"
+    ],
+    "description": "A full spaCy pipeline and models for scientific/biomedical documents.",
+    "homepage": "https://allenai.github.io/scispacy/",
+    "discovered": true,
+    "discovered_at": "2026-05-19",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:1958; text:biomedical+pipeline",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-16T20:41:13Z",
+    "pushed_at": "2025-12-04T07:49:16Z",
+    "forks_snapshot": 253,
+    "stars_snapshot_2026_05_19": 1958
   },
   {
     "name": "Snakemake",
@@ -408,6 +483,35 @@
     "stars_snapshot_2026_05_18": 2762
   },
   {
+    "name": "DiffDock",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/gcorso/DiffDock",
+    "github": "gcorso/DiffDock",
+    "tags": [
+      "auto-discovered",
+      "binding",
+      "computational-biology",
+      "diffusion-models",
+      "docking",
+      "equivariance",
+      "machine-learning",
+      "non-euclidean-geometry",
+      "score-based-models"
+    ],
+    "description": "Implementation of DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking",
+    "homepage": "https://arxiv.org/abs/2210.01776",
+    "discovered": true,
+    "discovered_at": "2026-05-19",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:computational-biology; stars:1512; text:fasta+tool",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-18T08:02:53Z",
+    "pushed_at": "2025-05-02T13:59:19Z",
+    "forks_snapshot": 350,
+    "stars_snapshot_2026_05_19": 1512
+  },
+  {
     "name": "Ensembl VEP",
     "type": "variant-annotation",
     "url": "https://www.ensembl.org/info/docs/tools/vep/index.html",
@@ -430,6 +534,31 @@
       "structure",
       "pytorch"
     ]
+  },
+  {
+    "name": "torchdrug",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/DeepGraphLearning/torchdrug",
+    "github": "DeepGraphLearning/torchdrug",
+    "tags": [
+      "auto-discovered",
+      "deep-learning",
+      "drug-discovery",
+      "graph-neural-networks",
+      "pytorch"
+    ],
+    "description": "A powerful and flexible machine learning platform for drug discovery",
+    "homepage": "https://torchdrug.ai/",
+    "discovered": true,
+    "discovered_at": "2026-05-19",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:1576; text:molecule+tool",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-15T01:07:00Z",
+    "pushed_at": "2024-08-12T02:07:40Z",
+    "forks_snapshot": 221,
+    "stars_snapshot_2026_05_19": 1576
   },
   {
     "name": "ESM",
