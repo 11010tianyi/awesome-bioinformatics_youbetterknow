@@ -111,6 +111,35 @@
     "stars_snapshot_2026_05_18": 6746
   },
   {
+    "name": "graphein",
+    "type": "workflow-engine",
+    "url": "https://github.com/a-r-j/graphein",
+    "github": "a-r-j/graphein",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "computational-biology",
+      "deep-learning",
+      "dgl",
+      "drug-discovery",
+      "gene-regulatory-networks",
+      "geometric-deep-learning",
+      "graph-neural-networks"
+    ],
+    "description": "Protein Graph Library",
+    "homepage": "https://graphein.ai/",
+    "discovered": true,
+    "discovered_at": "2026-05-20",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:1172; text:biological+workflow",
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "updated_at": "2026-05-14T08:30:20Z",
+    "pushed_at": "2026-05-18T21:41:19Z",
+    "forks_snapshot": 141,
+    "stars_snapshot_2026_05_20": 1172
+  },
+  {
     "name": "minimap2",
     "type": "workflow-engine",
     "url": "https://github.com/lh3/minimap2",
@@ -312,6 +341,35 @@
     ]
   },
   {
+    "name": "hail",
+    "type": "library",
+    "url": "https://github.com/hail-is/hail",
+    "github": "hail-is/hail",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "genetics",
+      "genomics",
+      "gwas",
+      "hail",
+      "python",
+      "software",
+      "vcf"
+    ],
+    "description": "Cloud-native genomic dataframes and batch computing",
+    "homepage": "https://hail.is",
+    "discovered": true,
+    "discovered_at": "2026-05-20",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:1060; text:genomic+analysis",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-19T15:49:58Z",
+    "pushed_at": "2026-05-20T02:42:54Z",
+    "forks_snapshot": 265,
+    "stars_snapshot_2026_05_20": 1060
+  },
+  {
     "name": "rdkit",
     "type": "library",
     "url": "https://github.com/rdkit/rdkit",
@@ -399,6 +457,35 @@
     "stars_snapshot_2026_05_18": 3735
   },
   {
+    "name": "gget",
+    "type": "single-cell-library",
+    "url": "https://github.com/pachterlab/gget",
+    "github": "pachterlab/gget",
+    "tags": [
+      "auto-discovered",
+      "alphafold",
+      "alphafold2",
+      "archs4",
+      "blast",
+      "databases",
+      "enrichment-analysis",
+      "enrichr",
+      "ensembl"
+    ],
+    "description": "🧬 gget enables efficient querying of genomic reference databases",
+    "homepage": "https://gget.bio",
+    "discovered": true,
+    "discovered_at": "2026-05-20",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:genomics; stars:1123; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "BSD-2-Clause",
+    "updated_at": "2026-05-18T17:17:07Z",
+    "pushed_at": "2026-05-18T17:17:02Z",
+    "forks_snapshot": 85,
+    "stars_snapshot_2026_05_20": 1123
+  },
+  {
     "name": "Scanpy",
     "type": "single-cell-library",
     "url": "https://scanpy.readthedocs.io/",
@@ -421,6 +508,31 @@
       "r",
       "integration"
     ]
+  },
+  {
+    "name": "single-cell-best-practices",
+    "type": "single-cell-library",
+    "url": "https://github.com/theislab/single-cell-best-practices",
+    "github": "theislab/single-cell-best-practices",
+    "tags": [
+      "auto-discovered",
+      "book",
+      "rna-seq",
+      "single-cell",
+      "tutorial"
+    ],
+    "description": "https://www.sc-best-practices.org",
+    "homepage": "https://www.sc-best-practices.org",
+    "discovered": true,
+    "discovered_at": "2026-05-20",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:single-cell; stars:1196; text:single-cell+analysis",
+    "language": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-19T13:56:28Z",
+    "pushed_at": "2026-05-19T05:34:02Z",
+    "forks_snapshot": 269,
+    "stars_snapshot_2026_05_20": 1196
   },
   {
     "name": "CELLxGENE",
@@ -481,6 +593,35 @@
     "pushed_at": "2026-04-29T11:56:38Z",
     "forks_snapshot": 720,
     "stars_snapshot_2026_05_18": 2762
+  },
+  {
+    "name": "DeepPurpose",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/kexinhuang12345/DeepPurpose",
+    "github": "kexinhuang12345/DeepPurpose",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "covid19",
+      "ddi",
+      "deep-learning",
+      "drug-discovery",
+      "drug-drug-interaction",
+      "drug-property-prediction",
+      "drug-repurposing"
+    ],
+    "description": "A Deep Learning Toolkit for DTI, Drug Property, PPI, DDI, Protein Function Prediction (Bioinformatics)",
+    "homepage": "https://doi.org/10.1093/bioinformatics/btaa1005",
+    "discovered": true,
+    "discovered_at": "2026-05-20",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:1159; text:bioinformatics+tool",
+    "language": "Jupyter Notebook",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-05-20T01:02:23Z",
+    "pushed_at": "2024-06-10T00:41:46Z",
+    "forks_snapshot": 303,
+    "stars_snapshot_2026_05_20": 1159
   },
   {
     "name": "DiffDock",
