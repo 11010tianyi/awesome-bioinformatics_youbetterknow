@@ -89,6 +89,56 @@
     "stars_snapshot_2026_05_21": 1051
   },
   {
+    "name": "aizynthfinder",
+    "type": "workflow-engine",
+    "url": "https://github.com/MolecularAI/aizynthfinder",
+    "github": "MolecularAI/aizynthfinder",
+    "tags": [
+      "auto-discovered",
+      "astrazeneca",
+      "chemical-reactions",
+      "cheminformatics",
+      "monte-carlo-tree-search",
+      "neural-networks",
+      "reaction-informatics"
+    ],
+    "description": "A tool for retrosynthetic planning",
+    "homepage": "https://molecularai.github.io/aizynthfinder/",
+    "discovered": true,
+    "discovered_at": "2026-05-22",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:cheminformatics; stars:836; text:molecular+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-20T04:45:19Z",
+    "pushed_at": "2026-04-13T08:06:57Z",
+    "forks_snapshot": 176,
+    "stars_snapshot_2026_05_22": 836
+  },
+  {
+    "name": "awesome-cheminformatics",
+    "type": "workflow-engine",
+    "url": "https://github.com/hsiaoyi0504/awesome-cheminformatics",
+    "github": "hsiaoyi0504/awesome-cheminformatics",
+    "tags": [
+      "auto-discovered",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "cheminformatics",
+      "chemistry"
+    ],
+    "description": "A curated list of Cheminformatics libraries and software.",
+    "discovered": true,
+    "discovered_at": "2026-05-22",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:865; text:bioinformatics+workflow",
+    "updated_at": "2026-05-17T23:59:40Z",
+    "pushed_at": "2024-03-15T00:55:18Z",
+    "forks_snapshot": 140,
+    "stars_snapshot_2026_05_22": 865
+  },
+  {
     "name": "biotite",
     "type": "workflow-engine",
     "url": "https://github.com/biotite-dev/biotite",
@@ -244,6 +294,34 @@
     "stars_snapshot_2026_05_20": 1172
   },
   {
+    "name": "jcvi",
+    "type": "workflow-engine",
+    "url": "https://github.com/tanghaibao/jcvi",
+    "github": "tanghaibao/jcvi",
+    "tags": [
+      "auto-discovered",
+      "allmaps",
+      "assembly",
+      "bioinformatics",
+      "blast",
+      "comparative-genomics",
+      "genetic-maps",
+      "genome-sequencing",
+      "genomics"
+    ],
+    "description": "Python library to facilitate genome assembly, annotation, and comparative genomics",
+    "discovered": true,
+    "discovered_at": "2026-05-22",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:911; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "BSD-2-Clause",
+    "updated_at": "2026-05-20T19:02:16Z",
+    "pushed_at": "2026-05-02T04:32:46Z",
+    "forks_snapshot": 199,
+    "stars_snapshot_2026_05_22": 911
+  },
+  {
     "name": "minimap2",
     "type": "workflow-engine",
     "url": "https://github.com/lh3/minimap2",
@@ -292,6 +370,35 @@
     "pushed_at": "2024-07-08T06:36:49Z",
     "forks_snapshot": 278,
     "stars_snapshot_2026_05_21": 970
+  },
+  {
+    "name": "nequip",
+    "type": "workflow-engine",
+    "url": "https://github.com/mir-group/nequip",
+    "github": "mir-group/nequip",
+    "tags": [
+      "auto-discovered",
+      "atomistic-simulations",
+      "computational-chemistry",
+      "deep-learning",
+      "drug-discovery",
+      "force-fields",
+      "interatomic-potentials",
+      "machine-learning",
+      "materials-science"
+    ],
+    "description": "NequIP is a code for building E(3)-equivariant interatomic potentials",
+    "homepage": "https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00423c",
+    "discovered": true,
+    "discovered_at": "2026-05-22",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:910; text:molecular+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-13T07:15:31Z",
+    "pushed_at": "2026-05-20T20:00:48Z",
+    "forks_snapshot": 210,
+    "stars_snapshot_2026_05_22": 910
   },
   {
     "name": "Nextflow",
@@ -613,6 +720,33 @@
     "pushed_at": "2026-05-18T17:17:02Z",
     "forks_snapshot": 85,
     "stars_snapshot_2026_05_20": 1123
+  },
+  {
+    "name": "nucleotide-transformer",
+    "type": "single-cell-library",
+    "url": "https://github.com/instadeepai/nucleotide-transformer",
+    "github": "instadeepai/nucleotide-transformer",
+    "tags": [
+      "auto-discovered",
+      "biology",
+      "deep-learning",
+      "dna",
+      "foundation-models",
+      "genomics",
+      "transcriptomics",
+      "transformer"
+    ],
+    "description": "Foundation Models for Genomics & Transcriptomics",
+    "discovered": true,
+    "discovered_at": "2026-05-22",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:genomics; stars:871; text:bioinformatics+workflow",
+    "language": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-21T08:48:35Z",
+    "pushed_at": "2026-02-24T21:37:51Z",
+    "forks_snapshot": 93,
+    "stars_snapshot_2026_05_22": 871
   },
   {
     "name": "Scanpy",
