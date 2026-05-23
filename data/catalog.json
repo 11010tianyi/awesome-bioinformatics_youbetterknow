@@ -139,6 +139,35 @@
     "stars_snapshot_2026_05_22": 865
   },
   {
+    "name": "biopandas",
+    "type": "workflow-engine",
+    "url": "https://github.com/BioPandas/biopandas",
+    "github": "BioPandas/biopandas",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "computational-biology",
+      "drug-discovery",
+      "mol2",
+      "molecular-structures",
+      "molecule",
+      "molecules",
+      "pandas-dataframe"
+    ],
+    "description": "Working with molecular structures in pandas DataFrames",
+    "homepage": "https://BioPandas.github.io/biopandas/",
+    "discovered": true,
+    "discovered_at": "2026-05-23",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:751; text:biology+workflow",
+    "language": "Python",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-05-22T18:26:49Z",
+    "pushed_at": "2026-05-22T18:26:43Z",
+    "forks_snapshot": 118,
+    "stars_snapshot_2026_05_23": 751
+  },
+  {
     "name": "biotite",
     "type": "workflow-engine",
     "url": "https://github.com/biotite-dev/biotite",
@@ -476,6 +505,35 @@
     ]
   },
   {
+    "name": "vsearch",
+    "type": "workflow-engine",
+    "url": "https://github.com/torognes/vsearch",
+    "github": "torognes/vsearch",
+    "tags": [
+      "auto-discovered",
+      "amplicon",
+      "bioinformatics",
+      "chimera",
+      "clustering",
+      "fasta",
+      "fastq",
+      "metabarcoding",
+      "metagenomics"
+    ],
+    "description": "Versatile open-source tool for microbiome analysis",
+    "homepage": "https://torognes.github.io/vsearch",
+    "discovered": true,
+    "discovered_at": "2026-05-23",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:748; text:genomic+workflow",
+    "language": "C++",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-21T16:24:10Z",
+    "pushed_at": "2026-05-04T10:52:30Z",
+    "forks_snapshot": 135,
+    "stars_snapshot_2026_05_23": 748
+  },
+  {
     "name": "fastp",
     "type": "web-platform",
     "url": "https://github.com/OpenGene/fastp",
@@ -515,6 +573,35 @@
       "training",
       "toolshed"
     ]
+  },
+  {
+    "name": "ketcher",
+    "type": "web-platform",
+    "url": "https://github.com/epam/ketcher",
+    "github": "epam/ketcher",
+    "tags": [
+      "auto-discovered",
+      "amino-acid-sequence",
+      "amino-acids",
+      "cdx",
+      "cdxml",
+      "cheminformatics",
+      "chemistry",
+      "cml",
+      "fasta"
+    ],
+    "description": "Web-based molecule sketcher",
+    "homepage": "https://lifescience.opensource.epam.com/ketcher/demo.html",
+    "discovered": true,
+    "discovered_at": "2026-05-23",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:cheminformatics; stars:795; text:biological+tool",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-22T14:04:57Z",
+    "pushed_at": "2026-05-23T04:46:25Z",
+    "forks_snapshot": 238,
+    "stars_snapshot_2026_05_23": 795
   },
   {
     "name": "Bioconductor",
@@ -630,6 +717,34 @@
     "stars_snapshot_2026_05_18": 3431
   },
   {
+    "name": "REINVENT4",
+    "type": "library",
+    "url": "https://github.com/MolecularAI/REINVENT4",
+    "github": "MolecularAI/REINVENT4",
+    "tags": [
+      "auto-discovered",
+      "ai",
+      "astrazeneca",
+      "cheminformatics",
+      "chemistry",
+      "deep-learning",
+      "denovo-design",
+      "drug-design",
+      "drug-discovery"
+    ],
+    "description": "AI molecular design tool for de novo design, scaffold hopping, R-group replacement, linker design and molecule optimization.",
+    "discovered": true,
+    "discovered_at": "2026-05-23",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:cheminformatics; stars:772; text:molecular+tool",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-22T03:03:59Z",
+    "pushed_at": "2026-05-03T09:01:29Z",
+    "forks_snapshot": 220,
+    "stars_snapshot_2026_05_23": 772
+  },
+  {
     "name": "SAMtools",
     "type": "cli-toolkit",
     "url": "https://www.htslib.org/",
@@ -720,6 +835,35 @@
     "pushed_at": "2026-05-18T17:17:02Z",
     "forks_snapshot": 85,
     "stars_snapshot_2026_05_20": 1123
+  },
+  {
+    "name": "medical-research-skills",
+    "type": "single-cell-library",
+    "url": "https://github.com/aipoch/medical-research-skills",
+    "github": "aipoch/medical-research-skills",
+    "tags": [
+      "auto-discovered",
+      "academic-writing",
+      "agent-skills",
+      "ai",
+      "bioinformatics",
+      "biology",
+      "cancer-genomics",
+      "clinical-research",
+      "computational-biology"
+    ],
+    "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+    "homepage": "https://aipoch.com/agent-skills",
+    "discovered": true,
+    "discovered_at": "2026-05-23",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:792; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-23T03:55:05Z",
+    "pushed_at": "2026-05-22T05:59:22Z",
+    "forks_snapshot": 48,
+    "stars_snapshot_2026_05_23": 792
   },
   {
     "name": "nucleotide-transformer",
