@@ -242,6 +242,35 @@
     "stars_snapshot_2026_05_18": 2365
   },
   {
+    "name": "datamol",
+    "type": "workflow-engine",
+    "url": "https://github.com/datamol-io/datamol",
+    "github": "datamol-io/datamol",
+    "tags": [
+      "auto-discovered",
+      "cheminformatics",
+      "drug-design",
+      "drug-discovery",
+      "medicinal-chemistry",
+      "molecule",
+      "molecules",
+      "python",
+      "rdkit"
+    ],
+    "description": "Molecular Processing Made Easy.",
+    "homepage": "https://docs.datamol.io",
+    "discovered": true,
+    "discovered_at": "2026-05-24",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:cheminformatics; stars:534; text:molecular+workflow",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-20T12:57:50Z",
+    "pushed_at": "2026-05-20T12:57:45Z",
+    "forks_snapshot": 62,
+    "stars_snapshot_2026_05_24": 534
+  },
+  {
     "name": "deepchem",
     "type": "workflow-engine",
     "url": "https://github.com/deepchem/deepchem",
@@ -837,6 +866,35 @@
     "stars_snapshot_2026_05_20": 1123
   },
   {
+    "name": "GTDBTk",
+    "type": "single-cell-library",
+    "url": "https://github.com/Ecogenomics/GTDBTk",
+    "github": "Ecogenomics/GTDBTk",
+    "tags": [
+      "auto-discovered",
+      "archaea",
+      "bacteria",
+      "bioinformatics",
+      "metagenomics",
+      "nomenclature",
+      "phylogenetics",
+      "species-assignments",
+      "taxonomy"
+    ],
+    "description": "GTDB-Tk: a toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.",
+    "homepage": "https://ecogenomics.github.io/GTDBTk/",
+    "discovered": true,
+    "discovered_at": "2026-05-24",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:599; text:bioinformatics+pipeline",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "updated_at": "2026-05-22T12:35:02Z",
+    "pushed_at": "2026-05-20T12:02:18Z",
+    "forks_snapshot": 98,
+    "stars_snapshot_2026_05_24": 599
+  },
+  {
     "name": "medical-research-skills",
     "type": "single-cell-library",
     "url": "https://github.com/aipoch/medical-research-skills",
@@ -866,6 +924,35 @@
     "stars_snapshot_2026_05_23": 792
   },
   {
+    "name": "mLLMCelltype",
+    "type": "single-cell-library",
+    "url": "https://github.com/cafferychen777/mLLMCelltype",
+    "github": "cafferychen777/mLLMCelltype",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "cell-type-annotation",
+      "computational-biology",
+      "consensus-algorithm",
+      "large-language-models",
+      "llm",
+      "scanpy",
+      "scrna"
+    ],
+    "description": "Cell type annotation for single-cell RNA-seq using multi-LLM consensus",
+    "homepage": "https://www.mllmcelltype.com/",
+    "discovered": true,
+    "discovered_at": "2026-05-24",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:642; text:transcriptomics+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-12T15:04:18Z",
+    "pushed_at": "2026-05-11T14:17:48Z",
+    "forks_snapshot": 55,
+    "stars_snapshot_2026_05_24": 642
+  },
+  {
     "name": "nucleotide-transformer",
     "type": "single-cell-library",
     "url": "https://github.com/instadeepai/nucleotide-transformer",
@@ -893,6 +980,31 @@
     "stars_snapshot_2026_05_22": 871
   },
   {
+    "name": "pySCENIC",
+    "type": "single-cell-library",
+    "url": "https://github.com/aertslab/pySCENIC",
+    "github": "aertslab/pySCENIC",
+    "tags": [
+      "auto-discovered",
+      "gene-regulatory-network",
+      "single-cell",
+      "transcription-factors",
+      "transcriptomics"
+    ],
+    "description": "pySCENIC is a lightning-fast python implementation of the SCENIC pipeline (Single-Cell rEgulatory Network Inference and Clustering) which enables biologists to infer transcription factors, gene regulatory networks and cell types from single-cell RNA-seq data.",
+    "homepage": "http://scenic.aertslab.org",
+    "discovered": true,
+    "discovered_at": "2026-05-24",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:single-cell; stars:607; text:single-cell+workflow",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "updated_at": "2026-05-19T11:34:29Z",
+    "pushed_at": "2025-06-26T09:57:37Z",
+    "forks_snapshot": 211,
+    "stars_snapshot_2026_05_24": 607
+  },
+  {
     "name": "Scanpy",
     "type": "single-cell-library",
     "url": "https://scanpy.readthedocs.io/",
@@ -903,6 +1015,35 @@
       "python",
       "anndata"
     ]
+  },
+  {
+    "name": "SCP",
+    "type": "single-cell-library",
+    "url": "https://github.com/zhanghao-njmu/SCP",
+    "github": "zhanghao-njmu/SCP",
+    "tags": [
+      "auto-discovered",
+      "anndata",
+      "scanpy",
+      "scatac-seq",
+      "scrna-pipeline",
+      "scrna-seq",
+      "scrna-seq-analysis",
+      "seurat",
+      "seurat-objects"
+    ],
+    "description": "An end-to-end Single-Cell Pipeline designed to facilitate comprehensive analysis and exploration of single-cell data.",
+    "homepage": "https://zhanghao-njmu.github.io/SCP/",
+    "discovered": true,
+    "discovered_at": "2026-05-24",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:single-cell; stars:642; text:genomic+workflow",
+    "language": "R",
+    "license": "GPL-3.0",
+    "updated_at": "2026-05-21T20:31:55Z",
+    "pushed_at": "2026-03-11T05:52:33Z",
+    "forks_snapshot": 124,
+    "stars_snapshot_2026_05_24": 642
   },
   {
     "name": "Seurat",
