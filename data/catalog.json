@@ -116,6 +116,33 @@
     "stars_snapshot_2026_05_22": 836
   },
   {
+    "name": "awesome-bioie",
+    "type": "workflow-engine",
+    "url": "https://github.com/caufieldjh/awesome-bioie",
+    "github": "caufieldjh/awesome-bioie",
+    "tags": [
+      "auto-discovered",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "biomedical",
+      "biomedical-data",
+      "biomedical-language",
+      "information-extraction",
+      "medical-informatics"
+    ],
+    "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
+    "discovered": true,
+    "discovered_at": "2026-05-25",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:439; text:bioinformatics+workflow",
+    "license": "CC0-1.0",
+    "updated_at": "2026-05-21T02:22:05Z",
+    "pushed_at": "2026-05-20T14:52:07Z",
+    "forks_snapshot": 37,
+    "stars_snapshot_2026_05_25": 439
+  },
+  {
     "name": "awesome-cheminformatics",
     "type": "workflow-engine",
     "url": "https://github.com/hsiaoyi0504/awesome-cheminformatics",
@@ -472,6 +499,34 @@
     ]
   },
   {
+    "name": "ProLIF",
+    "type": "workflow-engine",
+    "url": "https://github.com/chemosim-lab/ProLIF",
+    "github": "chemosim-lab/ProLIF",
+    "tags": [
+      "auto-discovered",
+      "cheminformatics",
+      "docking",
+      "drug-design",
+      "drug-discovery",
+      "mdanalysis",
+      "molecular-dynamics",
+      "rdkit"
+    ],
+    "description": "Interaction Fingerprints for protein-ligand complexes and more",
+    "homepage": "https://prolif.readthedocs.io",
+    "discovered": true,
+    "discovered_at": "2026-05-25",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:cheminformatics; stars:499; text:molecular+workflow",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-25T01:53:48Z",
+    "pushed_at": "2026-05-19T19:52:35Z",
+    "forks_snapshot": 99,
+    "stars_snapshot_2026_05_25": 499
+  },
+  {
     "name": "scikit-bio",
     "type": "workflow-engine",
     "url": "https://github.com/scikit-bio/scikit-bio",
@@ -532,6 +587,30 @@
       "python",
       "reproducibility"
     ]
+  },
+  {
+    "name": "SqueezeMeta",
+    "type": "workflow-engine",
+    "url": "https://github.com/jtamames/SqueezeMeta",
+    "github": "jtamames/SqueezeMeta",
+    "tags": [
+      "auto-discovered",
+      "metagenomes",
+      "metagenomics",
+      "pipeline",
+      "taxonomic-assignment"
+    ],
+    "description": "A complete pipeline for metagenomic analysis",
+    "discovered": true,
+    "discovered_at": "2026-05-25",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:metagenomics; stars:446; text:bioinformatics+pipeline",
+    "language": "Scilab",
+    "license": "GPL-3.0",
+    "updated_at": "2026-05-14T18:01:44Z",
+    "pushed_at": "2026-05-11T15:24:53Z",
+    "forks_snapshot": 88,
+    "stars_snapshot_2026_05_25": 446
   },
   {
     "name": "vsearch",
@@ -810,6 +889,34 @@
     ]
   },
   {
+    "name": "Med-PaLM",
+    "type": "variant-toolkit",
+    "url": "https://github.com/kyegomez/Med-PaLM",
+    "github": "kyegomez/Med-PaLM",
+    "tags": [
+      "auto-discovered",
+      "biomedical",
+      "deep-learning",
+      "gpt4",
+      "multimodal",
+      "multimodal-deep-learning",
+      "multimodality",
+      "opensource"
+    ],
+    "description": "Towards Generalist Biomedical AI",
+    "homepage": "https://discord.gg/qUtxnK2NMf",
+    "discovered": true,
+    "discovered_at": "2026-05-25",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:432; text:biomedical+ai",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-04-06T12:05:32Z",
+    "pushed_at": "2024-02-17T09:07:00Z",
+    "forks_snapshot": 59,
+    "stars_snapshot_2026_05_25": 432
+  },
+  {
     "name": "awesome-single-cell",
     "type": "single-cell-library",
     "url": "https://github.com/seandavi/awesome-single-cell",
@@ -864,6 +971,30 @@
     "pushed_at": "2026-05-18T17:17:02Z",
     "forks_snapshot": 85,
     "stars_snapshot_2026_05_20": 1123
+  },
+  {
+    "name": "GLUE",
+    "type": "single-cell-library",
+    "url": "https://github.com/gao-lab/GLUE",
+    "github": "gao-lab/GLUE",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "deep-learning",
+      "single-cell",
+      "single-cell-multiomics"
+    ],
+    "description": "Graph-linked unified embedding for single-cell multi-omics data integration",
+    "discovered": true,
+    "discovered_at": "2026-05-25",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:466; text:single-cell+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-09T11:38:56Z",
+    "pushed_at": "2026-02-09T00:27:33Z",
+    "forks_snapshot": 74,
+    "stars_snapshot_2026_05_25": 466
   },
   {
     "name": "GTDBTk",
