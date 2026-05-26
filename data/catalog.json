@@ -407,6 +407,33 @@
     "stars_snapshot_2026_05_22": 911
   },
   {
+    "name": "MetaPhlAn",
+    "type": "workflow-engine",
+    "url": "https://github.com/biobakery/MetaPhlAn",
+    "github": "biobakery/MetaPhlAn",
+    "tags": [
+      "auto-discovered",
+      "biobakery",
+      "metagenomics",
+      "public",
+      "python",
+      "python-tools",
+      "tools"
+    ],
+    "description": "MetaPhlAn is a computational tool for profiling the composition of microbial communities from metagenomic shotgun sequencing data",
+    "homepage": "http://segatalab.cibio.unitn.it/tools/metaphlan/index.html",
+    "discovered": true,
+    "discovered_at": "2026-05-26",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:metagenomics; stars:406; text:genomic+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-22T12:56:43Z",
+    "pushed_at": "2026-05-22T12:56:39Z",
+    "forks_snapshot": 92,
+    "stars_snapshot_2026_05_26": 406
+  },
+  {
     "name": "minimap2",
     "type": "workflow-engine",
     "url": "https://github.com/lh3/minimap2",
@@ -611,6 +638,32 @@
     "pushed_at": "2026-05-11T15:24:53Z",
     "forks_snapshot": 88,
     "stars_snapshot_2026_05_25": 446
+  },
+  {
+    "name": "visual-med-alpaca",
+    "type": "workflow-engine",
+    "url": "https://github.com/cambridgeltl/visual-med-alpaca",
+    "github": "cambridgeltl/visual-med-alpaca",
+    "tags": [
+      "auto-discovered",
+      "biomedical",
+      "biomedical-image-processing",
+      "foundation-model",
+      "large-language-models",
+      "multimodal"
+    ],
+    "description": "Visual Med-Alpaca is an open-source, multi-modal foundation model designed specifically for the biomedical domain, built on the LLaMa-7B. ",
+    "homepage": "https://cambridgeltl.github.io/visual-med-alpaca/",
+    "discovered": true,
+    "discovered_at": "2026-05-26",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:394; text:biomedical+pipeline",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-04-17T02:12:47Z",
+    "pushed_at": "2024-03-11T09:57:50Z",
+    "forks_snapshot": 44,
+    "stars_snapshot_2026_05_26": 394
   },
   {
     "name": "vsearch",
@@ -1344,6 +1397,35 @@
     ]
   },
   {
+    "name": "lightdock",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/lightdock/lightdock",
+    "github": "lightdock/lightdock",
+    "tags": [
+      "auto-discovered",
+      "artificial-intelligence",
+      "bioinformatics",
+      "bioinformatics-tool",
+      "chemistry",
+      "dna",
+      "docking",
+      "glowworm-swarm-optimization",
+      "molecular-biology"
+    ],
+    "description": "Protein-protein, protein-peptide and protein-DNA docking framework based on the GSO algorithm",
+    "homepage": "https://lightdock.org/",
+    "discovered": true,
+    "discovered_at": "2026-05-26",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:393; text:bioinformatics+tool",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "updated_at": "2026-05-24T12:02:17Z",
+    "pushed_at": "2025-09-16T13:44:36Z",
+    "forks_snapshot": 55,
+    "stars_snapshot_2026_05_26": 393
+  },
+  {
     "name": "OpenFold",
     "type": "protein-structure-ai",
     "url": "https://github.com/aqlaboratory/openfold",
@@ -1354,6 +1436,62 @@
       "structure",
       "pytorch"
     ]
+  },
+  {
+    "name": "pyGeno",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/tariqdaouda/pyGeno",
+    "github": "tariqdaouda/pyGeno",
+    "tags": [
+      "auto-discovered",
+      "bed",
+      "bioinformatics",
+      "biology",
+      "cancer",
+      "cancer-genomes",
+      "cancer-genomics",
+      "csv-parser",
+      "ensembl"
+    ],
+    "description": "Personalized Genomics and Proteomics. Main diet: Ensembl, side dishes: SNPs",
+    "homepage": "http://pygeno.iric.ca",
+    "discovered": true,
+    "discovered_at": "2026-05-26",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:327; text:genomic+tool",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-03-03T07:52:26Z",
+    "pushed_at": "2025-10-07T02:52:00Z",
+    "forks_snapshot": 51,
+    "stars_snapshot_2026_05_26": 327
+  },
+  {
+    "name": "pypdb",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/williamgilpin/pypdb",
+    "github": "williamgilpin/pypdb",
+    "tags": [
+      "auto-discovered",
+      "blast",
+      "pdb",
+      "protein-data-bank",
+      "protein-sequences",
+      "protein-structure",
+      "proteins",
+      "proteomics"
+    ],
+    "description": "A Python API for the RCSB Protein Data Bank (PDB)",
+    "discovered": true,
+    "discovered_at": "2026-05-26",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:proteomics; stars:336; text:bioinformatics+tool",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-12T15:47:26Z",
+    "pushed_at": "2026-05-19T22:38:38Z",
+    "forks_snapshot": 76,
+    "stars_snapshot_2026_05_26": 336
   },
   {
     "name": "torchdrug",
