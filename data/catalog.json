@@ -166,6 +166,35 @@
     "stars_snapshot_2026_05_22": 865
   },
   {
+    "name": "biocypher",
+    "type": "workflow-engine",
+    "url": "https://github.com/biocypher/biocypher",
+    "github": "biocypher/biocypher",
+    "tags": [
+      "auto-discovered",
+      "ai-ready",
+      "biochatter",
+      "bioinformatics",
+      "biomedical",
+      "framework",
+      "knowledge-graph",
+      "neo4j",
+      "ontology"
+    ],
+    "description": "A unifying framework for biomedical research knowledge graphs",
+    "homepage": "https://biocypher.org",
+    "discovered": true,
+    "discovered_at": "2026-05-27",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:307; text:biomedical+workflow",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-26T21:40:09Z",
+    "pushed_at": "2026-05-27T01:06:50Z",
+    "forks_snapshot": 52,
+    "stars_snapshot_2026_05_27": 307
+  },
+  {
     "name": "biopandas",
     "type": "workflow-engine",
     "url": "https://github.com/BioPandas/biopandas",
@@ -325,6 +354,35 @@
     "stars_snapshot_2026_05_18": 6746
   },
   {
+    "name": "FragPipe",
+    "type": "workflow-engine",
+    "url": "https://github.com/Nesvilab/FragPipe",
+    "github": "Nesvilab/FragPipe",
+    "tags": [
+      "auto-discovered",
+      "command-line-interface",
+      "data-dependent-acquisition",
+      "data-independent-acquisition",
+      "gui",
+      "isobaric-quantification",
+      "label-free-quantification",
+      "mass-spectrometry",
+      "proteomics"
+    ],
+    "description": "A cross-platform proteomics data analysis suite",
+    "homepage": "http://fragpipe.nesvilab.org",
+    "discovered": true,
+    "discovered_at": "2026-05-27",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:proteomics; stars:297; text:proteomics+workflow",
+    "language": "Java",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-21T12:22:13Z",
+    "pushed_at": "2026-05-21T00:31:22Z",
+    "forks_snapshot": 46,
+    "stars_snapshot_2026_05_27": 297
+  },
+  {
     "name": "gnina",
     "type": "workflow-engine",
     "url": "https://github.com/gnina/gnina",
@@ -405,6 +463,32 @@
     "pushed_at": "2026-05-02T04:32:46Z",
     "forks_snapshot": 199,
     "stars_snapshot_2026_05_22": 911
+  },
+  {
+    "name": "kaiju",
+    "type": "workflow-engine",
+    "url": "https://github.com/bioinformatics-centre/kaiju",
+    "github": "bioinformatics-centre/kaiju",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "metagenomics",
+      "next-generation-sequencing",
+      "taxonomic-classification",
+      "taxonomy"
+    ],
+    "description": "Fast taxonomic classification of metagenomic sequencing reads using a protein reference database",
+    "homepage": "http://kaiju.binf.ku.dk",
+    "discovered": true,
+    "discovered_at": "2026-05-27",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:302; text:bioinformatics+workflow",
+    "language": "C",
+    "license": "GPL-3.0",
+    "updated_at": "2026-04-20T15:44:33Z",
+    "pushed_at": "2025-04-25T11:43:04Z",
+    "forks_snapshot": 70,
+    "stars_snapshot_2026_05_27": 302
   },
   {
     "name": "MetaPhlAn",
@@ -997,6 +1081,30 @@
     "stars_snapshot_2026_05_18": 3735
   },
   {
+    "name": "bionemo-framework",
+    "type": "single-cell-library",
+    "url": "https://github.com/NVIDIA/bionemo-framework",
+    "github": "NVIDIA/bionemo-framework",
+    "tags": [
+      "auto-discovered",
+      "drug-discovery",
+      "gpu",
+      "machine-learning",
+      "pytorch"
+    ],
+    "description": "BioNeMo Framework: For building and adapting AI models in drug discovery at scale",
+    "homepage": "https://nvidia.github.io/bionemo-framework/",
+    "discovered": true,
+    "discovered_at": "2026-05-27",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:753; text:biology+workflow",
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-05-27T00:38:37Z",
+    "pushed_at": "2026-05-26T21:05:09Z",
+    "forks_snapshot": 153,
+    "stars_snapshot_2026_05_27": 753
+  },
+  {
     "name": "gget",
     "type": "single-cell-library",
     "url": "https://github.com/pachterlab/gget",
@@ -1565,5 +1673,30 @@
       "diffusion",
       "ai"
     ]
+  },
+  {
+    "name": "sylph",
+    "type": "discovered-github-repo",
+    "url": "https://github.com/bluenote-1577/sylph",
+    "github": "bluenote-1577/sylph",
+    "tags": [
+      "auto-discovered",
+      "average-nucleotide-identity",
+      "k-mer",
+      "metagenomics",
+      "sketching-algorithm",
+      "taxonomic-classification"
+    ],
+    "description": "ultrafast taxonomic profiling and genome querying for metagenomic samples by abundance-corrected minhash.",
+    "discovered": true,
+    "discovered_at": "2026-05-27",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:metagenomics; stars:304; text:biology+tool",
+    "language": "Rust",
+    "license": "MIT",
+    "updated_at": "2026-05-21T13:15:27Z",
+    "pushed_at": "2026-02-03T23:24:48Z",
+    "forks_snapshot": 19,
+    "stars_snapshot_2026_05_27": 304
   }
 ]
