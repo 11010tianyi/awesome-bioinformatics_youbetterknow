@@ -354,6 +354,33 @@
     "stars_snapshot_2026_05_18": 6746
   },
   {
+    "name": "FAMSA",
+    "type": "workflow-engine",
+    "url": "https://github.com/refresh-bio/FAMSA",
+    "github": "refresh-bio/FAMSA",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "guide-tree",
+      "longest-common-subsequence",
+      "multiple-sequence-alignment",
+      "pfam",
+      "proteomics",
+      "sequence-similarity"
+    ],
+    "description": "Algorithm for ultra-scale multiple sequence alignments (3M protein sequences in 5 minutes and 24 GB of RAM)",
+    "discovered": true,
+    "discovered_at": "2026-05-28",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:253; text:fasta+workflow",
+    "language": "C++",
+    "license": "GPL-3.0",
+    "updated_at": "2026-05-27T10:45:47Z",
+    "pushed_at": "2026-04-15T08:51:20Z",
+    "forks_snapshot": 33,
+    "stars_snapshot_2026_05_28": 253
+  },
+  {
     "name": "FragPipe",
     "type": "workflow-engine",
     "url": "https://github.com/Nesvilab/FragPipe",
@@ -636,6 +663,30 @@
     "pushed_at": "2026-05-19T19:52:35Z",
     "forks_snapshot": 99,
     "stars_snapshot_2026_05_25": 499
+  },
+  {
+    "name": "sage",
+    "type": "workflow-engine",
+    "url": "https://github.com/lazear/sage",
+    "github": "lazear/sage",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "mass-spectrometry",
+      "proteomics"
+    ],
+    "description": "Proteomics search & quantification so fast that it feels like magic",
+    "homepage": "https://sage-docs.vercel.app",
+    "discovered": true,
+    "discovered_at": "2026-05-28",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:291; text:proteomics+workflow",
+    "language": "Rust",
+    "license": "MIT",
+    "updated_at": "2026-05-27T05:26:30Z",
+    "pushed_at": "2026-05-08T19:42:45Z",
+    "forks_snapshot": 66,
+    "stars_snapshot_2026_05_28": 291
   },
   {
     "name": "scikit-bio",
@@ -1245,6 +1296,34 @@
     "stars_snapshot_2026_05_24": 642
   },
   {
+    "name": "Mol-Instructions",
+    "type": "single-cell-library",
+    "url": "https://github.com/zjunlp/Mol-Instructions",
+    "github": "zjunlp/Mol-Instructions",
+    "tags": [
+      "auto-discovered",
+      "ai-for-science",
+      "biomedical",
+      "dataset",
+      "datasets",
+      "generation",
+      "iclr2024",
+      "instruction",
+      "instruction-following"
+    ],
+    "description": "[ICLR 2024] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models",
+    "discovered": true,
+    "discovered_at": "2026-05-28",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:292; text:bioinformatics+analysis",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-26T11:49:19Z",
+    "pushed_at": "2024-10-28T12:39:14Z",
+    "forks_snapshot": 15,
+    "stars_snapshot_2026_05_28": 292
+  },
+  {
     "name": "nucleotide-transformer",
     "type": "single-cell-library",
     "url": "https://github.com/instadeepai/nucleotide-transformer",
@@ -1270,6 +1349,29 @@
     "pushed_at": "2026-02-24T21:37:51Z",
     "forks_snapshot": 93,
     "stars_snapshot_2026_05_22": 871
+  },
+  {
+    "name": "pagoda2",
+    "type": "single-cell-library",
+    "url": "https://github.com/kharchenkolab/pagoda2",
+    "github": "kharchenkolab/pagoda2",
+    "tags": [
+      "auto-discovered",
+      "scrna-seq",
+      "single-cell",
+      "single-cell-rna-seq",
+      "transcriptomics"
+    ],
+    "description": "R package for analyzing and interactively exploring large-scale single-cell RNA-seq datasets",
+    "discovered": true,
+    "discovered_at": "2026-05-28",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:single-cell; stars:253; text:single-cell+pipeline",
+    "language": "JavaScript",
+    "updated_at": "2026-04-28T20:50:53Z",
+    "pushed_at": "2026-04-01T17:55:18Z",
+    "forks_snapshot": 47,
+    "stars_snapshot_2026_05_28": 253
   },
   {
     "name": "pySCENIC",
@@ -1307,6 +1409,35 @@
       "python",
       "anndata"
     ]
+  },
+  {
+    "name": "scientific-agent-skills",
+    "type": "single-cell-library",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "github": "K-Dense-AI/scientific-agent-skills",
+    "tags": [
+      "auto-discovered",
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research"
+    ],
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
+    "homepage": "https://k-dense.ai",
+    "discovered": true,
+    "discovered_at": "2026-05-28",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:26292; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-28T05:21:35Z",
+    "pushed_at": "2026-05-27T23:56:19Z",
+    "forks_snapshot": 2727,
+    "stars_snapshot_2026_05_28": 26292
   },
   {
     "name": "SCP",
