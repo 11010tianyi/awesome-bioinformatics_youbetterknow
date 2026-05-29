@@ -775,6 +775,31 @@
     "stars_snapshot_2026_05_25": 446
   },
   {
+    "name": "starfish",
+    "type": "workflow-engine",
+    "url": "https://github.com/spacetx/starfish",
+    "github": "spacetx/starfish",
+    "tags": [
+      "auto-discovered",
+      "human-cell-atlas",
+      "imaging",
+      "python",
+      "transcriptomics"
+    ],
+    "description": "starfish: unified pipelines for image-based transcriptomics",
+    "homepage": "https://spacetx-starfish.readthedocs.io/en/latest/",
+    "discovered": true,
+    "discovered_at": "2026-05-29",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:transcriptomics; stars:248; text:transcriptomics+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-17T07:53:34Z",
+    "pushed_at": "2026-05-19T20:49:47Z",
+    "forks_snapshot": 71,
+    "stars_snapshot_2026_05_29": 248
+  },
+  {
     "name": "visual-med-alpaca",
     "type": "workflow-engine",
     "url": "https://github.com/cambridgeltl/visual-med-alpaca",
@@ -1105,6 +1130,33 @@
     "stars_snapshot_2026_05_25": 432
   },
   {
+    "name": "awesome-biological-visualizations",
+    "type": "single-cell-library",
+    "url": "https://github.com/keller-mark/awesome-biological-visualizations",
+    "github": "keller-mark/awesome-biological-visualizations",
+    "tags": [
+      "auto-discovered",
+      "awesome",
+      "awesome-list",
+      "biology",
+      "cancer",
+      "data-visualization",
+      "genomics",
+      "medicine",
+      "transcriptomics"
+    ],
+    "description": "A list of web-based interactive biological data visualizations.",
+    "discovered": true,
+    "discovered_at": "2026-05-29",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:genomics; stars:231; text:biology+analysis",
+    "license": "CC0-1.0",
+    "updated_at": "2026-05-18T14:25:32Z",
+    "pushed_at": "2024-04-02T21:11:31Z",
+    "forks_snapshot": 20,
+    "stars_snapshot_2026_05_29": 231
+  },
+  {
     "name": "awesome-single-cell",
     "type": "single-cell-library",
     "url": "https://github.com/seandavi/awesome-single-cell",
@@ -1154,6 +1206,30 @@
     "pushed_at": "2026-05-26T21:05:09Z",
     "forks_snapshot": 153,
     "stars_snapshot_2026_05_27": 753
+  },
+  {
+    "name": "bionemo-framework",
+    "type": "single-cell-library",
+    "url": "https://github.com/NVIDIA-BioNeMo/bionemo-framework",
+    "github": "NVIDIA-BioNeMo/bionemo-framework",
+    "tags": [
+      "auto-discovered",
+      "drug-discovery",
+      "gpu",
+      "machine-learning",
+      "pytorch"
+    ],
+    "description": "BioNeMo Framework: For building and adapting AI models in drug discovery at scale",
+    "homepage": "https://nvidia-bionemo.github.io/bionemo-framework/",
+    "discovered": true,
+    "discovered_at": "2026-05-29",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:754; text:biology+workflow",
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-05-28T18:17:24Z",
+    "pushed_at": "2026-05-29T02:54:40Z",
+    "forks_snapshot": 153,
+    "stars_snapshot_2026_05_29": 754
   },
   {
     "name": "gget",
@@ -1324,6 +1400,35 @@
     "stars_snapshot_2026_05_28": 292
   },
   {
+    "name": "MrBiomics",
+    "type": "single-cell-library",
+    "url": "https://github.com/epigen/MrBiomics",
+    "github": "epigen/MrBiomics",
+    "tags": [
+      "auto-discovered",
+      "automation",
+      "bioinformatics",
+      "biomedical",
+      "data-science",
+      "epigenetics",
+      "framework",
+      "genetics",
+      "genomics"
+    ],
+    "description": "MrBiomics: Composable modules and recipes automate bioinformatics for multi-omics analyses",
+    "homepage": "https://epigen.github.io/MrBiomics/",
+    "discovered": true,
+    "discovered_at": "2026-05-29",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:169; text:bioinformatics+workflow",
+    "language": "R",
+    "license": "MIT",
+    "updated_at": "2026-05-27T15:25:31Z",
+    "pushed_at": "2026-04-01T11:24:46Z",
+    "forks_snapshot": 3,
+    "stars_snapshot_2026_05_29": 169
+  },
+  {
     "name": "nucleotide-transformer",
     "type": "single-cell-library",
     "url": "https://github.com/instadeepai/nucleotide-transformer",
@@ -1409,6 +1514,35 @@
       "python",
       "anndata"
     ]
+  },
+  {
+    "name": "SciAgent-Skills",
+    "type": "single-cell-library",
+    "url": "https://github.com/jaechang-hits/SciAgent-Skills",
+    "github": "jaechang-hits/SciAgent-Skills",
+    "tags": [
+      "auto-discovered",
+      "ai-agent",
+      "bioinformatics",
+      "biostatistics",
+      "bixbench",
+      "cheminformatics",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills"
+    ],
+    "description": "197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.",
+    "homepage": "https://omicshorizon.ai/en/",
+    "discovered": true,
+    "discovered_at": "2026-05-29",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:184; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-29T04:59:41Z",
+    "pushed_at": "2026-05-28T08:36:33Z",
+    "forks_snapshot": 19,
+    "stars_snapshot_2026_05_29": 184
   },
   {
     "name": "scientific-agent-skills",
