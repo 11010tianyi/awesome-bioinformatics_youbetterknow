@@ -116,6 +116,31 @@
     "stars_snapshot_2026_05_22": 836
   },
   {
+    "name": "alphapeptdeep",
+    "type": "workflow-engine",
+    "url": "https://github.com/MannLabs/alphapeptdeep",
+    "github": "MannLabs/alphapeptdeep",
+    "tags": [
+      "auto-discovered",
+      "deep-learning",
+      "hla",
+      "machine-learning",
+      "proteomics",
+      "python"
+    ],
+    "description": "Deep learning framework for proteomics",
+    "discovered": true,
+    "discovered_at": "2026-05-30",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:proteomics; stars:152; text:proteomics+workflow",
+    "language": "Jupyter Notebook",
+    "license": "Apache-2.0",
+    "updated_at": "2026-05-26T15:14:36Z",
+    "pushed_at": "2026-05-26T15:04:31Z",
+    "forks_snapshot": 26,
+    "stars_snapshot_2026_05_30": 152
+  },
+  {
     "name": "awesome-bioie",
     "type": "workflow-engine",
     "url": "https://github.com/caufieldjh/awesome-bioie",
@@ -164,6 +189,32 @@
     "pushed_at": "2024-03-15T00:55:18Z",
     "forks_snapshot": 140,
     "stars_snapshot_2026_05_22": 865
+  },
+  {
+    "name": "awesome-healthcare-datasets",
+    "type": "workflow-engine",
+    "url": "https://github.com/geniusrise/awesome-healthcare-datasets",
+    "github": "geniusrise/awesome-healthcare-datasets",
+    "tags": [
+      "auto-discovered",
+      "awesome-list",
+      "biomedical",
+      "clinical",
+      "datasets",
+      "healthcare",
+      "imaging",
+      "omics"
+    ],
+    "description": "Healthcare and biomedical datasets, for AI/ML",
+    "discovered": true,
+    "discovered_at": "2026-05-30",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:126; text:biomedical+pipeline",
+    "license": "CC0-1.0",
+    "updated_at": "2026-05-28T16:52:18Z",
+    "pushed_at": "2025-02-23T06:04:49Z",
+    "forks_snapshot": 22,
+    "stars_snapshot_2026_05_30": 126
   },
   {
     "name": "biocypher",
@@ -545,6 +596,35 @@
     "stars_snapshot_2026_05_26": 406
   },
   {
+    "name": "MicrobiomeBestPracticeReview",
+    "type": "workflow-engine",
+    "url": "https://github.com/grimmlab/MicrobiomeBestPracticeReview",
+    "github": "grimmlab/MicrobiomeBestPracticeReview",
+    "tags": [
+      "auto-discovered",
+      "16s-rrna",
+      "amplicon-sequencing",
+      "assembly",
+      "best-practices",
+      "bioinformatics",
+      "biomedical",
+      "metagenomics",
+      "microbiome"
+    ],
+    "description": "Current Challenges and Best Practice Protocols for Microbiome Analysis using Amplicon and Metagenomic Sequencing",
+    "homepage": "https://www.bit.cs.tum.de/",
+    "discovered": true,
+    "discovered_at": "2026-05-30",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:126; text:bioinformatics+workflow",
+    "language": "Shell",
+    "license": "MIT",
+    "updated_at": "2026-04-21T08:00:53Z",
+    "pushed_at": "2024-05-12T20:02:21Z",
+    "forks_snapshot": 39,
+    "stars_snapshot_2026_05_30": 126
+  },
+  {
     "name": "minimap2",
     "type": "workflow-engine",
     "url": "https://github.com/lh3/minimap2",
@@ -635,6 +715,34 @@
       "hpc",
       "cloud"
     ]
+  },
+  {
+    "name": "plass",
+    "type": "workflow-engine",
+    "url": "https://github.com/soedinglab/plass",
+    "github": "soedinglab/plass",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "metagenomics",
+      "metatranscriptomics",
+      "opensource",
+      "proteins",
+      "proteomics",
+      "sequence-assembler"
+    ],
+    "description": "sensitive and precise assembly of short sequencing reads",
+    "homepage": "https://plass.mmseqs.com",
+    "discovered": true,
+    "discovered_at": "2026-05-30",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:167; text:genomic+workflow",
+    "language": "C",
+    "license": "GPL-3.0",
+    "updated_at": "2026-04-28T15:40:30Z",
+    "pushed_at": "2024-10-11T20:43:30Z",
+    "forks_snapshot": 15,
+    "stars_snapshot_2026_05_30": 167
   },
   {
     "name": "ProLIF",
@@ -1890,6 +1998,31 @@
     "pushed_at": "2024-08-12T02:07:40Z",
     "forks_snapshot": 221,
     "stars_snapshot_2026_05_19": 1576
+  },
+  {
+    "name": "typedb-bio",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/typedb-osi/typedb-bio",
+    "github": "typedb-osi/typedb-bio",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "biomedical",
+      "drug-discovery",
+      "knowledge-base",
+      "knowledge-discovery",
+      "knowledge-graph"
+    ],
+    "description": "TypeDB Bio: Biomedical Knowledge Graph",
+    "discovered": true,
+    "discovered_at": "2026-05-30",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:89; text:bioinformatics+database",
+    "language": "Python",
+    "updated_at": "2026-05-23T15:10:07Z",
+    "pushed_at": "2025-06-02T23:29:55Z",
+    "forks_snapshot": 35,
+    "stars_snapshot_2026_05_30": 89
   },
   {
     "name": "ESM",
