@@ -1340,6 +1340,35 @@
     "stars_snapshot_2026_05_29": 754
   },
   {
+    "name": "ClawBio",
+    "type": "single-cell-library",
+    "url": "https://github.com/ClawBio/ClawBio",
+    "github": "ClawBio/ClawBio",
+    "tags": [
+      "auto-discovered",
+      "ai-agents",
+      "bioinformatics",
+      "equity",
+      "genomics",
+      "local-first",
+      "openclaw",
+      "population-genetics",
+      "reproducibility"
+    ],
+    "description": "🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
+    "homepage": "https://clawbio.github.io/ClawBio/",
+    "discovered": true,
+    "discovered_at": "2026-06-04",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:919; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-06-04T00:10:18Z",
+    "pushed_at": "2026-06-03T19:30:11Z",
+    "forks_snapshot": 189,
+    "stars_snapshot_2026_06_04": 919
+  },
+  {
     "name": "gget",
     "type": "single-cell-library",
     "url": "https://github.com/pachterlab/gget",
