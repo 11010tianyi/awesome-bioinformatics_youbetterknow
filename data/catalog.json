@@ -1398,6 +1398,35 @@
     "stars_snapshot_2026_05_20": 1123
   },
   {
+    "name": "gget",
+    "type": "single-cell-library",
+    "url": "https://github.com/scverse/gget",
+    "github": "scverse/gget",
+    "tags": [
+      "auto-discovered",
+      "alphafold",
+      "alphafold2",
+      "archs4",
+      "blast",
+      "cellxgene",
+      "databases",
+      "enrichment-analysis",
+      "enrichr"
+    ],
+    "description": "🧬 gget enables efficient querying of genomic reference databases",
+    "homepage": "https://scverse.org/gget/",
+    "discovered": true,
+    "discovered_at": "2026-06-10",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:genomics; stars:1147; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "BSD-2-Clause",
+    "updated_at": "2026-06-10T05:29:37Z",
+    "pushed_at": "2026-06-10T02:21:15Z",
+    "forks_snapshot": 88,
+    "stars_snapshot_2026_06_10": 1147
+  },
+  {
     "name": "GLUE",
     "type": "single-cell-library",
     "url": "https://github.com/gao-lab/GLUE",

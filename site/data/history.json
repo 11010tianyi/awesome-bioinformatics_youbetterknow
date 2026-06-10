@@ -13993,6 +13993,764 @@
           "score": 98.9
         }
       ]
+    },
+    {
+      "generatedAt": "2026-06-10T05:50:34.562Z",
+      "date": "2026-06-10",
+      "projects": [
+        {
+          "id": "danielecook-awesome-bioinformatics",
+          "name": "Awesome-Bioinformatics",
+          "repo": "danielecook/Awesome-Bioinformatics",
+          "stars": 4099,
+          "forks": 716,
+          "score": 131.7
+        },
+        {
+          "id": "deepchem-deepchem",
+          "name": "deepchem",
+          "repo": "deepchem/deepchem",
+          "stars": 6793,
+          "forks": 2243,
+          "score": 129
+        },
+        {
+          "id": "jwohlwend-boltz",
+          "name": "boltz",
+          "repo": "jwohlwend/boltz",
+          "stars": 4024,
+          "forks": 839,
+          "score": 127.6
+        },
+        {
+          "id": "nextflow-io-nextflow",
+          "name": "Nextflow",
+          "repo": "nextflow-io/nextflow",
+          "stars": 3412,
+          "forks": 783,
+          "score": 127.2
+        },
+        {
+          "id": "snakemake-snakemake",
+          "name": "Snakemake",
+          "repo": "snakemake/snakemake",
+          "stars": 2811,
+          "forks": 652,
+          "score": 126.7
+        },
+        {
+          "id": "chemprop-chemprop",
+          "name": "chemprop",
+          "repo": "chemprop/chemprop",
+          "stars": 2386,
+          "forks": 744,
+          "score": 126.3
+        },
+        {
+          "id": "lh3-minimap2",
+          "name": "minimap2",
+          "repo": "lh3/minimap2",
+          "stars": 2197,
+          "forks": 465,
+          "score": 126.1
+        },
+        {
+          "id": "opengene-fastp",
+          "name": "fastp",
+          "repo": "OpenGene/fastp",
+          "stars": 2374,
+          "forks": 378,
+          "score": 125.3
+        },
+        {
+          "id": "allenai-scispacy",
+          "name": "scispacy",
+          "repo": "allenai/scispacy",
+          "stars": 1963,
+          "forks": 255,
+          "score": 124.8
+        },
+        {
+          "id": "galaxyproject-galaxy",
+          "name": "Galaxy",
+          "repo": "galaxyproject/galaxy",
+          "stars": 1789,
+          "forks": 1157,
+          "score": 124.5
+        },
+        {
+          "id": "scikit-bio-scikit-bio",
+          "name": "scikit-bio",
+          "repo": "scikit-bio/scikit-bio",
+          "stars": 1208,
+          "forks": 331,
+          "score": 124.5
+        },
+        {
+          "id": "a-r-j-graphein",
+          "name": "graphein",
+          "repo": "a-r-j/graphein",
+          "stars": 1173,
+          "forks": 141,
+          "score": 124.4
+        },
+        {
+          "id": "bigdatagenomics-adam",
+          "name": "adam",
+          "repo": "bigdatagenomics/adam",
+          "stars": 1053,
+          "forks": 313,
+          "score": 124.1
+        },
+        {
+          "id": "3dmol-3dmol-js",
+          "name": "3Dmol.js",
+          "repo": "3dmol/3Dmol.js",
+          "stars": 983,
+          "forks": 219,
+          "score": 124
+        },
+        {
+          "id": "biotite-dev-biotite",
+          "name": "biotite",
+          "repo": "biotite-dev/biotite",
+          "stars": 957,
+          "forks": 136,
+          "score": 123.9
+        },
+        {
+          "id": "gnina-gnina",
+          "name": "gnina",
+          "repo": "gnina/gnina",
+          "stars": 932,
+          "forks": 199,
+          "score": 123.8
+        },
+        {
+          "id": "mir-group-nequip",
+          "name": "nequip",
+          "repo": "mir-group/nequip",
+          "stars": 920,
+          "forks": 212,
+          "score": 123.8
+        },
+        {
+          "id": "tanghaibao-jcvi",
+          "name": "jcvi",
+          "repo": "tanghaibao/jcvi",
+          "stars": 917,
+          "forks": 201,
+          "score": 123.8
+        },
+        {
+          "id": "molecularai-aizynthfinder",
+          "name": "aizynthfinder",
+          "repo": "MolecularAI/aizynthfinder",
+          "stars": 847,
+          "forks": 178,
+          "score": 123.6
+        },
+        {
+          "id": "biopandas-biopandas",
+          "name": "biopandas",
+          "repo": "BioPandas/biopandas",
+          "stars": 752,
+          "forks": 118,
+          "score": 123.3
+        },
+        {
+          "id": "torognes-vsearch",
+          "name": "vsearch",
+          "repo": "torognes/vsearch",
+          "stars": 748,
+          "forks": 136,
+          "score": 123.2
+        },
+        {
+          "id": "nf-core-tools",
+          "name": "nf-core",
+          "repo": "nf-core/tools",
+          "stars": 311,
+          "forks": 243,
+          "score": 123
+        },
+        {
+          "id": "k-dense-ai-scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "repo": "K-Dense-AI/scientific-agent-skills",
+          "stars": 27788,
+          "forks": 2863,
+          "score": 122.7
+        },
+        {
+          "id": "bioconda-bioconda-recipes",
+          "name": "Bioconda",
+          "repo": "bioconda/bioconda-recipes",
+          "stars": 1835,
+          "forks": 3963,
+          "score": 122.6
+        },
+        {
+          "id": "epam-ketcher",
+          "name": "ketcher",
+          "repo": "epam/ketcher",
+          "stars": 808,
+          "forks": 242,
+          "score": 122.4
+        },
+        {
+          "id": "datamol-io-datamol",
+          "name": "datamol",
+          "repo": "datamol-io/datamol",
+          "stars": 537,
+          "forks": 62,
+          "score": 122.4
+        },
+        {
+          "id": "chemosim-lab-prolif",
+          "name": "ProLIF",
+          "repo": "chemosim-lab/ProLIF",
+          "stars": 504,
+          "forks": 98,
+          "score": 122.2
+        },
+        {
+          "id": "caufieldjh-awesome-bioie",
+          "name": "awesome-bioie",
+          "repo": "caufieldjh/awesome-bioie",
+          "stars": 447,
+          "forks": 39,
+          "score": 121.9
+        },
+        {
+          "id": "jtamames-squeezemeta",
+          "name": "SqueezeMeta",
+          "repo": "jtamames/SqueezeMeta",
+          "stars": 446,
+          "forks": 89,
+          "score": 121.9
+        },
+        {
+          "id": "biobakery-metaphlan",
+          "name": "MetaPhlAn",
+          "repo": "biobakery/MetaPhlAn",
+          "stars": 409,
+          "forks": 92,
+          "score": 121.7
+        },
+        {
+          "id": "biocypher-biocypher",
+          "name": "biocypher",
+          "repo": "biocypher/biocypher",
+          "stars": 312,
+          "forks": 53,
+          "score": 121
+        },
+        {
+          "id": "bioinformatics-centre-kaiju",
+          "name": "kaiju",
+          "repo": "bioinformatics-centre/kaiju",
+          "stars": 302,
+          "forks": 70,
+          "score": 120.9
+        },
+        {
+          "id": "nesvilab-fragpipe",
+          "name": "FragPipe",
+          "repo": "Nesvilab/FragPipe",
+          "stars": 300,
+          "forks": 46,
+          "score": 120.9
+        },
+        {
+          "id": "lazear-sage",
+          "name": "sage",
+          "repo": "lazear/sage",
+          "stars": 294,
+          "forks": 66,
+          "score": 120.8
+        },
+        {
+          "id": "biocontainers-containers",
+          "name": "BioContainers",
+          "repo": "BioContainers/containers",
+          "stars": 793,
+          "forks": 265,
+          "score": 120.4
+        },
+        {
+          "id": "refresh-bio-famsa",
+          "name": "FAMSA",
+          "repo": "refresh-bio/FAMSA",
+          "stars": 255,
+          "forks": 33,
+          "score": 120.4
+        },
+        {
+          "id": "spacetx-starfish",
+          "name": "starfish",
+          "repo": "spacetx/starfish",
+          "stars": 248,
+          "forks": 71,
+          "score": 120.4
+        },
+        {
+          "id": "biopython-biopython",
+          "name": "Biopython",
+          "repo": "biopython/biopython",
+          "stars": 5070,
+          "forks": 1912,
+          "score": 120.2
+        },
+        {
+          "id": "multiqc-multiqc",
+          "name": "MultiQC",
+          "repo": "MultiQC/MultiQC",
+          "stars": 1459,
+          "forks": 667,
+          "score": 120
+        },
+        {
+          "id": "rdkit-rdkit",
+          "name": "rdkit",
+          "repo": "rdkit/rdkit",
+          "stars": 3464,
+          "forks": 1020,
+          "score": 119.2
+        },
+        {
+          "id": "mannlabs-alphapeptdeep",
+          "name": "alphapeptdeep",
+          "repo": "MannLabs/alphapeptdeep",
+          "stars": 152,
+          "forks": 26,
+          "score": 119.1
+        },
+        {
+          "id": "google-deepmind-alphafold",
+          "name": "AlphaFold",
+          "repo": "google-deepmind/alphafold",
+          "stars": 14650,
+          "forks": 2625,
+          "score": 119
+        },
+        {
+          "id": "molecularsets-moses",
+          "name": "moses",
+          "repo": "molecularsets/moses",
+          "stars": 978,
+          "forks": 279,
+          "score": 118.9
+        },
+        {
+          "id": "google-deepvariant",
+          "name": "DeepVariant",
+          "repo": "google/deepvariant",
+          "stars": 3726,
+          "forks": 789,
+          "score": 118.4
+        },
+        {
+          "id": "samtools-samtools",
+          "name": "SAMtools",
+          "repo": "samtools/samtools",
+          "stars": 1914,
+          "forks": 611,
+          "score": 117.7
+        },
+        {
+          "id": "hsiaoyi0504-awesome-cheminformatics",
+          "name": "awesome-cheminformatics",
+          "repo": "hsiaoyi0504/awesome-cheminformatics",
+          "stars": 869,
+          "forks": 145,
+          "score": 117.6
+        },
+        {
+          "id": "seandavi-awesome-single-cell",
+          "name": "awesome-single-cell",
+          "repo": "seandavi/awesome-single-cell",
+          "stars": 3748,
+          "forks": 1078,
+          "score": 117.4
+        },
+        {
+          "id": "broadinstitute-gatk",
+          "name": "GATK",
+          "repo": "broadinstitute/gatk",
+          "stars": 1962,
+          "forks": 629,
+          "score": 116.8
+        },
+        {
+          "id": "satijalab-seurat",
+          "name": "Seurat",
+          "repo": "satijalab/seurat",
+          "stars": 2747,
+          "forks": 988,
+          "score": 116.6
+        },
+        {
+          "id": "scverse-scanpy",
+          "name": "Scanpy",
+          "repo": "scverse/scanpy",
+          "stars": 2486,
+          "forks": 748,
+          "score": 116.4
+        },
+        {
+          "id": "hail-is-hail",
+          "name": "hail",
+          "repo": "hail-is/hail",
+          "stars": 1064,
+          "forks": 267,
+          "score": 116.2
+        },
+        {
+          "id": "geniusrise-awesome-healthcare-datasets",
+          "name": "awesome-healthcare-datasets",
+          "repo": "geniusrise/awesome-healthcare-datasets",
+          "stars": 132,
+          "forks": 24,
+          "score": 115.7
+        },
+        {
+          "id": "cambridgeltl-visual-med-alpaca",
+          "name": "visual-med-alpaca",
+          "repo": "cambridgeltl/visual-med-alpaca",
+          "stars": 394,
+          "forks": 44,
+          "score": 115.6
+        },
+        {
+          "id": "molecularai-reinvent4",
+          "name": "REINVENT4",
+          "repo": "MolecularAI/REINVENT4",
+          "stars": 785,
+          "forks": 220,
+          "score": 115.4
+        },
+        {
+          "id": "sokrypton-colabfold",
+          "name": "ColabFold",
+          "repo": "sokrypton/ColabFold",
+          "stars": 2787,
+          "forks": 725,
+          "score": 114.7
+        },
+        {
+          "id": "theislab-single-cell-best-practices",
+          "name": "single-cell-best-practices",
+          "repo": "theislab/single-cell-best-practices",
+          "stars": 1204,
+          "forks": 272,
+          "score": 114.5
+        },
+        {
+          "id": "pachterlab-gget",
+          "name": "gget",
+          "repo": "pachterlab/gget",
+          "stars": 1147,
+          "forks": 88,
+          "score": 114.4
+        },
+        {
+          "id": "scverse-gget",
+          "name": "gget",
+          "repo": "scverse/gget",
+          "stars": 1147,
+          "forks": 88,
+          "score": 114.4
+        },
+        {
+          "id": "soedinglab-plass",
+          "name": "plass",
+          "repo": "soedinglab/plass",
+          "stars": 167,
+          "forks": 15,
+          "score": 114.4
+        },
+        {
+          "id": "bioconductor-biocmanager",
+          "name": "Bioconductor",
+          "repo": "Bioconductor/BiocManager",
+          "stars": 76,
+          "forks": 29,
+          "score": 114.3
+        },
+        {
+          "id": "aqlaboratory-openfold",
+          "name": "OpenFold",
+          "repo": "aqlaboratory/openfold",
+          "stars": 3373,
+          "forks": 679,
+          "score": 114.2
+        },
+        {
+          "id": "aipoch-medical-research-skills",
+          "name": "medical-research-skills",
+          "repo": "aipoch/medical-research-skills",
+          "stars": 1087,
+          "forks": 77,
+          "score": 114.2
+        },
+        {
+          "id": "clawbio-clawbio",
+          "name": "ClawBio",
+          "repo": "ClawBio/ClawBio",
+          "stars": 932,
+          "forks": 192,
+          "score": 113.8
+        },
+        {
+          "id": "instadeepai-nucleotide-transformer",
+          "name": "nucleotide-transformer",
+          "repo": "instadeepai/nucleotide-transformer",
+          "stars": 881,
+          "forks": 95,
+          "score": 113.7
+        },
+        {
+          "id": "nvidia-bionemo-framework",
+          "name": "bionemo-framework",
+          "repo": "NVIDIA/bionemo-framework",
+          "stars": 764,
+          "forks": 157,
+          "score": 113.3
+        },
+        {
+          "id": "nvidia-bionemo-bionemo-framework",
+          "name": "bionemo-framework",
+          "repo": "NVIDIA-BioNeMo/bionemo-framework",
+          "stars": 764,
+          "forks": 157,
+          "score": 113.3
+        },
+        {
+          "id": "soedinglab-mmseqs2",
+          "name": "MMseqs2",
+          "repo": "soedinglab/MMseqs2",
+          "stars": 2079,
+          "forks": 290,
+          "score": 112.9
+        },
+        {
+          "id": "zhanghao-njmu-scp",
+          "name": "SCP",
+          "repo": "zhanghao-njmu/SCP",
+          "stars": 647,
+          "forks": 124,
+          "score": 112.9
+        },
+        {
+          "id": "cafferychen777-mllmcelltype",
+          "name": "mLLMCelltype",
+          "repo": "cafferychen777/mLLMCelltype",
+          "stars": 644,
+          "forks": 55,
+          "score": 112.9
+        },
+        {
+          "id": "rosettacommons-rfdiffusion",
+          "name": "RFdiffusion",
+          "repo": "RosettaCommons/RFdiffusion",
+          "stars": 2904,
+          "forks": 620,
+          "score": 112.8
+        },
+        {
+          "id": "ecogenomics-gtdbtk",
+          "name": "GTDBTk",
+          "repo": "Ecogenomics/GTDBTk",
+          "stars": 606,
+          "forks": 99,
+          "score": 112.7
+        },
+        {
+          "id": "grimmlab-microbiomebestpracticereview",
+          "name": "MicrobiomeBestPracticeReview",
+          "repo": "grimmlab/MicrobiomeBestPracticeReview",
+          "stars": 126,
+          "forks": 39,
+          "score": 112.6
+        },
+        {
+          "id": "chanzuckerberg-cellxgene",
+          "name": "CELLxGENE",
+          "repo": "chanzuckerberg/cellxgene",
+          "stars": 775,
+          "forks": 152,
+          "score": 112.3
+        },
+        {
+          "id": "cbioportal-cbioportal",
+          "name": "cBioPortal",
+          "repo": "cBioPortal/cbioportal",
+          "stars": 1013,
+          "forks": 858,
+          "score": 112
+        },
+        {
+          "id": "hongxinxiang-awesome-ai-bioinformatics",
+          "name": "awesome-ai-bioinformatics",
+          "repo": "HongxinXiang/awesome-ai-bioinformatics",
+          "stars": 55,
+          "forks": 15,
+          "score": 111.5
+        },
+        {
+          "id": "gao-lab-glue",
+          "name": "GLUE",
+          "repo": "gao-lab/GLUE",
+          "stars": 468,
+          "forks": 71,
+          "score": 111
+        },
+        {
+          "id": "aertslab-pyscenic",
+          "name": "pySCENIC",
+          "repo": "aertslab/pySCENIC",
+          "stars": 614,
+          "forks": 211,
+          "score": 110.7
+        },
+        {
+          "id": "ensembl-ensembl-vep",
+          "name": "Ensembl VEP",
+          "repo": "Ensembl/ensembl-vep",
+          "stars": 559,
+          "forks": 178,
+          "score": 110.5
+        },
+        {
+          "id": "kharchenkolab-pagoda2",
+          "name": "pagoda2",
+          "repo": "kharchenkolab/pagoda2",
+          "stars": 255,
+          "forks": 47,
+          "score": 110.4
+        },
+        {
+          "id": "gcorso-diffdock",
+          "name": "DiffDock",
+          "repo": "gcorso/DiffDock",
+          "stars": 1523,
+          "forks": 351,
+          "score": 110.1
+        },
+        {
+          "id": "jaechang-hits-sciagent-skills",
+          "name": "SciAgent-Skills",
+          "repo": "jaechang-hits/SciAgent-Skills",
+          "stars": 195,
+          "forks": 20,
+          "score": 109.8
+        },
+        {
+          "id": "epigen-mrbiomics",
+          "name": "MrBiomics",
+          "repo": "epigen/MrBiomics",
+          "stars": 169,
+          "forks": 3,
+          "score": 109.4
+        },
+        {
+          "id": "williamgilpin-pypdb",
+          "name": "pypdb",
+          "repo": "williamgilpin/pypdb",
+          "stars": 336,
+          "forks": 76,
+          "score": 109.2
+        },
+        {
+          "id": "deepgraphlearning-torchdrug",
+          "name": "torchdrug",
+          "repo": "DeepGraphLearning/torchdrug",
+          "stars": 1584,
+          "forks": 223,
+          "score": 108.2
+        },
+        {
+          "id": "facebookresearch-esm",
+          "name": "ESM",
+          "repo": "facebookresearch/esm",
+          "stars": 4114,
+          "forks": 796,
+          "score": 107.7
+        },
+        {
+          "id": "lightdock-lightdock",
+          "name": "lightdock",
+          "repo": "lightdock/lightdock",
+          "stars": 396,
+          "forks": 55,
+          "score": 107.6
+        },
+        {
+          "id": "tariqdaouda-pygeno",
+          "name": "pyGeno",
+          "repo": "tariqdaouda/pyGeno",
+          "stars": 327,
+          "forks": 51,
+          "score": 107.1
+        },
+        {
+          "id": "zjunlp-mol-instructions",
+          "name": "Mol-Instructions",
+          "repo": "zjunlp/Mol-Instructions",
+          "stars": 293,
+          "forks": 15,
+          "score": 106.8
+        },
+        {
+          "id": "dauparas-proteinmpnn",
+          "name": "ProteinMPNN",
+          "repo": "dauparas/ProteinMPNN",
+          "stars": 1755,
+          "forks": 472,
+          "score": 106.5
+        },
+        {
+          "id": "kexinhuang12345-deeppurpose",
+          "name": "DeepPurpose",
+          "repo": "kexinhuang12345/DeepPurpose",
+          "stars": 1161,
+          "forks": 303,
+          "score": 106.4
+        },
+        {
+          "id": "kyegomez-med-palm",
+          "name": "Med-PaLM",
+          "repo": "kyegomez/Med-PaLM",
+          "stars": 432,
+          "forks": 59,
+          "score": 105.8
+        },
+        {
+          "id": "keller-mark-awesome-biological-visualizations",
+          "name": "awesome-biological-visualizations",
+          "repo": "keller-mark/awesome-biological-visualizations",
+          "stars": 235,
+          "forks": 21,
+          "score": 104.2
+        },
+        {
+          "id": "typedb-osi-typedb-bio",
+          "name": "typedb-bio",
+          "repo": "typedb-osi/typedb-bio",
+          "stars": 89,
+          "forks": 35,
+          "score": 102.7
+        },
+        {
+          "id": "bluenote-1577-sylph",
+          "name": "sylph",
+          "repo": "bluenote-1577/sylph",
+          "stars": 307,
+          "forks": 19,
+          "score": 98.9
+        }
+      ]
     }
   ]
 }
