@@ -246,6 +246,30 @@
     "stars_snapshot_2026_05_27": 307
   },
   {
+    "name": "bionemo-recipes",
+    "type": "workflow-engine",
+    "url": "https://github.com/NVIDIA-BioNeMo/bionemo-recipes",
+    "github": "NVIDIA-BioNeMo/bionemo-recipes",
+    "tags": [
+      "auto-discovered",
+      "drug-discovery",
+      "gpu",
+      "machine-learning",
+      "pytorch"
+    ],
+    "description": "BioNeMo Recipes: For building and adapting AI models in drug discovery at scale",
+    "homepage": "https://nvidia-bionemo.github.io/bionemo-recipes/",
+    "discovered": true,
+    "discovered_at": "2026-06-27",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:802; text:biological+workflow",
+    "language": "Python",
+    "updated_at": "2026-06-27T04:54:39Z",
+    "pushed_at": "2026-06-27T00:12:26Z",
+    "forks_snapshot": 166,
+    "stars_snapshot_2026_06_27": 802
+  },
+  {
     "name": "biopandas",
     "type": "workflow-engine",
     "url": "https://github.com/BioPandas/biopandas",
