@@ -1262,6 +1262,35 @@
     "stars_snapshot_2026_05_25": 432
   },
   {
+    "name": "awesome-bio-agent-skills",
+    "type": "single-cell-library",
+    "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
+    "github": "BioTender-max/awesome-bio-agent-skills",
+    "tags": [
+      "auto-discovered",
+      "agent-skills",
+      "ai-agent",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "biomedical",
+      "claude"
+    ],
+    "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
+    "homepage": "https://biotender-max.github.io/awesome-bio-agent-skills/",
+    "discovered": true,
+    "discovered_at": "2026-07-08",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:90; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "updated_at": "2026-07-08T00:48:42Z",
+    "pushed_at": "2026-07-01T21:21:45Z",
+    "forks_snapshot": 19,
+    "stars_snapshot_2026_07_08": 90
+  },
+  {
     "name": "awesome-biological-visualizations",
     "type": "single-cell-library",
     "url": "https://github.com/keller-mark/awesome-biological-visualizations",
