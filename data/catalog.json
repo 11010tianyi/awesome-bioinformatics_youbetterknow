@@ -987,6 +987,35 @@
     "stars_snapshot_2026_05_23": 748
   },
   {
+    "name": "wisp-science",
+    "type": "workflow-engine",
+    "url": "https://github.com/xuzhougeng/wisp-science",
+    "github": "xuzhougeng/wisp-science",
+    "tags": [
+      "auto-discovered",
+      "agent-skills",
+      "ai-agent",
+      "ai-assistant",
+      "ai-for-science",
+      "ai4science",
+      "bioinformatics",
+      "computational-biology",
+      "desktop-app"
+    ],
+    "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
+    "homepage": "https://wispscience.com/",
+    "discovered": true,
+    "discovered_at": "2026-07-30",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:655; text:bioinformatics+workflow",
+    "language": "HTML",
+    "license": "AGPL-3.0",
+    "updated_at": "2026-07-30T03:57:02Z",
+    "pushed_at": "2026-07-30T00:45:19Z",
+    "forks_snapshot": 78,
+    "stars_snapshot_2026_07_30": 655
+  },
+  {
     "name": "fastp",
     "type": "web-platform",
     "url": "https://github.com/OpenGene/fastp",
