@@ -674,6 +674,35 @@
     "stars_snapshot_2026_05_19": 2184
   },
   {
+    "name": "mirobody",
+    "type": "workflow-engine",
+    "url": "https://github.com/thetahealth/mirobody",
+    "github": "thetahealth/mirobody",
+    "tags": [
+      "auto-discovered",
+      "ai-agents",
+      "fhir",
+      "genomics",
+      "health",
+      "health-data",
+      "lab-reports",
+      "loinc",
+      "mcp"
+    ],
+    "description": "The AI-native health data engine — collect, standardize, and reason over labs, wearables & genomics.",
+    "homepage": "https://mirobody.ai",
+    "discovered": true,
+    "discovered_at": "2026-08-17",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:genomics; stars:1058; text:genomic+pipeline",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "updated_at": "2026-08-16T15:30:12Z",
+    "pushed_at": "2026-08-14T03:23:59Z",
+    "forks_snapshot": 197,
+    "stars_snapshot_2026_08_17": 1058
+  },
+  {
     "name": "moses",
     "type": "workflow-engine",
     "url": "https://github.com/molecularsets/moses",

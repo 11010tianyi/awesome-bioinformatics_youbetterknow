@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-16T02:36:03.406Z",
-  "generatedDate": "2026-08-16",
-  "generatedDateTime": "2026/08/16 10:36:03",
+  "generatedAt": "2026-08-17T02:35:37.463Z",
+  "generatedDate": "2026-08-17",
+  "generatedDateTime": "2026/08/17 10:35:37",
   "timezone": "Asia/Shanghai",
   "totals": {
-    "projects": 97,
-    "repos": 97,
-    "stars": 173119,
-    "forks": 40362,
-    "discovered": 72,
+    "projects": 98,
+    "repos": 98,
+    "stars": 174166,
+    "forks": 40554,
+    "discovered": 73,
     "categories": 21
   },
   "projects": [
@@ -21,11 +21,11 @@
       "url": "https://github.com/danielecook/Awesome-Bioinformatics",
       "homepage": null,
       "repo": "danielecook/Awesome-Bioinformatics",
-      "stars": 4235,
+      "stars": 4236,
       "forks": 730,
       "openIssues": 34,
       "pushedAt": "2026-04-07T14:29:34Z",
-      "updatedAt": "2026-08-15T06:09:18Z",
+      "updatedAt": "2026-08-16T04:24:24Z",
       "language": null,
       "license": null,
       "score": 130.8,
@@ -49,11 +49,11 @@
       "url": "https://github.com/deepchem/deepchem",
       "homepage": "https://deepchem.io/",
       "repo": "deepchem/deepchem",
-      "stars": 6940,
-      "forks": 2284,
-      "openIssues": 1155,
+      "stars": 6943,
+      "forks": 2286,
+      "openIssues": 1157,
       "pushedAt": "2026-08-10T18:48:19Z",
-      "updatedAt": "2026-08-15T15:22:08Z",
+      "updatedAt": "2026-08-17T02:14:27Z",
       "language": "Python",
       "license": "MIT",
       "score": 129,
@@ -82,7 +82,7 @@
       "repo": "jwohlwend/boltz",
       "stars": 4163,
       "forks": 878,
-      "openIssues": 155,
+      "openIssues": 154,
       "pushedAt": "2026-05-29T08:20:25Z",
       "updatedAt": "2026-08-15T13:33:17Z",
       "language": "Python",
@@ -110,8 +110,8 @@
       "repo": "nextflow-io/nextflow",
       "stars": 3465,
       "forks": 803,
-      "openIssues": 425,
-      "pushedAt": "2026-08-15T15:08:17Z",
+      "openIssues": 426,
+      "pushedAt": "2026-08-16T09:19:26Z",
       "updatedAt": "2026-08-15T15:07:18Z",
       "language": "Groovy",
       "license": "Apache-2.0",
@@ -153,10 +153,10 @@
       "homepage": "https://snakemake.github.io",
       "repo": "snakemake/snakemake",
       "stars": 2847,
-      "forks": 653,
-      "openIssues": 1092,
-      "pushedAt": "2026-08-15T12:07:58Z",
-      "updatedAt": "2026-08-15T22:46:13Z",
+      "forks": 654,
+      "openIssues": 1091,
+      "pushedAt": "2026-08-16T06:24:05Z",
+      "updatedAt": "2026-08-16T06:23:17Z",
       "language": "Python",
       "license": "MIT",
       "score": 126.7,
@@ -181,11 +181,11 @@
       "url": "https://github.com/chemprop/chemprop",
       "homepage": "https://chemprop.csail.mit.edu",
       "repo": "chemprop/chemprop",
-      "stars": 2436,
+      "stars": 2435,
       "forks": 755,
       "openIssues": 13,
       "pushedAt": "2026-08-04T22:51:10Z",
-      "updatedAt": "2026-08-15T22:37:49Z",
+      "updatedAt": "2026-08-16T12:22:18Z",
       "language": "Python",
       "license": "NOASSERTION",
       "score": 126.3,
@@ -210,11 +210,11 @@
       "url": "https://github.com/lh3/minimap2",
       "homepage": "https://lh3.github.io/minimap2",
       "repo": "lh3/minimap2",
-      "stars": 2233,
+      "stars": 2235,
       "forks": 473,
       "openIssues": 74,
       "pushedAt": "2026-05-19T22:40:40Z",
-      "updatedAt": "2026-08-15T03:45:48Z",
+      "updatedAt": "2026-08-17T01:19:45Z",
       "language": "C",
       "license": "NOASSERTION",
       "score": 126.1,
@@ -239,11 +239,11 @@
       "url": "https://github.com/OpenGene/fastp",
       "homepage": null,
       "repo": "OpenGene/fastp",
-      "stars": 2410,
+      "stars": 2411,
       "forks": 383,
       "openIssues": 399,
       "pushedAt": "2026-07-30T08:41:54Z",
-      "updatedAt": "2026-08-13T18:55:56Z",
+      "updatedAt": "2026-08-16T06:17:32Z",
       "language": "C++",
       "license": "MIT",
       "score": 125.3,
@@ -285,7 +285,7 @@
       "repo": "galaxyproject/galaxy",
       "stars": 1837,
       "forks": 1160,
-      "openIssues": 2809,
+      "openIssues": 2810,
       "pushedAt": "2026-08-14T08:53:22Z",
       "updatedAt": "2026-08-15T19:19:13Z",
       "language": "Python",
@@ -323,9 +323,9 @@
       "repo": "scikit-bio/scikit-bio",
       "stars": 1225,
       "forks": 338,
-      "openIssues": 273,
-      "pushedAt": "2026-08-15T05:25:48Z",
-      "updatedAt": "2026-08-15T19:19:02Z",
+      "openIssues": 274,
+      "pushedAt": "2026-08-16T05:39:57Z",
+      "updatedAt": "2026-08-16T05:40:03Z",
       "language": "Python",
       "license": "BSD-3-Clause",
       "score": 124.5,
@@ -386,6 +386,74 @@
     },
     {
       "rank": 12,
+      "id": "thetahealth-mirobody",
+      "name": "mirobody",
+      "type": "workflow-engine",
+      "typeLabel": "工作流引擎",
+      "url": "https://github.com/thetahealth/mirobody",
+      "homepage": "https://mirobody.ai",
+      "repo": "thetahealth/mirobody",
+      "stars": 1058,
+      "forks": 197,
+      "openIssues": 12,
+      "pushedAt": "2026-08-14T03:23:59Z",
+      "updatedAt": "2026-08-16T15:30:12Z",
+      "language": "Python",
+      "license": "Apache-2.0",
+      "score": 124.1,
+      "tags": [
+        "auto-discovered",
+        "ai-agents",
+        "fhir",
+        "genomics",
+        "health",
+        "health-data",
+        "lab-reports",
+        "loinc",
+        "mcp",
+        "model-context-protocol",
+        "python",
+        "self-hosted",
+        "snomed",
+        "terminology",
+        "wearables"
+      ],
+      "description": "The AI-native health data engine — collect, standardize, and reason over labs, wearables & genomics.",
+      "discovered": true,
+      "discoveredAt": "2026-08-17",
+      "discoveryReason": "topic:genomics; stars:1058; text:genomic+pipeline"
+    },
+    {
+      "rank": 13,
+      "id": "3dmol-3dmol-js",
+      "name": "3Dmol.js",
+      "type": "workflow-engine",
+      "typeLabel": "工作流引擎",
+      "url": "https://github.com/3dmol/3Dmol.js",
+      "homepage": "https://3dmol.org/",
+      "repo": "3dmol/3Dmol.js",
+      "stars": 1005,
+      "forks": 225,
+      "openIssues": 44,
+      "pushedAt": "2026-08-17T02:01:15Z",
+      "updatedAt": "2026-08-17T02:01:40Z",
+      "language": "Jupyter Notebook",
+      "license": "NOASSERTION",
+      "score": 124,
+      "tags": [
+        "auto-discovered",
+        "computational-biology",
+        "computational-chemistry",
+        "molecular-graphics",
+        "molecular-modeling"
+      ],
+      "description": "WebGL accelerated JavaScript molecular graphics library",
+      "discovered": true,
+      "discoveredAt": "2026-05-21",
+      "discoveryReason": "topic:computational-biology; stars:971; text:bioinformatics+workflow"
+    },
+    {
+      "rank": 14,
       "id": "xuzhougeng-wisp-science",
       "name": "wisp-science",
       "type": "workflow-engine",
@@ -393,14 +461,14 @@
       "url": "https://github.com/xuzhougeng/wisp-science",
       "homepage": "https://wispscience.com/",
       "repo": "xuzhougeng/wisp-science",
-      "stars": 1109,
-      "forks": 113,
-      "openIssues": 6,
-      "pushedAt": "2026-08-16T02:20:40Z",
-      "updatedAt": "2026-08-16T02:20:45Z",
+      "stars": 1003,
+      "forks": 105,
+      "openIssues": 7,
+      "pushedAt": "2026-08-17T02:02:07Z",
+      "updatedAt": "2026-08-17T02:17:45Z",
       "language": "HTML",
       "license": "AGPL-3.0",
-      "score": 124.3,
+      "score": 124,
       "tags": [
         "auto-discovered",
         "agent-skills",
@@ -430,36 +498,7 @@
       "discoveryReason": "topic:bioinformatics; stars:655; text:bioinformatics+workflow"
     },
     {
-      "rank": 13,
-      "id": "3dmol-3dmol-js",
-      "name": "3Dmol.js",
-      "type": "workflow-engine",
-      "typeLabel": "工作流引擎",
-      "url": "https://github.com/3dmol/3Dmol.js",
-      "homepage": "https://3dmol.org/",
-      "repo": "3dmol/3Dmol.js",
-      "stars": 1005,
-      "forks": 225,
-      "openIssues": 45,
-      "pushedAt": "2026-05-22T15:56:30Z",
-      "updatedAt": "2026-08-13T20:48:44Z",
-      "language": "Jupyter Notebook",
-      "license": "NOASSERTION",
-      "score": 124,
-      "tags": [
-        "auto-discovered",
-        "computational-biology",
-        "computational-chemistry",
-        "molecular-graphics",
-        "molecular-modeling"
-      ],
-      "description": "WebGL accelerated JavaScript molecular graphics library",
-      "discovered": true,
-      "discoveredAt": "2026-05-21",
-      "discoveryReason": "topic:computational-biology; stars:971; text:bioinformatics+workflow"
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "id": "biotite-dev-biotite",
       "name": "biotite",
       "type": "workflow-engine",
@@ -489,7 +528,7 @@
       "discoveryReason": "topic:bioinformatics; stars:950; text:bioinformatics+workflow"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "gnina-gnina",
       "name": "gnina",
       "type": "workflow-engine",
@@ -519,7 +558,7 @@
       "discoveryReason": "topic:cheminformatics; stars:917; text:molecular+workflow"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "mir-group-nequip",
       "name": "nequip",
       "type": "workflow-engine",
@@ -529,8 +568,8 @@
       "repo": "mir-group/nequip",
       "stars": 953,
       "forks": 212,
-      "openIssues": 7,
-      "pushedAt": "2026-08-12T00:40:37Z",
+      "openIssues": 8,
+      "pushedAt": "2026-08-16T06:50:34Z",
       "updatedAt": "2026-08-13T09:23:06Z",
       "language": "Python",
       "license": "MIT",
@@ -554,7 +593,7 @@
       "discoveryReason": "topic:drug-discovery; stars:910; text:molecular+workflow"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "allenai-scispacy",
       "name": "scispacy",
       "type": "workflow-engine",
@@ -563,7 +602,7 @@
       "homepage": "https://allenai.github.io/scispacy/",
       "repo": "allenai/scispacy",
       "stars": 1985,
-      "forks": 257,
+      "forks": 256,
       "openIssues": 56,
       "pushedAt": "2025-12-04T07:49:16Z",
       "updatedAt": "2026-08-15T17:00:53Z",
@@ -585,7 +624,7 @@
       "discoveryReason": "topic:bioinformatics; stars:1958; text:biomedical+pipeline"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "tanghaibao-jcvi",
       "name": "jcvi",
       "type": "workflow-engine",
@@ -593,11 +632,11 @@
       "url": "https://github.com/tanghaibao/jcvi",
       "homepage": null,
       "repo": "tanghaibao/jcvi",
-      "stars": 926,
+      "stars": 927,
       "forks": 201,
       "openIssues": 41,
       "pushedAt": "2026-08-12T13:58:34Z",
-      "updatedAt": "2026-08-14T04:59:33Z",
+      "updatedAt": "2026-08-16T17:16:31Z",
       "language": "Python",
       "license": "BSD-2-Clause",
       "score": 123.8,
@@ -621,7 +660,7 @@
       "discoveryReason": "topic:bioinformatics; stars:911; text:bioinformatics+workflow"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "nvidia-bionemo-bionemo-recipes",
       "name": "bionemo-recipes",
       "type": "workflow-engine",
@@ -629,11 +668,11 @@
       "url": "https://github.com/NVIDIA-BioNeMo/bionemo-recipes",
       "homepage": "https://nvidia-bionemo.github.io/bionemo-recipes/",
       "repo": "NVIDIA-BioNeMo/bionemo-recipes",
-      "stars": 843,
+      "stars": 844,
       "forks": 176,
       "openIssues": 231,
       "pushedAt": "2026-08-14T23:38:21Z",
-      "updatedAt": "2026-08-15T12:33:12Z",
+      "updatedAt": "2026-08-16T18:46:37Z",
       "language": "Python",
       "license": null,
       "score": 123.6,
@@ -650,7 +689,7 @@
       "discoveryReason": "topic:drug-discovery; stars:802; text:biological+workflow"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "biopandas-biopandas",
       "name": "biopandas",
       "type": "workflow-engine",
@@ -686,7 +725,7 @@
       "discoveryReason": "topic:bioinformatics; stars:751; text:biology+workflow"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "torognes-vsearch",
       "name": "vsearch",
       "type": "workflow-engine",
@@ -722,7 +761,7 @@
       "discoveryReason": "topic:bioinformatics; stars:748; text:genomic+workflow"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "k-dense-ai-scientific-agent-skills",
       "name": "scientific-agent-skills",
       "type": "single-cell-library",
@@ -730,11 +769,11 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "homepage": "https://k-dense.ai",
       "repo": "K-Dense-AI/scientific-agent-skills",
-      "stars": 33596,
-      "forks": 3288,
+      "stars": 33659,
+      "forks": 3289,
       "openIssues": 5,
-      "pushedAt": "2026-08-15T17:21:50Z",
-      "updatedAt": "2026-08-16T02:20:32Z",
+      "pushedAt": "2026-08-16T03:12:09Z",
+      "updatedAt": "2026-08-17T02:34:03Z",
       "language": "Python",
       "license": "MIT",
       "score": 123.2,
@@ -764,7 +803,7 @@
       "discoveryReason": "topic:bioinformatics; stars:26292; text:bioinformatics+workflow"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "bigdatagenomics-adam",
       "name": "adam",
       "type": "workflow-engine",
@@ -772,11 +811,11 @@
       "url": "https://github.com/bigdatagenomics/adam",
       "homepage": null,
       "repo": "bigdatagenomics/adam",
-      "stars": 1056,
+      "stars": 1057,
       "forks": 312,
       "openIssues": 43,
       "pushedAt": "2026-03-17T20:10:53Z",
-      "updatedAt": "2026-07-26T19:12:46Z",
+      "updatedAt": "2026-08-16T12:09:46Z",
       "language": "Scala",
       "license": "Apache-2.0",
       "score": 123.1,
@@ -799,7 +838,7 @@
       "discoveryReason": "topic:bioinformatics; stars:1051; text:bioinformatics+workflow"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "nf-core-tools",
       "name": "nf-core",
       "type": "workflow-community",
@@ -809,8 +848,8 @@
       "repo": "nf-core/tools",
       "stars": 319,
       "forks": 252,
-      "openIssues": 414,
-      "pushedAt": "2026-08-15T17:54:00Z",
+      "openIssues": 415,
+      "pushedAt": "2026-08-16T15:32:11Z",
       "updatedAt": "2026-08-06T12:13:05Z",
       "language": "Python",
       "license": "MIT",
@@ -833,7 +872,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "molecularai-aizynthfinder",
       "name": "aizynthfinder",
       "type": "workflow-engine",
@@ -864,7 +903,7 @@
       "discoveryReason": "topic:cheminformatics; stars:836; text:molecular+workflow"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "bioconda-bioconda-recipes",
       "name": "Bioconda",
       "type": "package-channel",
@@ -873,10 +912,10 @@
       "homepage": "https://bioconda.github.io",
       "repo": "bioconda/bioconda-recipes",
       "stars": 1860,
-      "forks": 4050,
-      "openIssues": 1256,
-      "pushedAt": "2026-08-16T02:17:51Z",
-      "updatedAt": "2026-08-15T23:25:00Z",
+      "forks": 4051,
+      "openIssues": 1252,
+      "pushedAt": "2026-08-17T02:30:59Z",
+      "updatedAt": "2026-08-17T02:31:23Z",
       "language": "Shell",
       "license": "MIT",
       "score": 122.6,
@@ -894,7 +933,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "epam-ketcher",
       "name": "ketcher",
       "type": "web-platform",
@@ -904,8 +943,8 @@
       "repo": "epam/ketcher",
       "stars": 859,
       "forks": 257,
-      "openIssues": 1105,
-      "pushedAt": "2026-08-15T14:18:43Z",
+      "openIssues": 1106,
+      "pushedAt": "2026-08-17T02:28:48Z",
       "updatedAt": "2026-08-15T02:19:25Z",
       "language": "TypeScript",
       "license": "Apache-2.0",
@@ -939,7 +978,7 @@
       "discoveryReason": "topic:cheminformatics; stars:795; text:biological+tool"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "datamol-io-datamol",
       "name": "datamol",
       "type": "workflow-engine",
@@ -972,7 +1011,7 @@
       "discoveryReason": "topic:cheminformatics; stars:534; text:molecular+workflow"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "chemosim-lab-prolif",
       "name": "ProLIF",
       "type": "workflow-engine",
@@ -1004,7 +1043,7 @@
       "discoveryReason": "topic:cheminformatics; stars:499; text:molecular+workflow"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "caufieldjh-awesome-bioie",
       "name": "awesome-bioie",
       "type": "workflow-engine",
@@ -1040,7 +1079,7 @@
       "discoveryReason": "topic:bioinformatics; stars:439; text:bioinformatics+workflow"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "jtamames-squeezemeta",
       "name": "SqueezeMeta",
       "type": "workflow-engine",
@@ -1069,7 +1108,7 @@
       "discoveryReason": "topic:metagenomics; stars:446; text:bioinformatics+pipeline"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "biobakery-metaphlan",
       "name": "MetaPhlAn",
       "type": "workflow-engine",
@@ -1100,7 +1139,7 @@
       "discoveryReason": "topic:metagenomics; stars:406; text:genomic+workflow"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "biocypher-biocypher",
       "name": "biocypher",
       "type": "workflow-engine",
@@ -1138,7 +1177,7 @@
       "discoveryReason": "topic:bioinformatics; stars:307; text:biomedical+workflow"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "nesvilab-fragpipe",
       "name": "FragPipe",
       "type": "workflow-engine",
@@ -1171,7 +1210,7 @@
       "discoveryReason": "topic:proteomics; stars:297; text:proteomics+workflow"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "bioinformatics-centre-kaiju",
       "name": "kaiju",
       "type": "workflow-engine",
@@ -1201,7 +1240,7 @@
       "discoveryReason": "topic:bioinformatics; stars:302; text:bioinformatics+workflow"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "lazear-sage",
       "name": "sage",
       "type": "workflow-engine",
@@ -1211,7 +1250,7 @@
       "repo": "lazear/sage",
       "stars": 301,
       "forks": 66,
-      "openIssues": 16,
+      "openIssues": 17,
       "pushedAt": "2026-06-05T14:29:39Z",
       "updatedAt": "2026-07-25T17:34:34Z",
       "language": "Rust",
@@ -1229,7 +1268,7 @@
       "discoveryReason": "topic:bioinformatics; stars:291; text:proteomics+workflow"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "refresh-bio-famsa",
       "name": "FAMSA",
       "type": "workflow-engine",
@@ -1261,7 +1300,7 @@
       "discoveryReason": "topic:bioinformatics; stars:253; text:fasta+workflow"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "biocontainers-containers",
       "name": "BioContainers",
       "type": "container-registry",
@@ -1269,11 +1308,11 @@
       "url": "https://github.com/BioContainers/containers",
       "homepage": "http://biocontainers.pro",
       "repo": "BioContainers/containers",
-      "stars": 807,
+      "stars": 808,
       "forks": 265,
       "openIssues": 43,
       "pushedAt": "2026-07-07T15:33:28Z",
-      "updatedAt": "2026-08-13T08:57:18Z",
+      "updatedAt": "2026-08-16T04:24:04Z",
       "language": "Dockerfile",
       "license": "Apache-2.0",
       "score": 120.4,
@@ -1295,7 +1334,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "spacetx-starfish",
       "name": "starfish",
       "type": "workflow-engine",
@@ -1303,11 +1342,11 @@
       "url": "https://github.com/spacetx/starfish",
       "homepage": "https://spacetx-starfish.readthedocs.io/en/latest/",
       "repo": "spacetx/starfish",
-      "stars": 249,
+      "stars": 248,
       "forks": 70,
       "openIssues": 176,
       "pushedAt": "2026-08-06T08:26:32Z",
-      "updatedAt": "2026-08-06T08:27:50Z",
+      "updatedAt": "2026-08-16T02:40:14Z",
       "language": "Python",
       "license": "MIT",
       "score": 120.4,
@@ -1324,7 +1363,7 @@
       "discoveryReason": "topic:transcriptomics; stars:248; text:transcriptomics+workflow"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "biopython-biopython",
       "name": "Biopython",
       "type": "library",
@@ -1332,11 +1371,11 @@
       "url": "https://github.com/biopython/biopython",
       "homepage": "http://biopython.org/",
       "repo": "biopython/biopython",
-      "stars": 5163,
+      "stars": 5164,
       "forks": 1932,
       "openIssues": 608,
       "pushedAt": "2026-08-06T14:29:56Z",
-      "updatedAt": "2026-08-15T19:18:51Z",
+      "updatedAt": "2026-08-16T15:27:19Z",
       "language": "Python",
       "license": "NOASSERTION",
       "score": 120.3,
@@ -1359,7 +1398,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "multiqc-multiqc",
       "name": "MultiQC",
       "type": "reporting-tool",
@@ -1367,11 +1406,11 @@
       "url": "https://github.com/MultiQC/MultiQC",
       "homepage": "https://seqera.io/multiqc/",
       "repo": "MultiQC/MultiQC",
-      "stars": 1486,
-      "forks": 682,
+      "stars": 1487,
+      "forks": 681,
       "openIssues": 294,
       "pushedAt": "2026-08-12T02:59:28Z",
-      "updatedAt": "2026-08-13T09:31:19Z",
+      "updatedAt": "2026-08-16T04:26:49Z",
       "language": "JavaScript",
       "license": "GPL-3.0",
       "score": 120,
@@ -1397,7 +1436,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "rdkit-rdkit",
       "name": "rdkit",
       "type": "library",
@@ -1405,11 +1444,11 @@
       "url": "https://github.com/rdkit/rdkit",
       "homepage": null,
       "repo": "rdkit/rdkit",
-      "stars": 3557,
+      "stars": 3558,
       "forks": 1041,
       "openIssues": 88,
-      "pushedAt": "2026-08-15T05:04:47Z",
-      "updatedAt": "2026-08-15T06:27:21Z",
+      "pushedAt": "2026-08-16T05:22:50Z",
+      "updatedAt": "2026-08-16T15:43:52Z",
       "language": "HTML",
       "license": "BSD-3-Clause",
       "score": 119.3,
@@ -1426,7 +1465,7 @@
       "discoveryReason": "topic:cheminformatics; stars:3431; text:cheminformatics+database"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "mannlabs-alphapeptdeep",
       "name": "alphapeptdeep",
       "type": "workflow-engine",
@@ -1456,7 +1495,7 @@
       "discoveryReason": "topic:proteomics; stars:152; text:proteomics+workflow"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "google-deepmind-alphafold",
       "name": "AlphaFold",
       "type": "protein-structure-ai",
@@ -1464,11 +1503,11 @@
       "url": "https://github.com/google-deepmind/alphafold",
       "homepage": null,
       "repo": "google-deepmind/alphafold",
-      "stars": 14789,
+      "stars": 14791,
       "forks": 2903,
       "openIssues": 306,
       "pushedAt": "2026-04-22T17:58:21Z",
-      "updatedAt": "2026-08-15T02:49:24Z",
+      "updatedAt": "2026-08-16T10:08:10Z",
       "language": "Python",
       "license": "Apache-2.0",
       "score": 119,
@@ -1483,7 +1522,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "geniusrise-awesome-healthcare-datasets",
       "name": "awesome-healthcare-datasets",
       "type": "workflow-engine",
@@ -1491,11 +1530,11 @@
       "url": "https://github.com/geniusrise/awesome-healthcare-datasets",
       "homepage": null,
       "repo": "geniusrise/awesome-healthcare-datasets",
-      "stars": 139,
+      "stars": 140,
       "forks": 32,
       "openIssues": 1,
       "pushedAt": "2026-08-07T13:57:24Z",
-      "updatedAt": "2026-08-11T10:10:44Z",
+      "updatedAt": "2026-08-16T20:22:23Z",
       "language": null,
       "license": "CC0-1.0",
       "score": 118.9,
@@ -1515,7 +1554,7 @@
       "discoveryReason": "topic:biomedical; stars:126; text:biomedical+pipeline"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "molecularsets-moses",
       "name": "moses",
       "type": "workflow-engine",
@@ -1544,7 +1583,7 @@
       "discoveryReason": "topic:drug-discovery; stars:970; text:molecular+pipeline"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "samtools-samtools",
       "name": "SAMtools",
       "type": "cli-toolkit",
@@ -1571,7 +1610,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "seandavi-awesome-single-cell",
       "name": "awesome-single-cell",
       "type": "single-cell-library",
@@ -1615,7 +1654,7 @@
       "discoveryReason": "topic:bioinformatics; stars:3735; text:bioinformatics+workflow"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "google-deepvariant",
       "name": "DeepVariant",
       "type": "ai-variant-caller",
@@ -1623,11 +1662,11 @@
       "url": "https://github.com/google/deepvariant",
       "homepage": null,
       "repo": "google/deepvariant",
-      "stars": 3780,
+      "stars": 3781,
       "forks": 799,
       "openIssues": 5,
       "pushedAt": "2026-03-19T04:57:17Z",
-      "updatedAt": "2026-08-15T09:39:45Z",
+      "updatedAt": "2026-08-16T12:10:49Z",
       "language": "Python",
       "license": "BSD-3-Clause",
       "score": 117.5,
@@ -1652,7 +1691,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 50,
+      "rank": 51,
       "id": "broadinstitute-gatk",
       "name": "GATK",
       "type": "variant-toolkit",
@@ -1688,7 +1727,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 51,
+      "rank": 52,
       "id": "satijalab-seurat",
       "name": "Seurat",
       "type": "single-cell-library",
@@ -1696,11 +1735,11 @@
       "url": "https://github.com/satijalab/seurat",
       "homepage": "http://www.satijalab.org/seurat",
       "repo": "satijalab/seurat",
-      "stars": 2786,
+      "stars": 2787,
       "forks": 995,
       "openIssues": 222,
       "pushedAt": "2026-08-14T20:36:36Z",
-      "updatedAt": "2026-08-15T19:28:45Z",
+      "updatedAt": "2026-08-16T19:20:29Z",
       "language": "R",
       "license": "NOASSERTION",
       "score": 116.7,
@@ -1719,7 +1758,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 52,
+      "rank": 53,
       "id": "hsiaoyi0504-awesome-cheminformatics",
       "name": "awesome-cheminformatics",
       "type": "workflow-engine",
@@ -1749,7 +1788,7 @@
       "discoveryReason": "topic:bioinformatics; stars:865; text:bioinformatics+workflow"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "id": "scverse-scanpy",
       "name": "Scanpy",
       "type": "single-cell-library",
@@ -1759,9 +1798,9 @@
       "repo": "scverse/scanpy",
       "stars": 2542,
       "forks": 762,
-      "openIssues": 523,
+      "openIssues": 524,
       "pushedAt": "2026-08-14T14:27:04Z",
-      "updatedAt": "2026-08-14T10:00:25Z",
+      "updatedAt": "2026-08-16T02:46:00Z",
       "language": "Python",
       "license": "BSD-3-Clause",
       "score": 116.4,
@@ -1783,7 +1822,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 54,
+      "rank": 55,
       "id": "hail-is-hail",
       "name": "hail",
       "type": "library",
@@ -1816,7 +1855,7 @@
       "discoveryReason": "topic:bioinformatics; stars:1060; text:genomic+analysis"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "id": "molecularai-reinvent4",
       "name": "REINVENT4",
       "type": "library",
@@ -1824,11 +1863,11 @@
       "url": "https://github.com/MolecularAI/REINVENT4",
       "homepage": null,
       "repo": "MolecularAI/REINVENT4",
-      "stars": 837,
-      "forks": 228,
-      "openIssues": 6,
+      "stars": 838,
+      "forks": 229,
+      "openIssues": 7,
       "pushedAt": "2026-08-09T12:10:41Z",
-      "updatedAt": "2026-08-15T09:33:16Z",
+      "updatedAt": "2026-08-16T20:19:58Z",
       "language": "Python",
       "license": "Apache-2.0",
       "score": 115.5,
@@ -1855,7 +1894,7 @@
       "discoveryReason": "topic:cheminformatics; stars:772; text:molecular+tool"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "id": "aipoch-medical-research-skills",
       "name": "medical-research-skills",
       "type": "single-cell-library",
@@ -1863,11 +1902,11 @@
       "url": "https://github.com/aipoch/medical-research-skills",
       "homepage": "https://aipoch.com/agent-skills",
       "repo": "aipoch/medical-research-skills",
-      "stars": 1716,
+      "stars": 1719,
       "forks": 163,
       "openIssues": 5,
       "pushedAt": "2026-07-15T12:42:34Z",
-      "updatedAt": "2026-08-15T13:35:56Z",
+      "updatedAt": "2026-08-17T02:25:26Z",
       "language": "Python",
       "license": "MIT",
       "score": 115.4,
@@ -1897,7 +1936,7 @@
       "discoveryReason": "topic:bioinformatics; stars:792; text:bioinformatics+workflow"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "id": "bioconductor-biocmanager",
       "name": "Bioconductor",
       "type": "package-ecosystem",
@@ -1927,7 +1966,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 58,
+      "rank": 59,
       "id": "sokrypton-colabfold",
       "name": "ColabFold",
       "type": "protein-structure-ai",
@@ -1935,11 +1974,11 @@
       "url": "https://github.com/sokrypton/ColabFold",
       "homepage": null,
       "repo": "sokrypton/ColabFold",
-      "stars": 2879,
+      "stars": 2880,
       "forks": 739,
       "openIssues": 406,
       "pushedAt": "2026-08-10T05:54:14Z",
-      "updatedAt": "2026-08-16T01:27:56Z",
+      "updatedAt": "2026-08-16T21:58:41Z",
       "language": "Jupyter Notebook",
       "license": "MIT",
       "score": 114.8,
@@ -1956,7 +1995,7 @@
       "discoveryReason": "topic:bioinformatics; stars:2762; text:biological+database"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "id": "theislab-single-cell-best-practices",
       "name": "single-cell-best-practices",
       "type": "single-cell-library",
@@ -1964,11 +2003,11 @@
       "url": "https://github.com/theislab/single-cell-best-practices",
       "homepage": "https://www.sc-best-practices.org",
       "repo": "theislab/single-cell-best-practices",
-      "stars": 1246,
+      "stars": 1248,
       "forks": 277,
       "openIssues": 63,
       "pushedAt": "2026-08-14T15:17:01Z",
-      "updatedAt": "2026-08-15T14:03:39Z",
+      "updatedAt": "2026-08-17T01:48:50Z",
       "language": "Jupyter Notebook",
       "license": "NOASSERTION",
       "score": 114.6,
@@ -1985,7 +2024,7 @@
       "discoveryReason": "topic:single-cell; stars:1196; text:single-cell+analysis"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "id": "cambridgeltl-visual-med-alpaca",
       "name": "visual-med-alpaca",
       "type": "workflow-engine",
@@ -2015,7 +2054,7 @@
       "discoveryReason": "topic:biomedical; stars:394; text:biomedical+pipeline"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "id": "pachterlab-gget",
       "name": "gget",
       "type": "single-cell-library",
@@ -2057,7 +2096,7 @@
       "discoveryReason": "topic:genomics; stars:1123; text:bioinformatics+workflow"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "id": "scverse-gget",
       "name": "gget",
       "type": "single-cell-library",
@@ -2099,7 +2138,7 @@
       "discoveryReason": "topic:genomics; stars:1147; text:bioinformatics+workflow"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "id": "soedinglab-plass",
       "name": "plass",
       "type": "workflow-engine",
@@ -2131,7 +2170,7 @@
       "discoveryReason": "topic:bioinformatics; stars:167; text:genomic+workflow"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "id": "clawbio-clawbio",
       "name": "ClawBio",
       "type": "single-cell-library",
@@ -2142,8 +2181,8 @@
       "stars": 1105,
       "forks": 244,
       "openIssues": 18,
-      "pushedAt": "2026-08-15T08:57:23Z",
-      "updatedAt": "2026-08-15T08:57:42Z",
+      "pushedAt": "2026-08-16T08:46:29Z",
+      "updatedAt": "2026-08-16T08:46:45Z",
       "language": "Python",
       "license": "NOASSERTION",
       "score": 114.3,
@@ -2164,7 +2203,7 @@
       "discoveryReason": "topic:bioinformatics; stars:919; text:bioinformatics+workflow"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "id": "nvidia-bionemo-framework",
       "name": "bionemo-framework",
       "type": "single-cell-library",
@@ -2172,11 +2211,11 @@
       "url": "https://github.com/NVIDIA-BioNeMo/bionemo-recipes",
       "homepage": "https://nvidia-bionemo.github.io/bionemo-recipes/",
       "repo": "NVIDIA/bionemo-framework",
-      "stars": 843,
+      "stars": 844,
       "forks": 176,
       "openIssues": 231,
       "pushedAt": "2026-08-14T23:38:21Z",
-      "updatedAt": "2026-08-15T12:33:12Z",
+      "updatedAt": "2026-08-16T18:46:37Z",
       "language": "Python",
       "license": null,
       "score": 113.6,
@@ -2193,7 +2232,7 @@
       "discoveryReason": "topic:drug-discovery; stars:753; text:biology+workflow"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "id": "nvidia-bionemo-bionemo-framework",
       "name": "bionemo-framework",
       "type": "single-cell-library",
@@ -2201,11 +2240,11 @@
       "url": "https://github.com/NVIDIA-BioNeMo/bionemo-recipes",
       "homepage": "https://nvidia-bionemo.github.io/bionemo-recipes/",
       "repo": "NVIDIA-BioNeMo/bionemo-framework",
-      "stars": 843,
+      "stars": 844,
       "forks": 176,
       "openIssues": 231,
       "pushedAt": "2026-08-14T23:38:21Z",
-      "updatedAt": "2026-08-15T12:33:12Z",
+      "updatedAt": "2026-08-16T18:46:37Z",
       "language": "Python",
       "license": null,
       "score": 113.6,
@@ -2222,7 +2261,7 @@
       "discoveryReason": "topic:drug-discovery; stars:754; text:biology+workflow"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "id": "aqlaboratory-openfold",
       "name": "OpenFold",
       "type": "protein-structure-ai",
@@ -2251,7 +2290,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 68,
+      "rank": 69,
       "id": "soedinglab-mmseqs2",
       "name": "MMseqs2",
       "type": "sequence-search",
@@ -2287,7 +2326,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 69,
+      "rank": 70,
       "id": "rosettacommons-rfdiffusion",
       "name": "RFdiffusion",
       "type": "protein-design-ai",
@@ -2295,11 +2334,11 @@
       "url": "https://github.com/RosettaCommons/RFdiffusion",
       "homepage": null,
       "repo": "RosettaCommons/RFdiffusion",
-      "stars": 3013,
+      "stars": 3015,
       "forks": 633,
       "openIssues": 245,
       "pushedAt": "2026-07-15T18:08:01Z",
-      "updatedAt": "2026-08-14T10:45:01Z",
+      "updatedAt": "2026-08-17T01:19:14Z",
       "language": "Python",
       "license": "NOASSERTION",
       "score": 112.9,
@@ -2314,7 +2353,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 70,
+      "rank": 71,
       "id": "cafferychen777-mllmcelltype",
       "name": "mLLMCelltype",
       "type": "single-cell-library",
@@ -2350,7 +2389,7 @@
       "discoveryReason": "topic:bioinformatics; stars:642; text:transcriptomics+workflow"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "id": "instadeepai-nucleotide-transformer",
       "name": "nucleotide-transformer",
       "type": "single-cell-library",
@@ -2382,7 +2421,7 @@
       "discoveryReason": "topic:genomics; stars:871; text:bioinformatics+workflow"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "id": "ecogenomics-gtdbtk",
       "name": "GTDBTk",
       "type": "single-cell-library",
@@ -2415,7 +2454,7 @@
       "discoveryReason": "topic:bioinformatics; stars:599; text:bioinformatics+pipeline"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "id": "grimmlab-microbiomebestpracticereview",
       "name": "MicrobiomeBestPracticeReview",
       "type": "workflow-engine",
@@ -2451,7 +2490,7 @@
       "discoveryReason": "topic:bioinformatics; stars:126; text:bioinformatics+workflow"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "id": "chanzuckerberg-cellxgene",
       "name": "CELLxGENE",
       "type": "single-cell-browser",
@@ -2483,7 +2522,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 75,
+      "rank": 76,
       "id": "cbioportal-cbioportal",
       "name": "cBioPortal",
       "type": "cancer-genomics-platform",
@@ -2491,11 +2530,11 @@
       "url": "https://github.com/cBioPortal/cbioportal",
       "homepage": "https://cbioportal.org",
       "repo": "cBioPortal/cbioportal",
-      "stars": 1029,
+      "stars": 1028,
       "forks": 862,
       "openIssues": 351,
       "pushedAt": "2026-08-15T21:24:30Z",
-      "updatedAt": "2026-08-15T21:23:39Z",
+      "updatedAt": "2026-08-16T08:10:02Z",
       "language": "Java",
       "license": "AGPL-3.0",
       "score": 112.1,
@@ -2514,7 +2553,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 76,
+      "rank": 77,
       "id": "zhanghao-njmu-scp",
       "name": "SCP",
       "type": "single-cell-library",
@@ -2558,7 +2597,7 @@
       "discoveryReason": "topic:single-cell; stars:642; text:genomic+workflow"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "id": "jaechang-hits-sciagent-skills",
       "name": "SciAgent-Skills",
       "type": "single-cell-library",
@@ -2566,11 +2605,11 @@
       "url": "https://github.com/jaechang-hits/SciAgent-Skills",
       "homepage": "https://omicshorizon.ai/en/",
       "repo": "jaechang-hits/SciAgent-Skills",
-      "stars": 336,
+      "stars": 337,
       "forks": 35,
       "openIssues": 9,
       "pushedAt": "2026-08-15T16:15:12Z",
-      "updatedAt": "2026-08-15T16:15:20Z",
+      "updatedAt": "2026-08-16T12:51:20Z",
       "language": "Python",
       "license": "NOASSERTION",
       "score": 111.2,
@@ -2603,7 +2642,7 @@
       "discoveryReason": "topic:bioinformatics; stars:184; text:bioinformatics+workflow"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "id": "gao-lab-glue",
       "name": "GLUE",
       "type": "single-cell-library",
@@ -2632,7 +2671,7 @@
       "discoveryReason": "topic:bioinformatics; stars:466; text:single-cell+workflow"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "id": "ensembl-ensembl-vep",
       "name": "Ensembl VEP",
       "type": "variant-annotation",
@@ -2640,11 +2679,11 @@
       "url": "https://github.com/Ensembl/ensembl-vep",
       "homepage": "https://www.ensembl.org/vep",
       "repo": "Ensembl/ensembl-vep",
-      "stars": 567,
+      "stars": 568,
       "forks": 185,
       "openIssues": 64,
       "pushedAt": "2026-08-11T10:17:43Z",
-      "updatedAt": "2026-08-13T22:55:55Z",
+      "updatedAt": "2026-08-16T14:41:57Z",
       "language": "Perl",
       "license": "Apache-2.0",
       "score": 110.5,
@@ -2659,7 +2698,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 80,
+      "rank": 81,
       "id": "kharchenkolab-pagoda2",
       "name": "pagoda2",
       "type": "single-cell-library",
@@ -2688,7 +2727,7 @@
       "discoveryReason": "topic:single-cell; stars:253; text:single-cell+pipeline"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "id": "hongxinxiang-awesome-ai-bioinformatics",
       "name": "awesome-ai-bioinformatics",
       "type": "awesome-list",
@@ -2720,7 +2759,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 82,
+      "rank": 83,
       "id": "keller-mark-awesome-biological-visualizations",
       "name": "awesome-biological-visualizations",
       "type": "single-cell-library",
@@ -2754,7 +2793,7 @@
       "discoveryReason": "topic:genomics; stars:231; text:biology+analysis"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "id": "gcorso-diffdock",
       "name": "DiffDock",
       "type": "protein-structure-ai",
@@ -2762,11 +2801,11 @@
       "url": "https://github.com/gcorso/DiffDock",
       "homepage": "https://arxiv.org/abs/2210.01776",
       "repo": "gcorso/DiffDock",
-      "stars": 1566,
+      "stars": 1567,
       "forks": 359,
       "openIssues": 132,
       "pushedAt": "2025-05-02T13:59:19Z",
-      "updatedAt": "2026-08-14T04:35:50Z",
+      "updatedAt": "2026-08-16T07:19:16Z",
       "language": "Python",
       "license": "MIT",
       "score": 110.2,
@@ -2787,7 +2826,7 @@
       "discoveryReason": "topic:computational-biology; stars:1512; text:fasta+tool"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "id": "aertslab-pyscenic",
       "name": "pySCENIC",
       "type": "single-cell-library",
@@ -2816,7 +2855,7 @@
       "discoveryReason": "topic:single-cell; stars:607; text:single-cell+workflow"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "id": "lightdock-lightdock",
       "name": "lightdock",
       "type": "protein-structure-ai",
@@ -2861,7 +2900,7 @@
       "discoveryReason": "topic:bioinformatics; stars:393; text:bioinformatics+tool"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "id": "epigen-mrbiomics",
       "name": "MrBiomics",
       "type": "single-cell-library",
@@ -2903,7 +2942,7 @@
       "discoveryReason": "topic:bioinformatics; stars:169; text:bioinformatics+workflow"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "id": "williamgilpin-pypdb",
       "name": "pypdb",
       "type": "protein-structure-ai",
@@ -2935,7 +2974,7 @@
       "discoveryReason": "topic:proteomics; stars:336; text:bioinformatics+tool"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "id": "biotender-max-awesome-bio-agent-skills",
       "name": "awesome-bio-agent-skills",
       "type": "single-cell-library",
@@ -2943,14 +2982,14 @@
       "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
       "homepage": "https://biotender-max.github.io/awesome-bio-agent-skills/",
       "repo": "BioTender-max/awesome-bio-agent-skills",
-      "stars": 148,
+      "stars": 149,
       "forks": 27,
       "openIssues": 1,
       "pushedAt": "2026-07-01T21:21:45Z",
-      "updatedAt": "2026-08-15T12:38:46Z",
+      "updatedAt": "2026-08-16T11:02:49Z",
       "language": "Python",
       "license": "NOASSERTION",
-      "score": 109,
+      "score": 109.1,
       "tags": [
         "auto-discovered",
         "agent-skills",
@@ -2980,7 +3019,7 @@
       "discoveryReason": "topic:bioinformatics; stars:90; text:bioinformatics+workflow"
     },
     {
-      "rank": 89,
+      "rank": 90,
       "id": "facebookresearch-esm",
       "name": "ESM",
       "type": "protein-language-model",
@@ -3007,7 +3046,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 90,
+      "rank": 91,
       "id": "deepgraphlearning-torchdrug",
       "name": "torchdrug",
       "type": "protein-structure-ai",
@@ -3016,7 +3055,7 @@
       "homepage": "https://torchdrug.ai/",
       "repo": "DeepGraphLearning/torchdrug",
       "stars": 1585,
-      "forks": 222,
+      "forks": 221,
       "openIssues": 124,
       "pushedAt": "2024-08-12T02:07:40Z",
       "updatedAt": "2026-08-07T11:07:50Z",
@@ -3036,7 +3075,7 @@
       "discoveryReason": "topic:drug-discovery; stars:1576; text:molecule+tool"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "id": "tariqdaouda-pygeno",
       "name": "pyGeno",
       "type": "protein-structure-ai",
@@ -3081,7 +3120,7 @@
       "discoveryReason": "topic:bioinformatics; stars:327; text:genomic+tool"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "id": "kexinhuang12345-deeppurpose",
       "name": "DeepPurpose",
       "type": "protein-structure-ai",
@@ -3125,7 +3164,7 @@
       "discoveryReason": "topic:bioinformatics; stars:1159; text:bioinformatics+tool"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "id": "kyegomez-med-palm",
       "name": "Med-PaLM",
       "type": "variant-toolkit",
@@ -3157,7 +3196,7 @@
       "discoveryReason": "topic:biomedical; stars:432; text:biomedical+ai"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "id": "zjunlp-mol-instructions",
       "name": "Mol-Instructions",
       "type": "single-cell-library",
@@ -3199,7 +3238,7 @@
       "discoveryReason": "topic:biomedical; stars:292; text:bioinformatics+analysis"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "id": "dauparas-proteinmpnn",
       "name": "ProteinMPNN",
       "type": "protein-design-ai",
@@ -3207,11 +3246,11 @@
       "url": "https://github.com/dauparas/ProteinMPNN",
       "homepage": null,
       "repo": "dauparas/ProteinMPNN",
-      "stars": 1827,
+      "stars": 1828,
       "forks": 487,
       "openIssues": 88,
       "pushedAt": "2024-08-14T02:57:30Z",
-      "updatedAt": "2026-08-15T12:15:08Z",
+      "updatedAt": "2026-08-16T12:48:40Z",
       "language": "Jupyter Notebook",
       "license": "MIT",
       "score": 105.6,
@@ -3226,7 +3265,7 @@
       "discoveryReason": null
     },
     {
-      "rank": 96,
+      "rank": 97,
       "id": "typedb-osi-typedb-bio",
       "name": "typedb-bio",
       "type": "protein-structure-ai",
@@ -3257,7 +3296,7 @@
       "discoveryReason": "topic:bioinformatics; stars:89; text:bioinformatics+database"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "id": "bluenote-1577-sylph",
       "name": "sylph",
       "type": "discovered-github-repo",
