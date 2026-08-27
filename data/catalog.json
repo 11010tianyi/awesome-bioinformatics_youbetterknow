@@ -770,6 +770,35 @@
     ]
   },
   {
+    "name": "OptimusKG",
+    "type": "workflow-engine",
+    "url": "https://github.com/mims-harvard/OptimusKG",
+    "github": "mims-harvard/OptimusKG",
+    "tags": [
+      "auto-discovered",
+      "biomedical",
+      "graph-ai",
+      "heterogeneous-graphs",
+      "knowledge-graph",
+      "multimodal-ai",
+      "multimodal-data",
+      "neo4j",
+      "ontology"
+    ],
+    "description": "A modern multimodal knowledge graph with type-specific metadata across biomedical domains.",
+    "homepage": "https://optimuskg.ai",
+    "discovered": true,
+    "discovered_at": "2026-08-27",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:125; text:biomedical+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-08-27T09:36:05Z",
+    "pushed_at": "2026-08-16T22:41:24Z",
+    "forks_snapshot": 13,
+    "stars_snapshot_2026_08_27": 125
+  },
+  {
     "name": "plass",
     "type": "workflow-engine",
     "url": "https://github.com/soedinglab/plass",
