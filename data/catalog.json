@@ -89,6 +89,34 @@
     "stars_snapshot_2026_05_21": 1051
   },
   {
+    "name": "ai-research-publications",
+    "type": "workflow-engine",
+    "url": "https://github.com/aaryansamanta/ai-research-publications",
+    "github": "aaryansamanta/ai-research-publications",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "biomedical-imaging",
+      "c-elegans",
+      "computational-biology",
+      "genetic-algorithm",
+      "graph-neural-networks",
+      "high-school-research",
+      "machine-learning"
+    ],
+    "description": "High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and science-education research. Stanford Medicine, UCLA COSMOS & UCSB SRA affiliated.",
+    "homepage": "https://aaryansamanta.github.io/",
+    "discovered": true,
+    "discovered_at": "2026-10-03",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:669; text:bioinformatics+pipeline",
+    "language": "HTML",
+    "updated_at": "2026-09-20T17:25:17Z",
+    "pushed_at": "2026-09-20T03:12:28Z",
+    "forks_snapshot": 0,
+    "stars_snapshot_2026_10_03": 669
+  },
+  {
     "name": "aizynthfinder",
     "type": "workflow-engine",
     "url": "https://github.com/MolecularAI/aizynthfinder",
