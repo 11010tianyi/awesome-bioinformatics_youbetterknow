@@ -1261,6 +1261,33 @@
     "stars_snapshot_2026_05_20": 1060
   },
   {
+    "name": "oddt",
+    "type": "library",
+    "url": "https://github.com/oddt/oddt",
+    "github": "oddt/oddt",
+    "tags": [
+      "auto-discovered",
+      "cheminformatics",
+      "docking",
+      "openbabel",
+      "python",
+      "rdkit",
+      "scoring",
+      "screening"
+    ],
+    "description": "Open Drug Discovery Toolkit",
+    "discovered": true,
+    "discovered_at": "2026-10-04",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:cheminformatics; stars:472; text:molecular+tool",
+    "language": "Python",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-10-03T21:45:54Z",
+    "pushed_at": "2026-10-03T21:45:54Z",
+    "forks_snapshot": 128,
+    "stars_snapshot_2026_10_04": 472
+  },
+  {
     "name": "rdkit",
     "type": "library",
     "url": "https://github.com/rdkit/rdkit",
