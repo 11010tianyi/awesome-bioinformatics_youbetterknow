@@ -1404,6 +1404,33 @@
     "stars_snapshot_2026_05_25": 432
   },
   {
+    "name": "awesome-ai-for-science",
+    "type": "single-cell-library",
+    "url": "https://github.com/ai4s-research/awesome-ai-for-science",
+    "github": "ai4s-research/awesome-ai-for-science",
+    "tags": [
+      "auto-discovered",
+      "ai-for-science",
+      "ai4s",
+      "ai4science",
+      "awesome",
+      "awesome-list",
+      "bioinformatics",
+      "scientific-ai"
+    ],
+    "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
+    "homepage": "https://github.com/ai-boost/awesome-ai-for-science",
+    "discovered": true,
+    "discovered_at": "2026-10-12",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:2028; text:bioinformatics+workflow",
+    "license": "MIT",
+    "updated_at": "2026-10-12T05:14:24Z",
+    "pushed_at": "2026-10-11T08:36:10Z",
+    "forks_snapshot": 249,
+    "stars_snapshot_2026_10_12": 2028
+  },
+  {
     "name": "awesome-bio-agent-skills",
     "type": "single-cell-library",
     "url": "https://github.com/BioTender-max/awesome-bio-agent-skills",
