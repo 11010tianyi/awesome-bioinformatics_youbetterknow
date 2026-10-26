@@ -274,6 +274,31 @@
     "stars_snapshot_2026_05_27": 307
   },
   {
+    "name": "biomedical-paper-reader",
+    "type": "workflow-engine",
+    "url": "https://github.com/Gaoyuan-0423/biomedical-paper-reader",
+    "github": "Gaoyuan-0423/biomedical-paper-reader",
+    "tags": [
+      "auto-discovered",
+      "agent-skills",
+      "biomedical",
+      "chinese",
+      "paper-reading",
+      "research-design"
+    ],
+    "description": "单篇生物医学论文精读 skill：逐图理解研究逻辑、评估证据边界、提炼可检验的课题设计。",
+    "discovered": true,
+    "discovered_at": "2026-10-26",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:146; text:biomedical+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-10-26T06:01:25Z",
+    "pushed_at": "2026-10-26T06:20:12Z",
+    "forks_snapshot": 0,
+    "stars_snapshot_2026_10_26": 146
+  },
+  {
     "name": "bionemo-recipes",
     "type": "workflow-engine",
     "url": "https://github.com/NVIDIA-BioNeMo/bionemo-recipes",
