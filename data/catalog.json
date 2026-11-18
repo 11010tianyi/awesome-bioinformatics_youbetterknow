@@ -2378,6 +2378,35 @@
     ]
   },
   {
+    "name": "mdexa-ai-native-database",
+    "type": "discovered-github-repo",
+    "url": "https://github.com/mdexa-ai/mdexa-ai-native-database",
+    "github": "mdexa-ai/mdexa-ai-native-database",
+    "tags": [
+      "auto-discovered",
+      "biomedical",
+      "data-provenance",
+      "dataset-licenses",
+      "healthcare",
+      "json-schema",
+      "license-verification",
+      "mcp",
+      "medical-ai"
+    ],
+    "description": "Verified license and provenance records for datasets behind medical AI: information cards, JSON Schema, decision rules and evidence index (hashes only). Cards CC BY 4.0, scripts MIT.",
+    "homepage": "https://mdexa.com/database/",
+    "discovered": true,
+    "discovered_at": "2026-11-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:192; text:medical+tool",
+    "language": "JavaScript",
+    "license": "MIT",
+    "updated_at": "2026-11-18T08:08:11Z",
+    "pushed_at": "2026-11-15T13:31:05Z",
+    "forks_snapshot": 0,
+    "stars_snapshot_2026_11_18": 192
+  },
+  {
     "name": "sylph",
     "type": "discovered-github-repo",
     "url": "https://github.com/bluenote-1577/sylph",
