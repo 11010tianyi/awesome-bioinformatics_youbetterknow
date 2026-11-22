@@ -237,7 +237,7 @@
 ## 与本仓库的关系
 
 - 本文件位于 **`awesome-bioinformatics_youbetterknow/相关性资源集/`**，是本项目的主资源清单。
-- [README.md](/Users/tianyi/Documents/Codex_project/awesome-bioinformatics_youbetterknow/README.md) 提供项目导航；[data/catalog.json](/Users/tianyi/Documents/Codex_project/awesome-bioinformatics_youbetterknow/data/catalog.json) 提供机器可读种子目录。
+- [README.md](../README.md) 提供项目导航；[data/catalog.json](../data/catalog.json) 提供机器可读种子目录。
 - 若后续要做成网页，可把本文档总表拆成 JSON，再生成筛选器、标签页和 GitHub 元数据同步任务。
 
 ---

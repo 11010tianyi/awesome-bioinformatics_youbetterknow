@@ -2,7 +2,7 @@
 
 面向生物信息程序员的整合性资源项目：把生信领域的 awesome 清单、工作流生态、主流工具链、数据库网站、单细胞/多组学、AI+Bio 项目和可复现工程基础设施放到同一张可检索地图里。
 
-> 快照日期：2026-05-17  
+> 快照日期：2026-11-22  
 > 适用读者：需要搭建、维护或评估生物信息分析栈的程序员、科研工程师和组学分析人员。  
 > 整理原则：优先收录可直接使用、有活跃社区或在真实项目中高频出现的项目、工具、网站和平台。
 
@@ -10,11 +10,11 @@
 
 | 路径 | 内容 |
 |:---|:---|
-| [相关性资源集/Bioinformatics_YouBetterKnow_全网高相关性项目清单.md](/Users/tianyi/Documents/Codex_project/awesome-bioinformatics_youbetterknow/相关性资源集/Bioinformatics_YouBetterKnow_全网高相关性项目清单.md) | 主清单：按相关性打分排序，含链接、类型、定位和使用建议 |
-| [learning/生信程序员最小知识地图.md](/Users/tianyi/Documents/Codex_project/awesome-bioinformatics_youbetterknow/learning/生信程序员最小知识地图.md) | 从程序员视角拆解生信必备知识层：数据格式、工作流、组学任务、数据库、AI+Bio |
-| [data/catalog.json](/Users/tianyi/Documents/Codex_project/awesome-bioinformatics_youbetterknow/data/catalog.json) | 机器可读种子目录，便于后续生成网页、同步 star 或扩展标签 |
-| [bioinformatics-youbetterknow.ts](/Users/tianyi/Documents/Codex_project/awesome-bioinformatics_youbetterknow/bioinformatics-youbetterknow.ts) | 自动日更生成器：抓取 GitHub 元数据、生成 Pages 数据、严格发现新种子 |
-| [site/index.html](/Users/tianyi/Documents/Codex_project/awesome-bioinformatics_youbetterknow/site/index.html) | GitHub Pages 静态仪表盘入口 |
+| [相关性资源集/Bioinformatics_YouBetterKnow_全网高相关性项目清单.md](相关性资源集/Bioinformatics_YouBetterKnow_全网高相关性项目清单.md) | 主清单：按相关性打分排序，含链接、类型、定位和使用建议 |
+| [learning/生信程序员最小知识地图.md](learning/生信程序员最小知识地图.md) | 从程序员视角拆解生信必备知识层：数据格式、工作流、组学任务、数据库、AI+Bio |
+| [data/catalog.json](data/catalog.json) | 机器可读种子目录，便于后续生成网页、同步 star 或扩展标签 |
+| [bioinformatics-youbetterknow.ts](bioinformatics-youbetterknow.ts) | 自动日更生成器：抓取 GitHub 元数据、生成 Pages 数据、严格发现新种子 |
+| [site/index.html](site/index.html) | GitHub Pages 静态仪表盘入口 |
 
 ## 当前覆盖范围
 

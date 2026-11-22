@@ -37,7 +37,7 @@
   },
   {
     "name": "3Dmol.js",
-    "type": "workflow-engine",
+    "type": "library",
     "url": "https://github.com/3dmol/3Dmol.js",
     "github": "3dmol/3Dmol.js",
     "tags": [
@@ -87,34 +87,6 @@
     "pushed_at": "2026-03-17T20:10:53Z",
     "forks_snapshot": 313,
     "stars_snapshot_2026_05_21": 1051
-  },
-  {
-    "name": "ai-research-publications",
-    "type": "workflow-engine",
-    "url": "https://github.com/aaryansamanta/ai-research-publications",
-    "github": "aaryansamanta/ai-research-publications",
-    "tags": [
-      "auto-discovered",
-      "bioinformatics",
-      "biomedical-imaging",
-      "c-elegans",
-      "computational-biology",
-      "genetic-algorithm",
-      "graph-neural-networks",
-      "high-school-research",
-      "machine-learning"
-    ],
-    "description": "High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and science-education research. Stanford Medicine, UCLA COSMOS & UCSB SRA affiliated.",
-    "homepage": "https://aaryansamanta.github.io/",
-    "discovered": true,
-    "discovered_at": "2026-10-03",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:669; text:bioinformatics+pipeline",
-    "language": "HTML",
-    "updated_at": "2026-09-20T17:25:17Z",
-    "pushed_at": "2026-09-20T03:12:28Z",
-    "forks_snapshot": 0,
-    "stars_snapshot_2026_10_03": 669
   },
   {
     "name": "aizynthfinder",
@@ -324,7 +296,7 @@
   },
   {
     "name": "biopandas",
-    "type": "workflow-engine",
+    "type": "library",
     "url": "https://github.com/BioPandas/biopandas",
     "github": "BioPandas/biopandas",
     "tags": [
@@ -353,7 +325,7 @@
   },
   {
     "name": "biotite",
-    "type": "workflow-engine",
+    "type": "library",
     "url": "https://github.com/biotite-dev/biotite",
     "github": "biotite-dev/biotite",
     "tags": [
@@ -456,7 +428,7 @@
   },
   {
     "name": "deepchem",
-    "type": "workflow-engine",
+    "type": "library",
     "url": "https://github.com/deepchem/deepchem",
     "github": "deepchem/deepchem",
     "tags": [
@@ -564,7 +536,7 @@
   },
   {
     "name": "graphein",
-    "type": "workflow-engine",
+    "type": "library",
     "url": "https://github.com/a-r-j/graphein",
     "github": "a-r-j/graphein",
     "tags": [
@@ -593,7 +565,7 @@
   },
   {
     "name": "jcvi",
-    "type": "workflow-engine",
+    "type": "library",
     "url": "https://github.com/tanghaibao/jcvi",
     "github": "tanghaibao/jcvi",
     "tags": [
@@ -633,7 +605,7 @@
       "taxonomy"
     ],
     "description": "Fast taxonomic classification of metagenomic sequencing reads using a protein reference database",
-    "homepage": "http://kaiju.binf.ku.dk",
+    "homepage": "https://kaiju.binf.ku.dk",
     "discovered": true,
     "discovered_at": "2026-05-27",
     "discovery_source": "GitHub Search API",
@@ -703,7 +675,7 @@
   },
   {
     "name": "minimap2",
-    "type": "workflow-engine",
+    "type": "cli-toolkit",
     "url": "https://github.com/lh3/minimap2",
     "github": "lh3/minimap2",
     "tags": [
@@ -933,7 +905,7 @@
   },
   {
     "name": "scikit-bio",
-    "type": "workflow-engine",
+    "type": "library",
     "url": "https://github.com/scikit-bio/scikit-bio",
     "github": "scikit-bio/scikit-bio",
     "tags": [
@@ -1377,6 +1349,19 @@
     ]
   },
   {
+    "name": "dorado",
+    "type": "cli-toolkit",
+    "url": "https://github.com/nanoporetech/dorado",
+    "github": "nanoporetech/dorado",
+    "tags": [
+      "nanopore",
+      "basecalling",
+      "genomics"
+    ],
+    "description": "Oxford Nanopore's Basecaller",
+    "stars_snapshot_2026_11_22": 888
+  },
+  {
     "name": "DeepVariant",
     "type": "ai-variant-caller",
     "url": "https://github.com/google/deepvariant",
@@ -1387,6 +1372,20 @@
       "deep-learning",
       "ngs"
     ]
+  },
+  {
+    "name": "Clair3",
+    "type": "ai-variant-caller",
+    "url": "https://github.com/HKU-BAL/Clair3",
+    "github": "HKU-BAL/Clair3",
+    "tags": [
+      "variant-calling",
+      "deep-learning",
+      "long-reads",
+      "genomics"
+    ],
+    "description": "Clair3 - Symphonizing pileup and full-alignment for deep learning-based long-read variant calling",
+    "stars_snapshot_2026_11_22": 399
   },
   {
     "name": "GATK",
@@ -1402,7 +1401,7 @@
   },
   {
     "name": "Med-PaLM",
-    "type": "variant-toolkit",
+    "type": "discovered-github-repo",
     "url": "https://github.com/kyegomez/Med-PaLM",
     "github": "kyegomez/Med-PaLM",
     "tags": [
@@ -1539,54 +1538,6 @@
     "stars_snapshot_2026_05_18": 3735
   },
   {
-    "name": "bionemo-framework",
-    "type": "single-cell-library",
-    "url": "https://github.com/NVIDIA/bionemo-framework",
-    "github": "NVIDIA/bionemo-framework",
-    "tags": [
-      "auto-discovered",
-      "drug-discovery",
-      "gpu",
-      "machine-learning",
-      "pytorch"
-    ],
-    "description": "BioNeMo Framework: For building and adapting AI models in drug discovery at scale",
-    "homepage": "https://nvidia.github.io/bionemo-framework/",
-    "discovered": true,
-    "discovered_at": "2026-05-27",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:drug-discovery; stars:753; text:biology+workflow",
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-05-27T00:38:37Z",
-    "pushed_at": "2026-05-26T21:05:09Z",
-    "forks_snapshot": 153,
-    "stars_snapshot_2026_05_27": 753
-  },
-  {
-    "name": "bionemo-framework",
-    "type": "single-cell-library",
-    "url": "https://github.com/NVIDIA-BioNeMo/bionemo-framework",
-    "github": "NVIDIA-BioNeMo/bionemo-framework",
-    "tags": [
-      "auto-discovered",
-      "drug-discovery",
-      "gpu",
-      "machine-learning",
-      "pytorch"
-    ],
-    "description": "BioNeMo Framework: For building and adapting AI models in drug discovery at scale",
-    "homepage": "https://nvidia-bionemo.github.io/bionemo-framework/",
-    "discovered": true,
-    "discovered_at": "2026-05-29",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:drug-discovery; stars:754; text:biology+workflow",
-    "language": "Jupyter Notebook",
-    "updated_at": "2026-05-28T18:17:24Z",
-    "pushed_at": "2026-05-29T02:54:40Z",
-    "forks_snapshot": 153,
-    "stars_snapshot_2026_05_29": 754
-  },
-  {
     "name": "ClawBio",
     "type": "single-cell-library",
     "url": "https://github.com/ClawBio/ClawBio",
@@ -1614,35 +1565,6 @@
     "pushed_at": "2026-06-03T19:30:11Z",
     "forks_snapshot": 189,
     "stars_snapshot_2026_06_04": 919
-  },
-  {
-    "name": "gget",
-    "type": "single-cell-library",
-    "url": "https://github.com/pachterlab/gget",
-    "github": "pachterlab/gget",
-    "tags": [
-      "auto-discovered",
-      "alphafold",
-      "alphafold2",
-      "archs4",
-      "blast",
-      "databases",
-      "enrichment-analysis",
-      "enrichr",
-      "ensembl"
-    ],
-    "description": "🧬 gget enables efficient querying of genomic reference databases",
-    "homepage": "https://gget.bio",
-    "discovered": true,
-    "discovered_at": "2026-05-20",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:genomics; stars:1123; text:bioinformatics+workflow",
-    "language": "Python",
-    "license": "BSD-2-Clause",
-    "updated_at": "2026-05-18T17:17:07Z",
-    "pushed_at": "2026-05-18T17:17:02Z",
-    "forks_snapshot": 85,
-    "stars_snapshot_2026_05_20": 1123
   },
   {
     "name": "gget",
@@ -1904,7 +1826,7 @@
       "transcriptomics"
     ],
     "description": "pySCENIC is a lightning-fast python implementation of the SCENIC pipeline (Single-Cell rEgulatory Network Inference and Clustering) which enables biologists to infer transcription factors, gene regulatory networks and cell types from single-cell RNA-seq data.",
-    "homepage": "http://scenic.aertslab.org",
+    "homepage": "https://scenic.aertslab.org",
     "discovered": true,
     "discovered_at": "2026-05-24",
     "discovery_source": "GitHub Search API",
@@ -2051,6 +1973,19 @@
     "pushed_at": "2026-05-19T05:34:02Z",
     "forks_snapshot": 269,
     "stars_snapshot_2026_05_20": 1196
+  },
+  {
+    "name": "scGPT",
+    "type": "single-cell-library",
+    "url": "https://github.com/bowang-lab/scGPT",
+    "github": "bowang-lab/scGPT",
+    "tags": [
+      "single-cell",
+      "foundation-model",
+      "gpt"
+    ],
+    "description": "scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI",
+    "stars_snapshot_2026_11_22": 1671
   },
   {
     "name": "CELLxGENE",
@@ -2328,6 +2263,32 @@
     "pushed_at": "2025-06-02T23:29:55Z",
     "forks_snapshot": 35,
     "stars_snapshot_2026_05_30": 89
+  },
+  {
+    "name": "alphafold3",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/google-deepmind/alphafold3",
+    "github": "google-deepmind/alphafold3",
+    "tags": [
+      "protein",
+      "structure",
+      "ai"
+    ],
+    "description": "AlphaFold 3 inference pipeline.",
+    "stars_snapshot_2026_11_22": 8798
+  },
+  {
+    "name": "chai-lab",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/chaidiscovery/chai-lab",
+    "github": "chaidiscovery/chai-lab",
+    "tags": [
+      "protein",
+      "structure",
+      "ai"
+    ],
+    "description": "Chai-1, SOTA model for biomolecular structure prediction",
+    "stars_snapshot_2026_11_22": 2016
   },
   {
     "name": "ESM",
