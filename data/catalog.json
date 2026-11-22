@@ -36,31 +36,6 @@
     ]
   },
   {
-    "name": "3Dmol.js",
-    "type": "library",
-    "url": "https://github.com/3dmol/3Dmol.js",
-    "github": "3dmol/3Dmol.js",
-    "tags": [
-      "auto-discovered",
-      "computational-biology",
-      "computational-chemistry",
-      "molecular-graphics",
-      "molecular-modeling"
-    ],
-    "description": "WebGL accelerated JavaScript molecular graphics library",
-    "homepage": "https://3dmol.org/",
-    "discovered": true,
-    "discovered_at": "2026-05-21",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:computational-biology; stars:971; text:bioinformatics+workflow",
-    "language": "Jupyter Notebook",
-    "license": "NOASSERTION",
-    "updated_at": "2026-05-19T10:41:41Z",
-    "pushed_at": "2026-03-29T11:41:23Z",
-    "forks_snapshot": 218,
-    "stars_snapshot_2026_05_21": 971
-  },
-  {
     "name": "adam",
     "type": "workflow-engine",
     "url": "https://github.com/bigdatagenomics/adam",
@@ -87,6 +62,34 @@
     "pushed_at": "2026-03-17T20:10:53Z",
     "forks_snapshot": 313,
     "stars_snapshot_2026_05_21": 1051
+  },
+  {
+    "name": "ai-research-publications",
+    "type": "workflow-engine",
+    "url": "https://github.com/aaryansamanta/ai-research-publications",
+    "github": "aaryansamanta/ai-research-publications",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "biomedical-imaging",
+      "c-elegans",
+      "computational-biology",
+      "genetic-algorithm",
+      "graph-neural-networks",
+      "high-school-research",
+      "machine-learning"
+    ],
+    "description": "High-school research portfolio: 2 peer-reviewed publications (IEEE, IJHSR) + 3 active projects spanning quantum-inspired ML, computational biology, biomedical imaging, wildfire RL, and science-education research. Stanford Medicine, UCLA COSMOS & UCSB SRA affiliated.",
+    "homepage": "https://aaryansamanta.github.io/",
+    "discovered": true,
+    "discovered_at": "2026-11-22",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:664; text:biomedical+pipeline",
+    "language": "HTML",
+    "updated_at": "2026-11-16T19:47:44Z",
+    "pushed_at": "2026-11-20T17:39:34Z",
+    "forks_snapshot": 0,
+    "stars_snapshot_2026_11_22": 664
   },
   {
     "name": "aizynthfinder",
@@ -295,61 +298,6 @@
     "stars_snapshot_2026_06_27": 802
   },
   {
-    "name": "biopandas",
-    "type": "library",
-    "url": "https://github.com/BioPandas/biopandas",
-    "github": "BioPandas/biopandas",
-    "tags": [
-      "auto-discovered",
-      "bioinformatics",
-      "computational-biology",
-      "drug-discovery",
-      "mol2",
-      "molecular-structures",
-      "molecule",
-      "molecules",
-      "pandas-dataframe"
-    ],
-    "description": "Working with molecular structures in pandas DataFrames",
-    "homepage": "https://BioPandas.github.io/biopandas/",
-    "discovered": true,
-    "discovered_at": "2026-05-23",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:751; text:biology+workflow",
-    "language": "Python",
-    "license": "BSD-3-Clause",
-    "updated_at": "2026-05-22T18:26:49Z",
-    "pushed_at": "2026-05-22T18:26:43Z",
-    "forks_snapshot": 118,
-    "stars_snapshot_2026_05_23": 751
-  },
-  {
-    "name": "biotite",
-    "type": "library",
-    "url": "https://github.com/biotite-dev/biotite",
-    "github": "biotite-dev/biotite",
-    "tags": [
-      "auto-discovered",
-      "bioinformatics",
-      "computational-biology",
-      "pdb-files",
-      "sequence-analysis",
-      "structural-biology"
-    ],
-    "description": "A comprehensive library for computational molecular biology",
-    "homepage": "https://www.biotite-python.org",
-    "discovered": true,
-    "discovered_at": "2026-05-21",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:950; text:bioinformatics+workflow",
-    "language": "Python",
-    "license": "BSD-3-Clause",
-    "updated_at": "2026-05-16T14:11:06Z",
-    "pushed_at": "2026-05-16T14:51:55Z",
-    "forks_snapshot": 135,
-    "stars_snapshot_2026_05_21": 950
-  },
-  {
     "name": "boltz",
     "type": "workflow-engine",
     "url": "https://github.com/jwohlwend/boltz",
@@ -425,33 +373,6 @@
     "pushed_at": "2026-05-20T12:57:45Z",
     "forks_snapshot": 62,
     "stars_snapshot_2026_05_24": 534
-  },
-  {
-    "name": "deepchem",
-    "type": "library",
-    "url": "https://github.com/deepchem/deepchem",
-    "github": "deepchem/deepchem",
-    "tags": [
-      "auto-discovered",
-      "biology",
-      "deep-learning",
-      "drug-discovery",
-      "hacktoberfest",
-      "materials-science",
-      "quantum-chemistry"
-    ],
-    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
-    "homepage": "https://deepchem.io/",
-    "discovered": true,
-    "discovered_at": "2026-05-18",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:drug-discovery; stars:6746; text:biology+workflow",
-    "language": "Python",
-    "license": "MIT",
-    "updated_at": "2026-05-17T21:26:07Z",
-    "pushed_at": "2026-03-02T19:45:13Z",
-    "forks_snapshot": 2237,
-    "stars_snapshot_2026_05_18": 6746
   },
   {
     "name": "FAMSA",
@@ -535,63 +456,6 @@
     "stars_snapshot_2026_05_21": 917
   },
   {
-    "name": "graphein",
-    "type": "library",
-    "url": "https://github.com/a-r-j/graphein",
-    "github": "a-r-j/graphein",
-    "tags": [
-      "auto-discovered",
-      "bioinformatics",
-      "computational-biology",
-      "deep-learning",
-      "dgl",
-      "drug-discovery",
-      "gene-regulatory-networks",
-      "geometric-deep-learning",
-      "graph-neural-networks"
-    ],
-    "description": "Protein Graph Library",
-    "homepage": "https://graphein.ai/",
-    "discovered": true,
-    "discovered_at": "2026-05-20",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:1172; text:biological+workflow",
-    "language": "Jupyter Notebook",
-    "license": "MIT",
-    "updated_at": "2026-05-14T08:30:20Z",
-    "pushed_at": "2026-05-18T21:41:19Z",
-    "forks_snapshot": 141,
-    "stars_snapshot_2026_05_20": 1172
-  },
-  {
-    "name": "jcvi",
-    "type": "library",
-    "url": "https://github.com/tanghaibao/jcvi",
-    "github": "tanghaibao/jcvi",
-    "tags": [
-      "auto-discovered",
-      "allmaps",
-      "assembly",
-      "bioinformatics",
-      "blast",
-      "comparative-genomics",
-      "genetic-maps",
-      "genome-sequencing",
-      "genomics"
-    ],
-    "description": "Python library to facilitate genome assembly, annotation, and comparative genomics",
-    "discovered": true,
-    "discovered_at": "2026-05-22",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:911; text:bioinformatics+workflow",
-    "language": "Python",
-    "license": "BSD-2-Clause",
-    "updated_at": "2026-05-20T19:02:16Z",
-    "pushed_at": "2026-05-02T04:32:46Z",
-    "forks_snapshot": 199,
-    "stars_snapshot_2026_05_22": 911
-  },
-  {
     "name": "kaiju",
     "type": "workflow-engine",
     "url": "https://github.com/bioinformatics-centre/kaiju",
@@ -672,31 +536,6 @@
     "pushed_at": "2024-05-12T20:02:21Z",
     "forks_snapshot": 39,
     "stars_snapshot_2026_05_30": 126
-  },
-  {
-    "name": "minimap2",
-    "type": "cli-toolkit",
-    "url": "https://github.com/lh3/minimap2",
-    "github": "lh3/minimap2",
-    "tags": [
-      "auto-discovered",
-      "bioinformatics",
-      "genomics",
-      "sequence-alignment",
-      "spliced-alignment"
-    ],
-    "description": "A versatile pairwise aligner for genomic and spliced nucleotide sequences",
-    "homepage": "https://lh3.github.io/minimap2",
-    "discovered": true,
-    "discovered_at": "2026-05-19",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:2184; text:bioinformatics+workflow",
-    "language": "C",
-    "license": "NOASSERTION",
-    "updated_at": "2026-05-18T11:40:46Z",
-    "pushed_at": "2026-04-25T04:22:33Z",
-    "forks_snapshot": 461,
-    "stars_snapshot_2026_05_19": 2184
   },
   {
     "name": "mirobody",
@@ -902,29 +741,6 @@
     "pushed_at": "2026-05-08T19:42:45Z",
     "forks_snapshot": 66,
     "stars_snapshot_2026_05_28": 291
-  },
-  {
-    "name": "scikit-bio",
-    "type": "library",
-    "url": "https://github.com/scikit-bio/scikit-bio",
-    "github": "scikit-bio/scikit-bio",
-    "tags": [
-      "auto-discovered",
-      "bioinformatics",
-      "computational-biology"
-    ],
-    "description": "scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.",
-    "homepage": "https://scikit.bio",
-    "discovered": true,
-    "discovered_at": "2026-05-19",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:bioinformatics; stars:1205; text:bioinformatics+workflow",
-    "language": "Python",
-    "license": "BSD-3-Clause",
-    "updated_at": "2026-05-18T05:10:59Z",
-    "pushed_at": "2026-05-18T23:06:16Z",
-    "forks_snapshot": 331,
-    "stars_snapshot_2026_05_19": 1205
   },
   {
     "name": "scispacy",
@@ -1217,6 +1033,60 @@
     ]
   },
   {
+    "name": "3Dmol.js",
+    "type": "library",
+    "url": "https://github.com/3dmol/3Dmol.js",
+    "github": "3dmol/3Dmol.js",
+    "tags": [
+      "auto-discovered",
+      "computational-biology",
+      "computational-chemistry",
+      "molecular-graphics",
+      "molecular-modeling"
+    ],
+    "description": "WebGL accelerated JavaScript molecular graphics library",
+    "homepage": "https://3dmol.org/",
+    "discovered": true,
+    "discovered_at": "2026-05-21",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:computational-biology; stars:971; text:bioinformatics+workflow",
+    "language": "Jupyter Notebook",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-19T10:41:41Z",
+    "pushed_at": "2026-03-29T11:41:23Z",
+    "forks_snapshot": 218,
+    "stars_snapshot_2026_05_21": 971
+  },
+  {
+    "name": "biopandas",
+    "type": "library",
+    "url": "https://github.com/BioPandas/biopandas",
+    "github": "BioPandas/biopandas",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "computational-biology",
+      "drug-discovery",
+      "mol2",
+      "molecular-structures",
+      "molecule",
+      "molecules",
+      "pandas-dataframe"
+    ],
+    "description": "Working with molecular structures in pandas DataFrames",
+    "homepage": "https://BioPandas.github.io/biopandas/",
+    "discovered": true,
+    "discovered_at": "2026-05-23",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:751; text:biology+workflow",
+    "language": "Python",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-05-22T18:26:49Z",
+    "pushed_at": "2026-05-22T18:26:43Z",
+    "forks_snapshot": 118,
+    "stars_snapshot_2026_05_23": 751
+  },
+  {
     "name": "Biopython",
     "type": "library",
     "url": "https://biopython.org/",
@@ -1227,6 +1097,101 @@
       "sequence",
       "parsing"
     ]
+  },
+  {
+    "name": "biotite",
+    "type": "library",
+    "url": "https://github.com/biotite-dev/biotite",
+    "github": "biotite-dev/biotite",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "computational-biology",
+      "pdb-files",
+      "sequence-analysis",
+      "structural-biology"
+    ],
+    "description": "A comprehensive library for computational molecular biology",
+    "homepage": "https://www.biotite-python.org",
+    "discovered": true,
+    "discovered_at": "2026-05-21",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:950; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-05-16T14:11:06Z",
+    "pushed_at": "2026-05-16T14:51:55Z",
+    "forks_snapshot": 135,
+    "stars_snapshot_2026_05_21": 950
+  },
+  {
+    "name": "deepchem",
+    "type": "library",
+    "url": "https://github.com/deepchem/deepchem",
+    "github": "deepchem/deepchem",
+    "tags": [
+      "auto-discovered",
+      "biology",
+      "deep-learning",
+      "drug-discovery",
+      "hacktoberfest",
+      "materials-science",
+      "quantum-chemistry"
+    ],
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+    "homepage": "https://deepchem.io/",
+    "discovered": true,
+    "discovered_at": "2026-05-18",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:drug-discovery; stars:6746; text:biology+workflow",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-05-17T21:26:07Z",
+    "pushed_at": "2026-03-02T19:45:13Z",
+    "forks_snapshot": 2237,
+    "stars_snapshot_2026_05_18": 6746
+  },
+  {
+    "name": "dorado",
+    "type": "cli-toolkit",
+    "url": "https://github.com/nanoporetech/dorado",
+    "github": "nanoporetech/dorado",
+    "tags": [
+      "nanopore",
+      "basecalling",
+      "genomics"
+    ],
+    "description": "Oxford Nanopore's Basecaller",
+    "stars_snapshot_2026_11_22": 888
+  },
+  {
+    "name": "graphein",
+    "type": "library",
+    "url": "https://github.com/a-r-j/graphein",
+    "github": "a-r-j/graphein",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "computational-biology",
+      "deep-learning",
+      "dgl",
+      "drug-discovery",
+      "gene-regulatory-networks",
+      "geometric-deep-learning",
+      "graph-neural-networks"
+    ],
+    "description": "Protein Graph Library",
+    "homepage": "https://graphein.ai/",
+    "discovered": true,
+    "discovered_at": "2026-05-20",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:1172; text:biological+workflow",
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "updated_at": "2026-05-14T08:30:20Z",
+    "pushed_at": "2026-05-18T21:41:19Z",
+    "forks_snapshot": 141,
+    "stars_snapshot_2026_05_20": 1172
   },
   {
     "name": "hail",
@@ -1256,6 +1221,59 @@
     "pushed_at": "2026-05-20T02:42:54Z",
     "forks_snapshot": 265,
     "stars_snapshot_2026_05_20": 1060
+  },
+  {
+    "name": "jcvi",
+    "type": "library",
+    "url": "https://github.com/tanghaibao/jcvi",
+    "github": "tanghaibao/jcvi",
+    "tags": [
+      "auto-discovered",
+      "allmaps",
+      "assembly",
+      "bioinformatics",
+      "blast",
+      "comparative-genomics",
+      "genetic-maps",
+      "genome-sequencing",
+      "genomics"
+    ],
+    "description": "Python library to facilitate genome assembly, annotation, and comparative genomics",
+    "discovered": true,
+    "discovered_at": "2026-05-22",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:911; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "BSD-2-Clause",
+    "updated_at": "2026-05-20T19:02:16Z",
+    "pushed_at": "2026-05-02T04:32:46Z",
+    "forks_snapshot": 199,
+    "stars_snapshot_2026_05_22": 911
+  },
+  {
+    "name": "minimap2",
+    "type": "cli-toolkit",
+    "url": "https://github.com/lh3/minimap2",
+    "github": "lh3/minimap2",
+    "tags": [
+      "auto-discovered",
+      "bioinformatics",
+      "genomics",
+      "sequence-alignment",
+      "spliced-alignment"
+    ],
+    "description": "A versatile pairwise aligner for genomic and spliced nucleotide sequences",
+    "homepage": "https://lh3.github.io/minimap2",
+    "discovered": true,
+    "discovered_at": "2026-05-19",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:2184; text:bioinformatics+workflow",
+    "language": "C",
+    "license": "NOASSERTION",
+    "updated_at": "2026-05-18T11:40:46Z",
+    "pushed_at": "2026-04-25T04:22:33Z",
+    "forks_snapshot": 461,
+    "stars_snapshot_2026_05_19": 2184
   },
   {
     "name": "oddt",
@@ -1349,29 +1367,27 @@
     ]
   },
   {
-    "name": "dorado",
-    "type": "cli-toolkit",
-    "url": "https://github.com/nanoporetech/dorado",
-    "github": "nanoporetech/dorado",
+    "name": "scikit-bio",
+    "type": "library",
+    "url": "https://github.com/scikit-bio/scikit-bio",
+    "github": "scikit-bio/scikit-bio",
     "tags": [
-      "nanopore",
-      "basecalling",
-      "genomics"
+      "auto-discovered",
+      "bioinformatics",
+      "computational-biology"
     ],
-    "description": "Oxford Nanopore's Basecaller",
-    "stars_snapshot_2026_11_22": 888
-  },
-  {
-    "name": "DeepVariant",
-    "type": "ai-variant-caller",
-    "url": "https://github.com/google/deepvariant",
-    "github": "google/deepvariant",
-    "stars_snapshot_2026_05_17": 3703,
-    "tags": [
-      "variants",
-      "deep-learning",
-      "ngs"
-    ]
+    "description": "scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.",
+    "homepage": "https://scikit.bio",
+    "discovered": true,
+    "discovered_at": "2026-05-19",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:bioinformatics; stars:1205; text:bioinformatics+workflow",
+    "language": "Python",
+    "license": "BSD-3-Clause",
+    "updated_at": "2026-05-18T05:10:59Z",
+    "pushed_at": "2026-05-18T23:06:16Z",
+    "forks_snapshot": 331,
+    "stars_snapshot_2026_05_19": 1205
   },
   {
     "name": "Clair3",
@@ -1388,6 +1404,18 @@
     "stars_snapshot_2026_11_22": 399
   },
   {
+    "name": "DeepVariant",
+    "type": "ai-variant-caller",
+    "url": "https://github.com/google/deepvariant",
+    "github": "google/deepvariant",
+    "stars_snapshot_2026_05_17": 3703,
+    "tags": [
+      "variants",
+      "deep-learning",
+      "ngs"
+    ]
+  },
+  {
     "name": "GATK",
     "type": "variant-toolkit",
     "url": "https://gatk.broadinstitute.org/",
@@ -1398,34 +1426,6 @@
       "germline",
       "somatic"
     ]
-  },
-  {
-    "name": "Med-PaLM",
-    "type": "discovered-github-repo",
-    "url": "https://github.com/kyegomez/Med-PaLM",
-    "github": "kyegomez/Med-PaLM",
-    "tags": [
-      "auto-discovered",
-      "biomedical",
-      "deep-learning",
-      "gpt4",
-      "multimodal",
-      "multimodal-deep-learning",
-      "multimodality",
-      "opensource"
-    ],
-    "description": "Towards Generalist Biomedical AI",
-    "homepage": "https://discord.gg/qUtxnK2NMf",
-    "discovered": true,
-    "discovered_at": "2026-05-25",
-    "discovery_source": "GitHub Search API",
-    "discovery_reason": "topic:biomedical; stars:432; text:biomedical+ai",
-    "language": "Python",
-    "license": "MIT",
-    "updated_at": "2026-04-06T12:05:32Z",
-    "pushed_at": "2024-02-17T09:07:00Z",
-    "forks_snapshot": 59,
-    "stars_snapshot_2026_05_25": 432
   },
   {
     "name": "awesome-ai-for-science",
@@ -1851,6 +1851,19 @@
     ]
   },
   {
+    "name": "scGPT",
+    "type": "single-cell-library",
+    "url": "https://github.com/bowang-lab/scGPT",
+    "github": "bowang-lab/scGPT",
+    "tags": [
+      "single-cell",
+      "foundation-model",
+      "gpt"
+    ],
+    "description": "scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI",
+    "stars_snapshot_2026_11_22": 1671
+  },
+  {
     "name": "SciAgent-Skills",
     "type": "single-cell-library",
     "url": "https://github.com/jaechang-hits/SciAgent-Skills",
@@ -1975,19 +1988,6 @@
     "stars_snapshot_2026_05_20": 1196
   },
   {
-    "name": "scGPT",
-    "type": "single-cell-library",
-    "url": "https://github.com/bowang-lab/scGPT",
-    "github": "bowang-lab/scGPT",
-    "tags": [
-      "single-cell",
-      "foundation-model",
-      "gpt"
-    ],
-    "description": "scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI",
-    "stars_snapshot_2026_11_22": 1671
-  },
-  {
     "name": "CELLxGENE",
     "type": "single-cell-browser",
     "url": "https://cellxgene.cziscience.com/",
@@ -2012,6 +2012,19 @@
     ]
   },
   {
+    "name": "alphafold3",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/google-deepmind/alphafold3",
+    "github": "google-deepmind/alphafold3",
+    "tags": [
+      "protein",
+      "structure",
+      "ai"
+    ],
+    "description": "AlphaFold 3 inference pipeline.",
+    "stars_snapshot_2026_11_22": 8798
+  },
+  {
     "name": "cBioPortal",
     "type": "cancer-genomics-platform",
     "url": "https://www.cbioportal.org/",
@@ -2022,6 +2035,19 @@
       "genomics",
       "web"
     ]
+  },
+  {
+    "name": "chai-lab",
+    "type": "protein-structure-ai",
+    "url": "https://github.com/chaidiscovery/chai-lab",
+    "github": "chaidiscovery/chai-lab",
+    "tags": [
+      "protein",
+      "structure",
+      "ai"
+    ],
+    "description": "Chai-1, SOTA model for biomolecular structure prediction",
+    "stars_snapshot_2026_11_22": 2016
   },
   {
     "name": "ColabFold",
@@ -2265,32 +2291,6 @@
     "stars_snapshot_2026_05_30": 89
   },
   {
-    "name": "alphafold3",
-    "type": "protein-structure-ai",
-    "url": "https://github.com/google-deepmind/alphafold3",
-    "github": "google-deepmind/alphafold3",
-    "tags": [
-      "protein",
-      "structure",
-      "ai"
-    ],
-    "description": "AlphaFold 3 inference pipeline.",
-    "stars_snapshot_2026_11_22": 8798
-  },
-  {
-    "name": "chai-lab",
-    "type": "protein-structure-ai",
-    "url": "https://github.com/chaidiscovery/chai-lab",
-    "github": "chaidiscovery/chai-lab",
-    "tags": [
-      "protein",
-      "structure",
-      "ai"
-    ],
-    "description": "Chai-1, SOTA model for biomolecular structure prediction",
-    "stars_snapshot_2026_11_22": 2016
-  },
-  {
     "name": "ESM",
     "type": "protein-language-model",
     "url": "https://github.com/facebookresearch/esm",
@@ -2366,6 +2366,34 @@
     "pushed_at": "2026-11-15T13:31:05Z",
     "forks_snapshot": 0,
     "stars_snapshot_2026_11_18": 192
+  },
+  {
+    "name": "Med-PaLM",
+    "type": "discovered-github-repo",
+    "url": "https://github.com/kyegomez/Med-PaLM",
+    "github": "kyegomez/Med-PaLM",
+    "tags": [
+      "auto-discovered",
+      "biomedical",
+      "deep-learning",
+      "gpt4",
+      "multimodal",
+      "multimodal-deep-learning",
+      "multimodality",
+      "opensource"
+    ],
+    "description": "Towards Generalist Biomedical AI",
+    "homepage": "https://discord.gg/qUtxnK2NMf",
+    "discovered": true,
+    "discovered_at": "2026-05-25",
+    "discovery_source": "GitHub Search API",
+    "discovery_reason": "topic:biomedical; stars:432; text:biomedical+ai",
+    "language": "Python",
+    "license": "MIT",
+    "updated_at": "2026-04-06T12:05:32Z",
+    "pushed_at": "2024-02-17T09:07:00Z",
+    "forks_snapshot": 59,
+    "stars_snapshot_2026_05_25": 432
   },
   {
     "name": "sylph",

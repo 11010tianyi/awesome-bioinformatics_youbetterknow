@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T03:49:32.069Z",
+  "generatedAt": "2026-11-22T08:07:21.849Z",
   "date": "2026-11-22",
   "projects": [
     {
       "id": "danielecook-awesome-bioinformatics",
       "name": "Awesome-Bioinformatics",
       "repo": "danielecook/Awesome-Bioinformatics",
-      "stars": 4370,
+      "stars": 4371,
       "forks": 761,
       "score": 131.8
     },
@@ -22,7 +22,7 @@
       "id": "jwohlwend-boltz",
       "name": "boltz",
       "repo": "jwohlwend/boltz",
-      "stars": 4332,
+      "stars": 4334,
       "forks": 925,
       "score": 126.8
     },
@@ -54,7 +54,7 @@
       "id": "thetahealth-mirobody",
       "name": "mirobody",
       "repo": "thetahealth/mirobody",
-      "stars": 1651,
+      "stars": 1653,
       "forks": 282,
       "score": 125.3
     },
@@ -70,8 +70,8 @@
       "id": "k-dense-ai-scientific-agent-skills",
       "name": "scientific-agent-skills",
       "repo": "K-Dense-AI/scientific-agent-skills",
-      "stars": 58042,
-      "forks": 5086,
+      "stars": 58061,
+      "forks": 5085,
       "score": 124.6
     },
     {
@@ -136,6 +136,14 @@
       "repo": "epam/ketcher",
       "stars": 945,
       "forks": 267,
+      "score": 122.9
+    },
+    {
+      "id": "aaryansamanta-ai-research-publications",
+      "name": "ai-research-publications",
+      "repo": "aaryansamanta/ai-research-publications",
+      "stars": 664,
+      "forks": 0,
       "score": 122.9
     },
     {
@@ -206,7 +214,7 @@
       "id": "deepchem-deepchem",
       "name": "deepchem",
       "repo": "deepchem/deepchem",
-      "stars": 7152,
+      "stars": 7153,
       "forks": 2414,
       "score": 121.1
     },
@@ -350,8 +358,8 @@
       "id": "google-deepmind-alphafold3",
       "name": "alphafold3",
       "repo": "google-deepmind/alphafold3",
-      "stars": 8798,
-      "forks": 1408,
+      "stars": 8800,
+      "forks": 1407,
       "score": 117.7
     },
     {
@@ -414,7 +422,7 @@
       "id": "a-r-j-graphein",
       "name": "graphein",
       "repo": "a-r-j/graphein",
-      "stars": 1206,
+      "stars": 1207,
       "forks": 148,
       "score": 116.5
     },
@@ -435,20 +443,20 @@
       "score": 116.1
     },
     {
+      "id": "ai4s-research-awesome-ai-for-science",
+      "name": "awesome-ai-for-science",
+      "repo": "ai4s-research/awesome-ai-for-science",
+      "stars": 2113,
+      "forks": 278,
+      "score": 116
+    },
+    {
       "id": "biotite-dev-biotite",
       "name": "biotite",
       "repo": "biotite-dev/biotite",
       "stars": 988,
       "forks": 161,
       "score": 116
-    },
-    {
-      "id": "ai4s-research-awesome-ai-for-science",
-      "name": "awesome-ai-for-science",
-      "repo": "ai4s-research/awesome-ai-for-science",
-      "stars": 2111,
-      "forks": 278,
-      "score": 115.9
     },
     {
       "id": "aipoch-medical-research-skills",
@@ -519,7 +527,7 @@
       "name": "single-cell-best-practices",
       "repo": "theislab/single-cell-best-practices",
       "stars": 1305,
-      "forks": 282,
+      "forks": 281,
       "score": 114.7
     },
     {
@@ -774,7 +782,7 @@
       "id": "facebookresearch-esm",
       "name": "ESM",
       "repo": "facebookresearch/esm",
-      "stars": 4174,
+      "stars": 4175,
       "forks": 824,
       "score": 106.7
     },
